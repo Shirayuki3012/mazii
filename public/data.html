@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quản lý dữ liệu JLPT</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-icon">あ</div>
+        <div>
+          <div class="brand-title">JLPT Learning</div>
+          <div class="brand-subtitle">Data Manager</div>
+        </div>
+      </div>
+
+      <section class="panel-block">
+        <div class="section-title">Điều hướng</div>
+        <div class="nav-links">
+          <a class="nav-link" href="/">Học Flashcard</a>
+          <a class="nav-link" href="/quiz">Làm quiz</a>
+          <a class="nav-link active" href="/data">Quản lý dữ liệu</a>
+        </div>
+      </section>
+    </aside>
+
+    <main class="main-content data-main">
+      <header class="topbar">
+        <div>
+          <div class="page-kicker">Quản lý từ vựng</div>
+          <h1>Data Management</h1>
+        </div>
+      </header>
+
+      <section class="data-layout">
+        <section class="data-card import-card">
+          <div class="data-card-title">Nhập từ vựng từ Excel</div>
+          <p class="subtle-text">Mỗi file Excel cần có 3 cột: <b>word</b>, <b>phonetic</b>, <b>mean</b>. Có thể chọn nhiều file cùng lúc.</p>
+          <form id="import-form" enctype="multipart/form-data">
+            <div class="field-label">Cấp độ mặc định khi nhập</div>
+            <select class="import-level-select" id="import-level" name="level">
+              <option value="N5" selected>N5</option>
+              <option value="N4">N4</option>
+              <option value="N3">N3</option>
+              <option value="N2">N2</option>
+              <option value="N1">N1</option>
+            </select>
+            <div class="field-label">Khi gặp từ trùng</div>
+            <select class="import-level-select" id="duplicate-action" name="duplicateAction">
+              <option value="ask" selected>Hỏi trước khi thực hiện</option>
+              <option value="overwrite">Ghi đè toàn bộ</option>
+              <option value="skip">Bỏ qua toàn bộ</option>
+            </select>
+            <label class="file-drop">
+              <input type="file" name="excelFile" accept=".xlsx,.xls,.csv" multiple />
+              <span id="file-name">Chọn file Excel (có thể chọn nhiều file)</span>
+            </label>
+            <button class="primary-button full-button" type="submit">Tải lên dữ liệu</button>
+          </form>
+          <div class="upload-status" id="upload-status"></div>
+        </section>
+
+        <div id="duplicate-modal" class="duplicate-modal hidden" aria-hidden="true">
+          <div class="duplicate-modal-backdrop" data-close-duplicate-modal></div>
+          <div class="duplicate-modal-panel" role="dialog" aria-labelledby="duplicate-modal-title" aria-modal="true">
+            <div class="duplicate-modal-header">
+              <h2 id="duplicate-modal-title">Từ trùng lặp</h2>
+              <p id="duplicate-modal-summary" class="subtle-text"></p>
+            </div>
+            <div class="duplicate-list-wrap">
+              <table class="duplicate-table">
+                <thead>
+                  <tr>
+                    <th>Từ</th>
+                    <th>Dữ liệu hiện có</th>
+                    <th>Dữ liệu nhập mới</th>
+                  </tr>
+                </thead>
+                <tbody id="duplicate-table-body"></tbody>
+              </table>
+            </div>
+            <div class="duplicate-modal-actions">
+              <button type="button" class="primary-button" id="duplicate-overwrite-btn">Ghi đè toàn bộ</button>
+              <button type="button" class="small-button" id="duplicate-skip-btn">Bỏ qua toàn bộ</button>
+              <button type="button" class="small-button cancel-button" id="duplicate-cancel-btn">Hủy</button>
+            </div>
+          </div>
+        </div>
+
+        <section class="data-card table-card">
+          <div class="data-card-header">
+            <div class="data-card-title">Danh sách từ hiện có</div>
+            <div class="level-filter-wrap">
+              <label for="level-filter">Lọc theo level</label>
+              <select id="level-filter">
+                <option value="all">Tất cả</option>
+                <option value="N5">N5</option>
+                <option value="N4">N4</option>
+                <option value="N3">N3</option>
+                <option value="N2">N2</option>
+                <option value="N1">N1</option>
+              </select>
+            </div>
+          </div>
+          <div class="table-wrapper">
+            <table class="word-table">
+              <thead>
+                <tr>
+                  <th>WORD</th>
+                  <th>PHONETIC</th>
+                  <th>MEAN</th>
+                  <th>LEVEL</th>
+                  <th>THAO TÁC</th>
+                </tr>
+              </thead>
+              <tbody id="cards-table-body"></tbody>
+            </table>
+          </div>
+        </section>
+      </section>
+    </main>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

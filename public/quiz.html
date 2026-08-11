@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Làm quiz JLPT</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-icon">あ</div>
+        <div>
+          <div class="brand-title">JLPT Learning</div>
+          <div class="brand-subtitle">Quiz Kanji</div>
+        </div>
+      </div>
+
+      <section class="panel-block">
+        <div class="section-title">Cấp độ</div>
+        <div class="level-list" id="level-list"></div>
+      </section>
+
+      <section class="panel-block">
+        <div class="section-title">Điều hướng</div>
+        <div class="nav-links">
+          <a class="nav-link" href="/">Học Flashcard</a>
+          <a class="nav-link active" href="/quiz">Làm quiz</a>
+          <a class="nav-link" href="/data">Quản lý dữ liệu</a>
+        </div>
+      </section>
+    </aside>
+
+    <main class="main-content">
+      <header class="topbar">
+        <div>
+          <div class="page-kicker">Học tiếng Nhật</div>
+          <h1>Làm quiz</h1>
+        </div>
+      </header>
+
+      <section class="quiz-start-screen" id="quiz-start-screen">
+        <button class="primary-button quiz-start-button" id="start-button" type="button">
+          Bắt đầu học
+        </button>
+        <p class="quiz-start-hint" id="quiz-start-hint">
+          Chọn cấp độ ở sidebar, sau đó bấm bắt đầu để làm quiz kanji.
+        </p>
+      </section>
+
+      <section class="quiz-area hidden" id="quiz-area">
+        <div class="quiz-wrapper">
+          <div class="quiz-frame">
+            <button class="nav-button arrow-button" id="prev-button" type="button" aria-label="Câu trước">←</button>
+
+            <div class="quiz-container">
+              <div class="card-topbar">
+                <span class="level-badge" id="quiz-level">N5</span>
+                <div class="quiz-index-wrap">
+                  <span class="card-index" id="quiz-index">1/1</span>
+                  <span class="quiz-generation-status hidden" id="quiz-generation-status"></span>
+                </div>
+              </div>
+
+              <div class="quiz-card" id="quiz-card">
+                <div class="question-label" id="quiz-question-label">Điền kanji còn thiếu</div>
+                <div class="quiz-word" id="quiz-word"></div>
+                <div class="quiz-phonetic" id="quiz-phonetic"></div>
+                <div class="quiz-meaning" id="quiz-meaning"></div>
+
+                <div class="quiz-options" id="quiz-options"></div>
+
+                <div class="quiz-feedback hidden" id="quiz-feedback"></div>
+
+                <div class="quiz-waiting hidden" id="quiz-waiting">
+                  <div class="quiz-loading-text">Đang tạo câu tiếp theo...</div>
+                </div>
+              </div>
+
+              <div class="study-progress">
+                <div class="progress-label">
+                  <span>Tiến độ</span>
+                  <span id="progress-text">0%</span>
+                </div>
+                <div class="progress-track">
+                  <div class="progress-bar" id="progress-bar"></div>
+                </div>
+              </div>
+            </div>
+
+            <button class="nav-button arrow-button" id="next-button" type="button" aria-label="Câu tiếp theo">→</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="quiz-loading hidden" id="quiz-loading">
+        <div class="quiz-loading-text">Đang tạo câu hỏi đầu tiên...</div>
+      </section>
+    </main>
+  </div>
+
+  <script src="/static/quiz.js"></script>
+</body>
+</html>

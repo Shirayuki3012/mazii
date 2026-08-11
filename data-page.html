@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quản lý dữ liệu JLPT</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-icon">あ</div>
+        <div>
+          <div class="brand-title">JLPT Learning</div>
+          <div class="brand-subtitle">Data Manager</div>
+        </div>
+      </div>
+
+      <section class="panel-block">
+        <div class="section-title">Điều hướng</div>
+        <div class="nav-links">
+          <a class="nav-link" href="/">Học Flashcard</a>
+          <a class="nav-link active" href="/data">Quản lý dữ liệu</a>
+        </div>
+      </section>
+    </aside>
+
+    <main class="main-content data-main">
+      <header class="topbar">
+        <div>
+          <div class="page-kicker">Quản lý từ vựng</div>
+          <h1>Data Management</h1>
+        </div>
+      </header>
+
+      <section class="data-layout">
+        <section class="data-card import-card">
+          <div class="data-card-title">Nhập từ vựng từ Excel</div>
+          <p class="subtle-text">File Excel cần có 3 cột: <b>word</b>, <b>phonetic</b>, <b>mean</b>.</p>
+          <form id="import-form" enctype="multipart/form-data">
+            <label class="file-drop">
+              <input type="file" name="excelFile" accept=".xlsx,.xls,.csv" />
+              <span id="file-name">Chọn file Excel</span>
+            </label>
+            <button class="primary-button full-button" type="submit">Tải lên dữ liệu</button>
+          </form>
+          <div class="upload-status" id="upload-status"></div>
+        </section>
+
+        <section class="data-card table-card">
+          <div class="data-card-header">
+            <div class="data-card-title">Danh sách từ hiện có</div>
+            <div class="level-filter-wrap">
+              <label for="level-filter">Lọc theo level</label>
+              <select id="level-filter">
+                <option value="all">Tất cả</option>
+                <option value="N5">N5</option>
+                <option value="N4">N4</option>
+                <option value="N3">N3</option>
+                <option value="N2">N2</option>
+                <option value="N1">N1</option>
+              </select>
+            </div>
+          </div>
+          <div class="table-wrapper">
+            <table class="word-table">
+              <thead>
+                <tr>
+                  <th>WORD</th>
+                  <th>PHONETIC</th>
+                  <th>MEAN</th>
+                  <th>LEVEL</th>
+                  <th>THAO TÁC</th>
+                </tr>
+              </thead>
+              <tbody id="cards-table-body"></tbody>
+            </table>
+          </div>
+        </section>
+      </section>
+    </main>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

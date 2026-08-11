@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JLPT Flashcards</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-icon">あ</div>
+        <div>
+          <div class="brand-title">JLPT Learning</div>
+          <div class="brand-subtitle">Flashcards</div>
+        </div>
+      </div>
+
+      <section class="panel-block">
+        <div class="section-title">Cấp độ</div>
+        <div class="level-list" id="level-list"></div>
+      </section>
+
+      <section class="panel-block">
+        <div class="section-title">Bộ từ</div>
+        <div class="filter-list">
+          <label class="filter-row">
+            <input type="radio" name="studyFilter" value="all" checked />
+            <span>Toàn bộ flashcard</span>
+          </label>
+          <label class="filter-row">
+            <input type="radio" name="studyFilter" value="known" />
+            <span>Chỉ từ đã thuộc</span>
+          </label>
+          <label class="filter-row">
+            <input type="radio" name="studyFilter" value="unknown" />
+            <span>Chỉ từ chưa thuộc</span>
+          </label>
+          <label class="filter-row">
+            <input type="radio" name="studyFilter" value="unmarked" />
+            <span>Chỉ từ chưa đánh dấu</span>
+          </label>
+        </div>
+      </section>
+
+      <section class="panel-block">
+        <div class="section-title">Điều hướng</div>
+        <div class="nav-links">
+          <a class="nav-link active" href="/">Học Flashcard</a>
+          <a class="nav-link" href="/quiz">Làm quiz</a>
+          <a class="nav-link" href="/data">Quản lý dữ liệu</a>
+        </div>
+      </section>
+    </aside>
+
+    <main class="main-content">
+      <header class="topbar">
+        <div>
+          <div class="page-kicker">Học tiếng Nhật</div>
+          <h1>Flashcard JLPT</h1>
+        </div>
+        <div class="header-actions">
+          <button class="ghost-button" id="shuffle-button">Xáo trộn</button>
+          <button class="ghost-button" id="random-mode-button">Ngẫu nhiên: tắt</button>
+          <button class="primary-button" id="start-button">Bắt đầu học</button>
+        </div>
+      </header>
+
+      <section class="stats-row">
+        <div class="stat-card">
+          <div class="stat-label">Tổng từ</div>
+          <div class="stat-number" id="total-count">0</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Đã thuộc</div>
+          <div class="stat-number known-text" id="known-count">0</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Chưa thuộc</div>
+          <div class="stat-number unknown-text" id="unknown-count">0</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Chưa đánh dấu</div>
+          <div class="stat-number" id="unmarked-count">0</div>
+        </div>
+      </section>
+
+      <section class="flashcard-area">
+        <div class="flashcard-wrapper">
+          <div class="flashcard-frame">
+            <button class="nav-button arrow-button" id="prev-button" aria-label="Quay lại">←</button>
+
+            <div class="flashcard-container">
+              <div class="card-topbar">
+                <span class="level-badge" id="card-level">N5</span>
+                <span class="card-index" id="card-index">1/1</span>
+              </div>
+
+              <button class="flashcard" id="flashcard-button">
+                <div class="flashcard-inner">
+                  <div class="front-face">
+                    <div class="question-label">WORD</div>
+                    <div class="word-text" id="word-text">おはようございます</div>
+                  </div>
+                  <div class="back-face">
+                    <div class="question-label">WORD • PHONETIC • MEAN</div>
+                    <div class="back-word" id="back-word">おはようございます</div>
+                    <div class="back-phonetic" id="back-phonetic">ohayō gozaimasu</div>
+                    <div class="back-meaning" id="mean-text">Chào buổi sáng</div>
+                    <div class="separator"></div>
+                    <div class="back-meta">
+                      <span id="back-level">Level N5</span>
+                    </div>
+                  </div>
+                </div>
+              </button>
+
+              <div class="flashcard-actions">
+                <button class="icon-button" id="known-button">
+                  <span>↑</span> Đã thuộc
+                </button>
+                <button class="icon-button" id="unknown-button">
+                  <span>↓</span> Chưa thuộc
+                </button>
+                <button class="icon-button" id="flip-button">
+                  <span>␣</span> Xem mặt sau
+                </button>
+              </div>
+
+              <div class="study-progress">
+                <div class="progress-label">
+                  <span>Tiến độ</span>
+                  <span id="progress-text">0%</span>
+                </div>
+                <div class="progress-track">
+                  <div class="progress-bar" id="progress-bar"></div>
+                </div>
+              </div>
+            </div>
+
+            <button class="nav-button arrow-button" id="next-button" aria-label="Từ tiếp theo">→</button>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

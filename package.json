@@ -1,0 +1,15 @@
+{
+  "name": "mazii-japanese-flashcards",
+  "version": "1.0.0",
+  "description": "Node.js Japanese flashcard learning app for JLPT levels N5-N1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^2.1.1",
+    "xlsx": "^0.18.5"
+  }
+}
