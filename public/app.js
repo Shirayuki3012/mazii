@@ -93,6 +93,44 @@ function renderLevels() {
   });
 }
 
+// Lọc bỏ các card không còn khớp filter ra khỏi currentCards hiện tại,
+// giữ nguyên thứ tự (kể cả sau khi shuffle). Dùng khi mark known/unknown.
+// Trả về true nếu có thay đổi (card hiện tại bị loại bỏ).
+function applyFilterInPlace() {
+  if (!isFlashcardPage() || state.filter === 'all') {
+    return false;
+  }
+
+  const prevCard = state.currentCard;
+  const prevIndex = state.currentIndex;
+
+  state.currentCards = state.currentCards.filter(card => {
+    if (state.filter === 'known') return state.stats.known.has(card.word);
+    if (state.filter === 'unknown') return state.stats.unknown.has(card.word);
+    if (state.filter === 'unmarked') return !state.stats.known.has(card.word) && !state.stats.unknown.has(card.word);
+    return true;
+  });
+
+  if (!state.currentCards.length) {
+    state.currentIndex = 0;
+    state.currentCard = null;
+    return true;
+  }
+
+  // Nếu card trước vẫn còn trong danh sách, giữ index đó
+  const newIndex = state.currentCards.indexOf(prevCard);
+  if (newIndex !== -1) {
+    state.currentIndex = newIndex;
+    state.currentCard = prevCard;
+    return false;
+  }
+
+  // Card đã bị loại — điều chỉnh index
+  state.currentIndex = Math.min(prevIndex, state.currentCards.length - 1);
+  state.currentCard = state.currentCards[state.currentIndex];
+  return true;
+}
+
 function applyFilter() {
   if (!isFlashcardPage()) {
     state.currentCards = [];
@@ -157,8 +195,8 @@ function bindFlashcardEvents() {
       state.stats.known.add(state.currentCard.word);
       state.stats.unknown.delete(state.currentCard.word);
 
-      navigateCard(1);
-      applyFilter();
+      const removed = applyFilterInPlace();
+      if (!removed) navigateCard(1);
       updateStats();
       showCurrentCard();
     });
@@ -172,8 +210,8 @@ function bindFlashcardEvents() {
       state.stats.unknown.add(state.currentCard.word);
       state.stats.known.delete(state.currentCard.word);
 
-      navigateCard(1);
-      applyFilter();
+      const removed = applyFilterInPlace();
+      if (!removed) navigateCard(1);
       updateStats();
       showCurrentCard();
     });
@@ -214,8 +252,8 @@ function bindFlashcardEvents() {
       state.stats.known.add(state.currentCard.word);
       state.stats.unknown.delete(state.currentCard.word);
 
-      navigateCard(1);
-      applyFilter();
+      const removedUp = applyFilterInPlace();
+      if (!removedUp) navigateCard(1);
       updateStats();
       showCurrentCard();
     }
@@ -226,8 +264,8 @@ function bindFlashcardEvents() {
       state.stats.unknown.add(state.currentCard.word);
       state.stats.known.delete(state.currentCard.word);
 
-      navigateCard(1);
-      applyFilter();
+      const removedDown = applyFilterInPlace();
+      if (!removedDown) navigateCard(1);
       updateStats();
       showCurrentCard();
     }
