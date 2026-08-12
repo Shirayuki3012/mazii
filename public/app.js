@@ -18,6 +18,7 @@ async function init() {
   await loadCards();
 
   if (isFlashcardPage()) {
+    await loadProgress();
     renderLevels();
     bindFlashcardEvents();
     applyFilter();
@@ -43,6 +44,32 @@ async function loadCards() {
   const response = await fetch('/api/cards');
   const data = await response.json();
   state.cards = data.cards;
+}
+
+async function loadProgress() {
+  try {
+    const response = await fetch('/api/progress');
+    const data = await response.json();
+    state.stats.known = new Set(data.known || []);
+    state.stats.unknown = new Set(data.unknown || []);
+  } catch (e) {
+    // Nếu lỗi thì giữ nguyên Set rỗng
+  }
+}
+
+async function saveProgress() {
+  try {
+    await fetch('/api/progress', {
+      method: 'PUT',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        known: [...state.stats.known],
+        unknown: [...state.stats.unknown]
+      })
+    });
+  } catch (e) {
+    // Lỗi mạng — bỏ qua, không crash UI
+  }
 }
 
 function renderLevels() {
@@ -199,6 +226,7 @@ function bindFlashcardEvents() {
       if (!removed) navigateCard(1);
       updateStats();
       showCurrentCard();
+      saveProgress();
     });
   }
 
@@ -214,6 +242,7 @@ function bindFlashcardEvents() {
       if (!removed) navigateCard(1);
       updateStats();
       showCurrentCard();
+      saveProgress();
     });
   }
 
@@ -221,6 +250,15 @@ function bindFlashcardEvents() {
   if (flipButton) {
     flipButton.addEventListener('click', () => {
       flipCard();
+    });
+  }
+
+  const lookupButton = document.getElementById('lookup-button');
+  if (lookupButton) {
+    lookupButton.addEventListener('click', () => {
+      if (!state.currentCard) return;
+      const url = `https://mazii.net/vi-VN/search/word/javi/${encodeURIComponent(state.currentCard.word)}`;
+      window.open(url, '_blank', 'noopener,noreferrer');
     });
   }
 
@@ -256,6 +294,7 @@ function bindFlashcardEvents() {
       if (!removedUp) navigateCard(1);
       updateStats();
       showCurrentCard();
+      saveProgress();
     }
 
     if (event.key === 'ArrowDown') {
@@ -268,11 +307,19 @@ function bindFlashcardEvents() {
       if (!removedDown) navigateCard(1);
       updateStats();
       showCurrentCard();
+      saveProgress();
     }
 
     if (event.key === ' ') {
       event.preventDefault();
       flipCard();
+    }
+
+    if (event.key === '+') {
+      event.preventDefault();
+      if (!state.currentCard) return;
+      const url = `https://mazii.net/vi-VN/search/word/javi/${encodeURIComponent(state.currentCard.word)}`;
+      window.open(url, '_blank', 'noopener,noreferrer');
     }
   });
 

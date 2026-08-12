@@ -9,6 +9,7 @@ const PORT = process.env.PORT || 3000;
 const KANJI_SERVER_URL = process.env.KANJI_SERVER_URL || 'http://localhost:3001';
 const DATA_DIR = path.join(__dirname, 'data');
 const CARDS_FILE = path.join(DATA_DIR, 'cards.json');
+const PROGRESS_FILE = path.join(DATA_DIR, 'progress.json');
 const UPLOADS_DIR = path.join(__dirname, 'uploads');
 
 app.use(express.json());
@@ -53,6 +54,28 @@ function createCardReference(card, index) {
 }
 
 initializeCards();
+
+function readProgress() {
+  try {
+    if (!fs.existsSync(PROGRESS_FILE)) {
+      return { known: [], unknown: [] };
+    }
+    const raw = fs.readFileSync(PROGRESS_FILE, 'utf8');
+    const parsed = JSON.parse(raw);
+    return {
+      known: Array.isArray(parsed.known) ? parsed.known : [],
+      unknown: Array.isArray(parsed.unknown) ? parsed.unknown : []
+    };
+  } catch (error) {
+    console.error('Error reading progress.json:', error);
+    return { known: [], unknown: [] };
+  }
+}
+
+function writeProgress(known, unknown) {
+  const data = { known, unknown };
+  fs.writeFileSync(PROGRESS_FILE, JSON.stringify(data, null, 2));
+}
 
 function readCards() {
   try {
@@ -248,6 +271,25 @@ app.get('/api/levels', (req, res) => {
   const cards = readCards();
   const levels = [...new Set(cards.map(card => card.level))].sort();
   res.json({ levels });
+});
+
+app.get('/api/progress', (req, res) => {
+  const progress = readProgress();
+  res.json(progress);
+});
+
+app.put('/api/progress', (req, res) => {
+  const payload = req.body || {};
+  const known = Array.isArray(payload.known) ? payload.known.map(String) : [];
+  const unknown = Array.isArray(payload.unknown) ? payload.unknown.map(String) : [];
+
+  try {
+    writeProgress(known, unknown);
+    res.json({ message: 'Đã lưu tiến độ.', known: known.length, unknown: unknown.length });
+  } catch (error) {
+    console.error('Error writing progress.json:', error);
+    res.status(500).json({ message: 'Không thể lưu tiến độ.' });
+  }
 });
 
 app.put('/api/cards/:id', (req, res) => {

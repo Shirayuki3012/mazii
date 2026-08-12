@@ -716,6 +716,32 @@ h1 {
   color: var(--warning);
 }
 
+#lookup-button span {
+  font-style: normal;
+}
+
+#lookup-button {
+  border-color: #b3cfe8;
+  color: #1a4e7a;
+}
+
+#lookup-button:hover {
+  border-color: #1a4e7a;
+  background: #e8f2fb;
+  color: #1a4e7a;
+}
+
+kbd {
+  display: inline-block;
+  padding: 1px 6px;
+  border-radius: 5px;
+  border: 1px solid currentColor;
+  font-size: 11px;
+  font-family: inherit;
+  opacity: 0.7;
+  line-height: 1.6;
+}
+
 .nav-button {
   width: 54px;
   height: 54px;
