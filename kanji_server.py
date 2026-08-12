@@ -4,10 +4,18 @@ import random
 import threading
 from pathlib import Path
 
-import torch
 from flask import Flask, jsonify, request
 
-from kanji_similarity import KANJI_FILE, MODEL_FILE, KanjiAutoencoder, render_kanji
+# Thử import các thư viện AI — nếu thiếu thì chạy chế độ cache-only
+AI_AVAILABLE = False
+_ai_import_error = None
+
+try:
+    import torch
+    from kanji_similarity import KANJI_FILE, MODEL_FILE, KanjiAutoencoder, render_kanji
+    AI_AVAILABLE = True
+except ImportError as e:
+    _ai_import_error = str(e)
 
 BASE_DIR = Path(__file__).resolve().parent
 CACHE_FILE = "data/cache.json"
@@ -18,7 +26,10 @@ DEFAULT_COUNT = 3
 app = Flask(__name__)
 cache_lock = threading.Lock()
 
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+# Chỉ dùng khi AI_AVAILABLE
+if AI_AVAILABLE:
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
 model = None
 kanji_list = []
 embeddings = {}
@@ -45,6 +56,7 @@ def save_cache():
 
 
 def load_resources():
+    """Load model và tính embeddings — chỉ gọi khi AI_AVAILABLE."""
     global model, kanji_list, embeddings
 
     kanji_path = BASE_DIR / KANJI_FILE
@@ -95,6 +107,7 @@ def compute_all_similar(query: str):
 
 
 def get_all_similar(query: str):
+    """Trả về tất cả kanji giống query. Ưu tiên cache, nếu không có thì tính (chỉ khi AI_AVAILABLE)."""
     query = query.strip()
     if not query:
         return []
@@ -102,6 +115,10 @@ def get_all_similar(query: str):
     with cache_lock:
         if query in similarity_cache:
             return similarity_cache[query]
+
+    if not AI_AVAILABLE:
+        # Cache-only mode: không có entry -> trả về rỗng, không tính mới được
+        return []
 
     matches = compute_all_similar(query)
 
@@ -128,6 +145,7 @@ def find_similar_kanji(query: str, count: int = DEFAULT_COUNT):
 def health():
     return jsonify({
         "status": "ok",
+        "mode": "ai" if AI_AVAILABLE else "cache-only",
         "kanji_count": len(embeddings),
         "cache_count": len(similarity_cache),
     })
@@ -163,14 +181,23 @@ def similar_kanji():
             "count": len(results),
             "similar": results,
             "cached": was_cached,
+            "mode": "ai" if AI_AVAILABLE else "cache-only",
         }
     )
 
 
 if __name__ == "__main__":
-    print("Loading model, cache and kanji data...")
     load_cache()
-    load_resources()
+
+    if AI_AVAILABLE:
+        print("Chế độ: AI (torch + model)")
+        print("Loading model, cache and kanji data...")
+        load_resources()
+        print(f"Đã load {len(embeddings)} embeddings kanji")
+    else:
+        print(f"Chế độ: cache-only (lý do: {_ai_import_error})")
+        print("Chỉ dùng dữ liệu cache có sẵn, không tính similarity mới.")
+
     print(f"Kanji similarity server running at http://localhost:{PORT}")
     print(f"Loaded {len(similarity_cache)} cached kanji entries")
     app.run(host="0.0.0.0", port=PORT, debug=True)

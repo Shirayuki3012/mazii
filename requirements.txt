@@ -1,4 +1,8 @@
+# Bắt buộc
 flask>=3.0.0
+
+# Tùy chọn — cần để tính similarity kanji mới (chế độ AI)
+# Nếu không cài, server tự động chạy ở chế độ cache-only
 torch>=2.0.0
 torchvision>=0.15.0
 pillow>=10.0.0
