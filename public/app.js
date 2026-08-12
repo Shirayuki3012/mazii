@@ -822,6 +822,18 @@ function navigateCard(direction) {
 
   state.currentCard = state.currentCards[state.currentIndex];
   state.showingBack = false;
+
+  // Tắt transition để reset về mặt trước không bị nhìn thấy
+  const flashcard = document.getElementById('flashcard-button');
+  if (flashcard) {
+    flashcard.classList.add('no-transition');
+    flashcard.classList.remove('is-flipped');
+    // Bật lại transition sau 1 frame để flip tiếp theo vẫn có animation
+    requestAnimationFrame(() => {
+      flashcard.classList.remove('no-transition');
+    });
+  }
+
   showCurrentCard();
 }
 
