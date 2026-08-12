@@ -141,6 +141,7 @@ function applyFilterInPlace() {
   if (!state.currentCards.length) {
     state.currentIndex = 0;
     state.currentCard = null;
+    state.showingBack = false;
     return true;
   }
 
@@ -155,6 +156,7 @@ function applyFilterInPlace() {
   // Card đã bị loại — điều chỉnh index
   state.currentIndex = Math.min(prevIndex, state.currentCards.length - 1);
   state.currentCard = state.currentCards[state.currentIndex];
+  state.showingBack = false;
   return true;
 }
 
@@ -822,18 +824,6 @@ function navigateCard(direction) {
 
   state.currentCard = state.currentCards[state.currentIndex];
   state.showingBack = false;
-
-  // Tắt transition để reset về mặt trước không bị nhìn thấy
-  const flashcard = document.getElementById('flashcard-button');
-  if (flashcard) {
-    flashcard.classList.add('no-transition');
-    flashcard.classList.remove('is-flipped');
-    // Bật lại transition sau 1 frame để flip tiếp theo vẫn có animation
-    requestAnimationFrame(() => {
-      flashcard.classList.remove('no-transition');
-    });
-  }
-
   showCurrentCard();
 }
 
@@ -917,7 +907,19 @@ function showCurrentCard() {
   if (progressBar) progressBar.style.width = `${progressPercent}%`;
 
   const isFlipped = state.showingBack;
-  if (flashcard) flashcard.classList.toggle('is-flipped', isFlipped);
+  if (flashcard) {
+    if (!isFlipped && flashcard.classList.contains('is-flipped')) {
+      // Đang reset về mặt trước — tắt transition trực tiếp trên các face
+      const faces = flashcard.querySelectorAll('.front-face, .back-face');
+      faces.forEach(f => f.style.transition = 'none');
+      flashcard.classList.remove('is-flipped');
+      // Force reflow để browser chốt vị trí mới
+      void flashcard.offsetWidth;
+      faces.forEach(f => f.style.transition = '');
+    } else {
+      flashcard.classList.toggle('is-flipped', isFlipped);
+    }
+  }
 }
 
 function updateStats() {

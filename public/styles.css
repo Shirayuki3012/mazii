@@ -610,11 +610,6 @@ h1 {
   transition: transform 0.45s ease;
 }
 
-.flashcard.no-transition .front-face,
-.flashcard.no-transition .back-face {
-  transition: none;
-}
-
 .front-face {
   transform: rotateY(0deg);
 }
