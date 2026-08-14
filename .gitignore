@@ -1,2 +1,4 @@
+.env
 node_modules
 data/progress.json
+data/improve-log.jsonl

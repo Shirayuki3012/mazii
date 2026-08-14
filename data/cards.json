@@ -3,3998 +3,4569 @@
     "id": "card-スリッパ-N5-0",
     "word": "スリッパ",
     "phonetic": "スリッパ",
-    "mean": "dép lê; dép đi trong nhà",
-    "level": "N5"
+    "mean": "dép đi trong nhà (← slipper/Anh)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-習う-N5-1",
     "word": "習う",
     "phonetic": "ならう",
-    "mean": "học tập; luyện tập; học",
-    "level": "N5"
+    "mean": "học; luyện tập",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-勤める-N5-2",
     "word": "勤める",
     "phonetic": "つとめる",
     "mean": "làm việc",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-晩御飯-N5-3",
     "word": "晩御飯",
     "phonetic": "ばんごはん",
-    "mean": "bữa tối; cơm chiều; cơm tối",
-    "level": "N5"
+    "mean": "bữa tối",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-五つ-N5-4",
     "word": "五つ",
     "phonetic": "いつつ",
-    "mean": "năm cái; năm chiếc",
-    "level": "N5"
+    "mean": "năm cái",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-閉める-N5-5",
     "word": "閉める",
     "phonetic": "しめる",
     "mean": "đóng; gài",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-締める-N5-6",
     "word": "締める",
     "phonetic": "しめる",
-    "mean": "buộc; buộc chặt; vặn chặt; kín; vặn; vắt",
-    "level": "N5"
+    "mean": "buộc; vặn chặt; đóng chặt; vắt",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-差す-N5-7",
     "word": "差す",
     "phonetic": "さす",
-    "mean": "hửng nắng; chiếu sáng; giương ; mở dù; nhỏ",
-    "level": "N5"
+    "mean": "chiếu sáng; giương dù; nhỏ thuốc; hửng nắng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-花瓶-N5-8",
     "word": "花瓶",
-    "phonetic": "けびょう かへい はながめ かびん",
-    "mean": "bình hoa; lọ hoa; bình dùng để đựng hoa cúng; lọ hoa",
-    "level": "N5"
+    "phonetic": "かびん",
+    "mean": "bình hoa; lọ hoa",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-万年筆-N5-9",
     "word": "万年筆",
-    "phonetic": "まんねんふで まんねんぴつ まんねんひつ",
-    "mean": "bút máy; viết máy",
-    "level": "N5"
+    "phonetic": "まんねんひつ",
+    "mean": "bút máy",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-六つ-N5-10",
     "word": "六つ",
-    "phonetic": "むっつ むつ",
+    "phonetic": "むっつ",
     "mean": "sáu",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-夕べ-N5-11",
     "word": "夕べ",
     "phonetic": "ゆうべ",
-    "mean": "buổi chiều tối; lúc chạng vạng; buổi tối; đêm; tối qua",
-    "level": "N5"
+    "mean": "tối qua; buổi tối",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-閉まる-N5-12",
     "word": "閉まる",
     "phonetic": "しまる",
-    "mean": "đóng; bị đóng chặt; buộc chặt",
-    "level": "N5"
+    "mean": "đóng; bị đóng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-八百屋-N5-13",
     "word": "八百屋",
     "phonetic": "やおや",
-    "mean": "hàng rau; người bán rau quả",
-    "level": "N5"
+    "mean": "cửa hàng rau quả",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-背広-N5-14",
     "word": "背広",
     "phonetic": "せびろ",
     "mean": "bộ com lê",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ラジカセ-N5-15",
     "word": "ラジカセ",
     "phonetic": "ラジカセ",
-    "mean": "đài radio mở được cả đĩa cd; băng cát-xét; đài radio cassette",
-    "level": "N5"
+    "mean": "đài radio cassette (← radio cassette/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-再来年-N5-16",
     "word": "再来年",
-    "phonetic": "さいらいとし さらいねん",
-    "mean": "năm sau nữa; hai năm nữa",
-    "level": "N5"
+    "phonetic": "さらいねん",
+    "mean": "năm sau nữa",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-テープレコーダー-N5-17",
     "word": "テープレコーダー",
     "phonetic": "テープレコーダー",
-    "mean": "máy ghi âm; máy hát; máy thu băng",
-    "level": "N5"
+    "mean": "máy ghi âm (← tape recorder/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-九つ-N5-18",
     "word": "九つ",
     "phonetic": "ここのつ",
     "mean": "9 cái; 9 chiếc",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-曇る-N5-19",
     "word": "曇る",
-    "phonetic": "くぐもる くもる",
-    "mean": "nỗi lòng buồn chán; ủ ê; râm; bị nghẹt; không rõ ràng ; bị nén lại",
-    "level": "N5"
+    "phonetic": "くもる",
+    "mean": "trời nhiều mây; u ám; mờ đục; nghẹt mũi",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-字引-N5-20",
     "word": "字引",
     "phonetic": "じびき",
-    "mean": "từ điển; tự điển",
-    "level": "N5"
+    "mean": "từ điển",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-飴-N5-0",
     "word": "飴",
     "phonetic": "あめ",
-    "mean": "kẹo; kẹo ngậm; kẹo",
-    "level": "N5"
+    "mean": "kẹo",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-涼しい-N5-1",
     "word": "涼しい",
     "phonetic": "すずしい",
-    "mean": "bình tĩnh; mát; mát mẻ",
-    "level": "N5"
+    "mean": "mát mẻ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-吹く-N5-2",
     "word": "吹く",
     "phonetic": "ふく",
-    "mean": "dậy mùi; hắt hiu; phát ra; bốc ra; tỏa ra; thổi",
-    "level": "N5"
+    "mean": "thổi; tỏa ra; bốc ra",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-夕飯-N5-3",
     "word": "夕飯",
-    "phonetic": "ゆうはん ゆうめし",
-    "mean": "bữa ăn chiều",
-    "level": "N5"
+    "phonetic": "ゆうはん",
+    "mean": "bữa tối",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-スプーン-N5-4",
     "word": "スプーン",
     "phonetic": "スプーン",
-    "mean": "cái thìa; cái muỗng; muỗng; thìa; thìa; muỗng",
-    "level": "N5"
+    "mean": "thìa (← spoon/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-切手-N5-5",
     "word": "切手",
-    "phonetic": "きって きれて",
-    "mean": "tem; tem hàng; mảnh vải; mẩu vải; vải vụn; bàn tay bị cắt rời; bàn tay đứt",
-    "level": "N5"
+    "phonetic": "きって",
+    "mean": "tem",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-今晩-N5-6",
     "word": "今晩",
     "phonetic": "こんばん",
-    "mean": "đêm nay; tối nay",
-    "level": "N5"
+    "mean": "tối nay; đêm nay",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-封筒-N5-7",
     "word": "封筒",
-    "phonetic": "ふうとう ぶうとう",
-    "mean": "bao thư; phong bì; phong thơ; phong thư",
-    "level": "N5"
+    "phonetic": "ふうとう",
+    "mean": "phong bì; bao thư",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-牛肉-N5-8",
     "word": "牛肉",
     "phonetic": "ぎゅうにく",
     "mean": "thịt bò",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-浴びる-N5-9",
     "word": "浴びる",
     "phonetic": "あびる",
-    "mean": "rơi vào; ngập chìm; tắm; thu hút",
-    "level": "N5"
+    "mean": "tắm; dội; hứng chịu",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-鉛筆-N5-10",
     "word": "鉛筆",
     "phonetic": "えんぴつ",
-    "mean": "bút chì; viết chì",
-    "level": "N5"
+    "mean": "bút chì",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-切符-N5-11",
     "word": "切符",
     "phonetic": "きっぷ",
     "mean": "vé",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-上着-N5-12",
     "word": "上着",
-    "phonetic": "じょうい うわぎ",
-    "mean": "áo vét; áo khoác; áo; áo mặc phần thân trên; áo khoác; áo jacket",
-    "level": "N5"
+    "phonetic": "うわぎ",
+    "mean": "áo khoác",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-デパート-N5-13",
     "word": "デパート",
     "phonetic": "デパート",
-    "mean": "trung tâm thương mại",
-    "level": "N5"
+    "mean": "trung tâm thương mại (← department store/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-厚い-N5-14",
     "word": "厚い",
     "phonetic": "あつい",
-    "mean": "dày; dầy",
-    "level": "N5"
+    "mean": "dày",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-豚肉-N5-15",
     "word": "豚肉",
-    "phonetic": "ぶたにく とんにく",
-    "mean": "thịt heo; thịt lợn",
-    "level": "N5"
+    "phonetic": "ぶたにく",
+    "mean": "thịt heo",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-丸い-N5-16",
     "word": "丸い",
-    "phonetic": "まろい まるい",
+    "phonetic": "まるい",
     "mean": "tròn",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-弾く-N5-17",
     "word": "弾く",
-    "phonetic": "ひく はじく",
-    "mean": "chơi; đàn; gảy",
-    "level": "N5"
+    "phonetic": "ひく・はじく",
+    "mean": "ひく: chơi (nhạc cụ); はじく: búng, gảy, đẩy ra",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-石鹸-N5-18",
     "word": "石鹸",
     "phonetic": "せっけん",
     "mean": "xà phòng",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-鶏肉-N5-19",
     "word": "鶏肉",
-    "phonetic": "とりにく けいにく",
+    "phonetic": "とりにく",
     "mean": "thịt gà",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-明後日-N5-20",
     "word": "明後日",
-    "phonetic": "みょうごにち あさって",
+    "phonetic": "あさって",
     "mean": "ngày kia",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-脱ぐ-N5-21",
     "word": "脱ぐ",
     "phonetic": "ぬぐ",
-    "mean": "cởi ; bỏ; lột",
-    "level": "N5"
+    "mean": "cởi; bỏ; lột",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-並べる-N5-22",
     "word": "並べる",
     "phonetic": "ならべる",
-    "mean": "bày; sắp hàng; sắp; bày; bày đặt; bài trí",
-    "level": "N5"
+    "mean": "bày; sắp hàng; sắp đặt",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-セーター-N5-23",
     "word": "セーター",
     "phonetic": "セーター",
-    "mean": "áo len chui đầu; áo len dài tay",
-    "level": "N5"
+    "mean": "áo len (← sweater/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-作文-N5-24",
     "word": "作文",
-    "phonetic": "さくもん さくぶん",
-    "mean": "sự đặt câu; sự viết văn; sự làm văn; đoạn văn; làm thơ chữ hán; sáng tác thơ đường; viết hán thi; viết văn; làm văn; sáng tác văn xuôi",
-    "level": "N5"
+    "phonetic": "さくぶん",
+    "mean": "tập làm văn; bài văn",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-貸す-N5-25",
     "word": "貸す",
     "phonetic": "かす",
-    "mean": "bán đợ; cho vay; cho mượn",
-    "level": "N5"
+    "mean": "cho mượn; cho vay",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-一昨日-N5-26",
     "word": "一昨日",
-    "phonetic": "おとつい いっさくじつ おととい",
-    "mean": "bữa kia; ngày hôm kia",
-    "level": "N5"
+    "phonetic": "おととい・おとつい",
+    "mean": "ngày hôm kia",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-丈夫-N5-27",
     "word": "丈夫",
-    "phonetic": "たけお ますらお じょうふ じょうぶ",
-    "mean": "khỏe; khỏe mạnh; bền; chắc",
-    "level": "N5"
+    "phonetic": "じょうぶ",
+    "mean": "khỏe mạnh; bền; chắc",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-張る-N5-28",
     "word": "張る",
-    "phonetic": "ばる はる",
-    "mean": "căng cứng; phình ra; trải dài; kéo dài; căng ra; trương ra; căng ra; chăng ra; chăng; mắc; vênh vang; khoe khoang; căng; ra vẻ; tỏ vẻ; có vẻ như; hành xử như là; làm bộ",
-    "level": "N5"
+    "phonetic": "はる",
+    "mean": "căng; chăng; mắc; trải dài; phình ra; vênh vang",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-上る-N5-29",
     "word": "上る",
-    "phonetic": "あがる のぼる",
-    "mean": "đưa ra; tăng lên; đi lên; lên tới; thăng cấp; lên; tăng lên; đi lên; vào nhà; bước lên nhà; hoàn thành; xong; làm xong; tạnh; ngớt ; quang đãng; thăng chức; lên chức; thăng tiến; lo lắng; hồi hộp; run; khớp",
-    "level": "N5"
+    "phonetic": "あがる・のぼる",
+    "mean": "あがる: tăng lên, thăng tiến, vào nhà, hoàn thành, hồi hộp; のぼる: đi lên, leo lên",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-本棚-N5-30",
     "word": "本棚",
     "phonetic": "ほんだな",
-    "mean": "giá sách; kệ sách; tủ sách; kệ sách",
-    "level": "N5"
+    "mean": "giá sách",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-履く-N5-31",
     "word": "履く",
     "phonetic": "はく",
-    "mean": "đi; xỏ (giầy",
-    "level": "N5"
+    "mean": "đi; xỏ (giày, tất, quần)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-七つ-N5-32",
     "word": "七つ",
     "phonetic": "ななつ",
     "mean": "bảy cái",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-四つ-N5-33",
     "word": "四つ",
-    "phonetic": "よつ よっつ",
+    "phonetic": "よっつ",
     "mean": "bốn",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-磨く-N5-34",
     "word": "磨く",
     "phonetic": "みがく",
-    "mean": "đánh bóng; làm sáng bóng; mài bóng; mài; đánh; chải; trau chuốt; cải thiện; gọt giũa; xát",
-    "level": "N5"
+    "mean": "đánh bóng; chải; trau chuốt; cải thiện",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ハンカチ-N5-35",
     "word": "ハンカチ",
     "phonetic": "ハンカチ",
-    "mean": "khăn tay; khăn mùi xoa; khăn tay; mùi xoa",
-    "level": "N5"
+    "mean": "khăn tay (← handkerchief/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-泳ぐ-N5-36",
     "word": "泳ぐ",
     "phonetic": "およぐ",
-    "mean": "bơi; bơi lội; lội",
-    "level": "N5"
+    "mean": "bơi",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ボールペン-N5-37",
     "word": "ボールペン",
     "phonetic": "ボールペン",
-    "mean": "bút bi",
-    "level": "N5"
+    "mean": "bút bi (← ballpoint pen/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-賑やか-N5-38",
     "word": "賑やか",
     "phonetic": "にぎやか",
-    "mean": "sôi nổi; náo nhiệt; sống động; huyên náo",
-    "level": "N5"
+    "mean": "náo nhiệt; sôi nổi",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ストーブ-N5-39",
     "word": "ストーブ",
     "phonetic": "ストーブ",
-    "mean": "lò; lò sưởi",
-    "level": "N5"
+    "mean": "lò sưởi (← stove/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-交番-N5-40",
     "word": "交番",
     "phonetic": "こうばん",
     "mean": "đồn cảnh sát",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-一昨年-N5-41",
     "word": "一昨年",
-    "phonetic": "おととし いっさくねん",
-    "mean": "năm kia; hai năm trước",
-    "level": "N5"
+    "phonetic": "おととし・いっさくねん",
+    "mean": "năm kia",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-鳴く-N5-42",
     "word": "鳴く",
     "phonetic": "なく",
     "mean": "kêu; hót; hú; rống",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-曲がる-N5-43",
     "word": "曲がる",
     "phonetic": "まがる",
-    "mean": "cong; rẽ; thay đổi hướng đi; lệch; vẹo; méo; lệch lạc; không ngay thẳng; suy giảm",
-    "level": "N5"
+    "mean": "rẽ; cong; vẹo; lệch",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-お手洗い-N5-44",
     "word": "お手洗い",
     "phonetic": "おてあらい",
-    "mean": "toa-lét; nhà vệ sinh",
-    "level": "N5"
+    "mean": "nhà vệ sinh",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-八つ-N5-45",
     "word": "八つ",
-    "phonetic": "やっつ やつ",
-    "mean": "tám; thứ tám",
-    "level": "N5"
+    "phonetic": "やっつ",
+    "mean": "tám cái",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-茶碗-N5-46",
     "word": "茶碗",
     "phonetic": "ちゃわん",
-    "mean": "bát; bát ăn; cái chén; chén chè; tách trà; chén trà",
-    "level": "N5"
+    "mean": "bát; chén",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-晴れる-N5-47",
     "word": "晴れる",
     "phonetic": "はれる",
     "mean": "nắng; tạnh",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-一月-N5-48",
     "word": "一月",
-    "phonetic": "ひとつき いちげつ いちがつ",
-    "mean": "một tháng; tháng một; tháng giêng; tháng đầu tiên của năm",
-    "level": "N5"
+    "phonetic": "いちがつ・ひとつき",
+    "mean": "いちがつ: tháng một; ひとつき: một tháng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-灰皿-N5-49",
     "word": "灰皿",
     "phonetic": "はいざら",
-    "mean": "gạt tàn; dụng cụ đựng tro tàn",
-    "level": "N5"
+    "mean": "gạt tàn",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ナイフ-N5-0",
     "word": "ナイフ",
     "phonetic": "ナイフ",
-    "mean": "dao; con dao; dao; dao nhíp",
-    "level": "N5"
+    "mean": "dao (← knife/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-食堂-N5-1",
     "word": "食堂",
-    "phonetic": "しょくどう じきどう",
-    "mean": "buồng ăn; nhà ăn; bếp ăn; phòng ăn",
-    "level": "N5"
+    "phonetic": "しょくどう",
+    "mean": "nhà ăn; phòng ăn",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-覚える-N5-2",
     "word": "覚える",
     "phonetic": "おぼえる",
-    "mean": "cảm thấy; học; học thuộc; nhớ",
-    "level": "N5"
+    "mean": "nhớ; học thuộc; cảm thấy",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-開ける-N5-3",
     "word": "開ける",
-    "phonetic": "はだける あける ひらける",
-    "mean": "khai thông; ; mở mang; tiến bộ; mở rộng; dang rộng tay chân; mở to mắt hoặc miệng; phanh ra; mở toang; bị phanh ra; bị để hở; kết thúc; trôi qua; rạng sáng; bắt đầu năm mới; hết thời hạn; kết thúc; đục lỗ; xuyên qua; khoan; bỏ trống; để trống; dọn sạch; để cách; tạo khoảng cách; giãn cách; làm trống ; đổ ra; uống cạn; để dành thời gian; sắp xếp thời gian; vắng nhà; đi vắng; mở ; mở quà; mở khóa; mở; mở cửa kinh doanh; bắt đầu giao dịch",
-    "level": "N5"
+    "phonetic": "あける",
+    "mean": "mở; khai trương; đục lỗ; để trống; vắng nhà",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-先月-N5-4",
     "word": "先月",
     "phonetic": "せんげつ",
     "mean": "tháng trước",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-カレンダー-N5-5",
     "word": "カレンダー",
     "phonetic": "カレンダー",
-    "mean": "lịch; máy ca-len-da; máy định hình vải; niên lịch; quyển lịch",
-    "level": "N5"
+    "mean": "lịch (← calendar/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-三つ-N5-6",
     "word": "三つ",
-    "phonetic": "みつ みっつ",
+    "phonetic": "みっつ",
     "mean": "ba cái",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-洋服-N5-7",
     "word": "洋服",
     "phonetic": "ようふく",
-    "mean": "âu phục; quần áo; quần áo tây",
-    "level": "N5"
+    "mean": "quần áo tây",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-大使館-N5-8",
     "word": "大使館",
     "phonetic": "たいしかん",
-    "mean": "đại sứ quán; tòa đại sứ",
-    "level": "N5"
+    "mean": "đại sứ quán",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-暖かい-N5-9",
     "word": "暖かい",
-    "phonetic": "あたたかい あったかい",
-    "mean": "đầm ấm; êm ấm; nồng hậu; ấm áp; ôn hoà",
-    "level": "N5"
+    "phonetic": "あたたかい",
+    "mean": "ấm áp; nồng hậu",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-紅茶-N5-10",
     "word": "紅茶",
     "phonetic": "こうちゃ",
-    "mean": "chè đen; trà đen; hồng trà",
-    "level": "N5"
+    "mean": "hồng trà; trà đen",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-渡る-N5-11",
     "word": "渡る",
     "phonetic": "わたる",
-    "mean": "băng qua; đi qua; độ",
-    "level": "N5"
+    "mean": "băng qua; đi qua",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-渡す-N5-12",
     "word": "渡す",
     "phonetic": "わたす",
     "mean": "trao; đưa",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-火曜日-N5-13",
     "word": "火曜日",
-    "phonetic": "かようにち かようび",
-    "mean": "thứ ba; ngày thứ ba; thứ ba",
-    "level": "N5"
+    "phonetic": "かようび",
+    "mean": "thứ ba",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-水曜日-N5-14",
     "word": "水曜日",
     "phonetic": "すいようび",
-    "mean": "ngày thứ tư; thứ tư",
-    "level": "N5"
+    "mean": "thứ tư",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-止まる-N5-15",
     "word": "止まる",
-    "phonetic": "とまる とどまる やまる",
-    "mean": "cố định; đậu ở; đình chỉ; đứng; dừng lại; đứng lại; ngừng; tắc nghẽn; lưu lại; dừng lại; ngừng; ngớt; chấm dứt; kết thúc",
-    "level": "N5"
+    "phonetic": "とまる",
+    "mean": "dừng lại; đỗ; ngừng; đình chỉ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-入口-N5-16",
     "word": "入口",
-    "phonetic": "はいりくち いりぐち はいりぐち いりくち",
-    "mean": "cổng vào; cửa vào; lối vào; sự bắt đầu",
-    "level": "N5"
+    "phonetic": "いりぐち",
+    "mean": "cửa vào; lối vào",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-宿題-N5-17",
     "word": "宿題",
     "phonetic": "しゅくだい",
     "mean": "bài tập về nhà",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-細い-N5-18",
     "word": "細い",
-    "phonetic": "こまい ほそい",
-    "mean": "thon dài; mảnh mai; mỏng; cảm giác không đủ về số lượng; nhỏ; bé; li ti; vụn vặt; keo kiệt; bủn xỉn; chi li; tính toán chi li",
-    "level": "N5"
+    "phonetic": "ほそい",
+    "mean": "thon; mảnh; nhỏ; gầy; chi li",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-休む-N5-19",
     "word": "休む",
     "phonetic": "やすむ",
     "mean": "nghỉ; vắng mặt; ngủ",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-着く-N5-20",
     "word": "着く",
-    "phonetic": "はく つく",
-    "mean": "đến; tới; vào; giương cung; lên dây cung",
-    "level": "N5"
+    "phonetic": "つく",
+    "mean": "đến; tới",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-降る-N5-21",
     "word": "降る",
-    "phonetic": "くだる ふる",
-    "mean": "rơi; có nhiều",
-    "level": "N5"
+    "phonetic": "ふる",
+    "mean": "rơi (mưa, tuyết)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-辞書-N5-22",
     "word": "辞書",
     "phonetic": "じしょ",
-    "mean": "tự điển; từ điển",
-    "level": "N5"
+    "mean": "từ điển",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-交差点-N5-23",
     "word": "交差点",
     "phonetic": "こうさてん",
-    "mean": "bùng binh; ngã tư; điểm giao nhau; giao điểm",
-    "level": "N5"
+    "mean": "ngã tư; giao lộ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-靴下-N5-24",
     "word": "靴下",
     "phonetic": "くつした",
-    "mean": "bít tất; tất; tất chân; vớ; tất; vớ",
-    "level": "N5"
+    "mean": "tất; vớ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-吸う-N5-25",
     "word": "吸う",
     "phonetic": "すう",
-    "mean": "bú; hấp; hít; hít vào; hút; hớp; mút",
-    "level": "N5"
+    "mean": "hít; hút; hít vào",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-来月-N5-26",
     "word": "来月",
     "phonetic": "らいげつ",
     "mean": "tháng sau",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-木曜日-N5-27",
     "word": "木曜日",
     "phonetic": "もくようび",
-    "mean": "ngày thứ năm; thứ năm",
-    "level": "N5"
+    "mean": "thứ năm",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-出かける-N5-28",
     "word": "出かける",
     "phonetic": "でかける",
-    "mean": "đăng trình; ra; rời khỏi",
-    "level": "N5"
+    "mean": "ra ngoài; rời khỏi",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-洗う-N5-29",
     "word": "洗う",
     "phonetic": "あらう",
-    "mean": "giặt; rửa; tắm gội; tẩy; tẩy rửa; vo; xả",
-    "level": "N5"
+    "mean": "giặt; rửa; vo; tẩy rửa",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-疲れる-N5-30",
     "word": "疲れる",
     "phonetic": "つかれる",
-    "mean": "cũ rồi; mệt; mệt mỏi; mỏi; mỏi mệt; nhọc; nhọc mệt; nhọc nhằn; oải; rã rời",
-    "level": "N5"
+    "mean": "mệt; mệt mỏi",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-毎朝-N5-31",
     "word": "毎朝",
-    "phonetic": "まいあさ まいちょう",
-    "mean": "hàng sáng; mỗi sáng",
-    "level": "N5"
+    "phonetic": "まいあさ",
+    "mean": "mỗi sáng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-座る-N5-32",
     "word": "座る",
     "phonetic": "すわる",
-    "mean": "ngồi; ngồi xuống",
-    "level": "N5"
+    "mean": "ngồi",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-茶色-N5-33",
     "word": "茶色",
     "phonetic": "ちゃいろ",
-    "mean": "màu nâu nhạt",
-    "level": "N5"
+    "mean": "màu nâu",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-毎晩-N5-34",
     "word": "毎晩",
     "phonetic": "まいばん",
-    "mean": "đêm đêm; hàng tối; tối tối",
-    "level": "N5"
+    "mean": "hàng tối",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-黄色い-N5-35",
     "word": "黄色い",
     "phonetic": "きいろい",
     "mean": "vàng",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ネクタイ-N5-36",
     "word": "ネクタイ",
     "phonetic": "ネクタイ",
-    "mean": "cà vạt; ca vát; cavát; caravát; cà vạt",
-    "level": "N5"
+    "mean": "cà vạt (← necktie/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-フォーク-N5-37",
     "word": "フォーク",
     "phonetic": "フォーク",
-    "mean": "cái nĩa; dân ca; dân gian; dĩa; nĩa; nĩa; xiên; phân nhánh; chia ngả",
-    "level": "N5"
+    "mean": "cái nĩa (← fork/英); nhạc dân gian (← folk/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-太い-N5-38",
     "word": "太い",
     "phonetic": "ふとい",
-    "mean": "béo; dày; to; mập",
-    "level": "N5"
+    "mean": "to; dày; béo",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-留学生-N5-39",
     "word": "留学生",
     "phonetic": "りゅうがくせい",
-    "mean": "du học sinh; lưu học sinh; học sinh du học",
-    "level": "N5"
+    "mean": "du học sinh",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-咲く-N5-40",
     "word": "咲く",
     "phonetic": "さく",
     "mean": "nở",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-借りる-N5-41",
     "word": "借りる",
     "phonetic": "かりる",
-    "mean": "mượn; vay; thuê; mướn; nhờ; mượn; nhân dịp",
-    "level": "N5"
+    "mean": "mượn; vay; thuê",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-喫茶店-N5-42",
     "word": "喫茶店",
-    "phonetic": "きっさてん きっちゃてん",
-    "mean": "quán cà phê; quán trà; quán nước; tiệm giải khát; quán giải khát",
-    "level": "N5"
+    "phonetic": "きっさてん",
+    "mean": "quán cà phê",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-果物-N5-43",
     "word": "果物",
-    "phonetic": "かぶつ くだもの",
-    "mean": "hoa quả; trái cây; trái cây",
-    "level": "N5"
+    "phonetic": "くだもの",
+    "mean": "trái cây; hoa quả",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-コップ-N5-44",
     "word": "コップ",
     "phonetic": "コップ",
-    "mean": "cốc; cái cốc; cái cốc; cúp; cốc; ca; cái ly; ly",
-    "level": "N5"
+    "mean": "cốc; ly (← kop/蘭)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-箸-N5-45",
     "word": "箸",
     "phonetic": "はし",
     "mean": "đũa",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-降りる-N5-46",
     "word": "降りる",
     "phonetic": "おりる",
-    "mean": "bước xuống; hạ; rủ; sập; xuống",
-    "level": "N5"
+    "mean": "xuống (xe, tàu); bước xuống",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-曇り-N5-47",
     "word": "曇り",
     "phonetic": "くもり",
-    "mean": "mờ; không rõ; nhiều mây; sự không chính trực; trời âm u; trời đầy mây; vết nhơ",
-    "level": "N5"
+    "mean": "trời nhiều mây; sự u ám; vết nhơ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-台所-N5-48",
     "word": "台所",
     "phonetic": "だいどころ",
-    "mean": "nhà bếp; tình hình tài chính; việc thu chi tiền bạc",
-    "level": "N5"
+    "mean": "nhà bếp; tình hình tài chính",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-廊下-N5-49",
     "word": "廊下",
     "phonetic": "ろうか",
-    "mean": "hành lang; khe núi; hẻm núi hẹp",
-    "level": "N5"
+    "mean": "hành lang",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-風邪-N5-0",
     "word": "風邪",
-    "phonetic": "かぜ ふうじゃ",
-    "mean": "bị cảm",
-    "level": "N5"
+    "phonetic": "かぜ",
+    "mean": "cảm lạnh",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-お兄さん-N5-1",
     "word": "お兄さん",
     "phonetic": "おにいさん",
-    "mean": "anh trai; thưa anh; anh ơi; anh trai",
-    "level": "N5"
+    "mean": "anh trai; anh (cách gọi lịch sự)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-薄い-N5-2",
     "word": "薄い",
     "phonetic": "うすい",
-    "mean": "lạt; lỏng; lợt; mảnh dẻ; mỏng; mong manh; nhạt; nhợt",
-    "level": "N5"
+    "mean": "mỏng; nhạt; lỏng; lợt",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-遊ぶ-N5-3",
     "word": "遊ぶ",
-    "phonetic": "すさぶ あそぶ あすぶ",
-    "mean": "nô đùa; vui đùa; chơi; trở nên thô bạo; mất đi sự điềm tĩnh; trở nên hoang tàn; trở nên tiêu điều; trở nên cẩu thả; sa sút do thiếu tập trung; trở nên dữ dội; gào thét; thổi mạnh; lắng xuống; dịu đi; mất đà; làm theo ý muốn; vui chơi; đùa giỡn; dạo chơi; tự tiêu khiển; làm theo ý thích; tận hưởng bản thân; làm gì đó một cách mãnh liệt; làm gì đó một cách dữ dội; chơi đùa; tận hưởng; lười biếng; rong chơi",
-    "level": "N5"
+    "phonetic": "あそぶ",
+    "mean": "chơi; vui chơi; đùa giỡn; dạo chơi; nhàn rỗi",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-消える-N5-4",
     "word": "消える",
     "phonetic": "きえる",
     "mean": "biến mất; tan đi; tắt",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-帽子-N5-5",
     "word": "帽子",
     "phonetic": "ぼうし",
     "mean": "mũ; nón",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-教える-N5-6",
     "word": "教える",
     "phonetic": "おしえる",
-    "mean": "chỉ dẫn; chỉ dạy; dạy dỗ; chỉ bảo; dạy; kể; chỉ cho biết",
-    "level": "N5"
+    "mean": "dạy; chỉ bảo; kể cho biết",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-スカート-N5-7",
     "word": "スカート",
     "phonetic": "スカート",
-    "mean": "váy; váy; juýp; cáp scart; cổng scart; chân váy công sở",
-    "level": "N5"
+    "mean": "chân váy (← skirt/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-今朝-N5-8",
     "word": "今朝",
-    "phonetic": "こんちょう けさ いまあさ",
+    "phonetic": "けさ",
     "mean": "sáng nay",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-縦-N5-9",
     "word": "縦",
-    "phonetic": "たて ほしいまま よし",
-    "mean": "bề dọc; chiều dọc; độ dài; độ cao; dọc; tùy ý; thỏa thích; theo ý mình; ích kỷ; độc đoán; tùy tiện; cho dù; ngay cả khi; dẫu cho; đành vậy; thôi thì đành; đành chấp nhận vậy",
-    "level": "N5"
+    "phonetic": "たて",
+    "mean": "chiều dọc; bề dọc",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-忘れる-N5-10",
     "word": "忘れる",
     "phonetic": "わすれる",
-    "mean": "bỏ lại; đãng; quên bẵng; quên; lãng quên; vong",
-    "level": "N5"
+    "mean": "quên",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-机-N5-11",
     "word": "机",
-    "phonetic": "つき つくえ",
-    "mean": "bàn; bàn viết; bàn; bàn; bàn làm việc; bàn học",
-    "level": "N5"
+    "phonetic": "つくえ",
+    "mean": "bàn",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-返す-N5-12",
     "word": "返す",
     "phonetic": "かえす",
-    "mean": "trả; trả lại; chuyển lại",
-    "level": "N5"
+    "mean": "trả; trả lại",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-パーティ-N5-13",
     "word": "パーティ",
     "phonetic": "パーティ",
-    "mean": "bữa tiệc; phe",
-    "level": "N5"
+    "mean": "bữa tiệc (← party/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-狭い-N5-14",
     "word": "狭い",
     "phonetic": "せまい",
-    "mean": "bé; chật; chật chội; chật hẹp; eo hẹp; hẹp; nhỏ",
-    "level": "N5"
+    "mean": "hẹp; chật chội",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-金曜日-N5-15",
     "word": "金曜日",
     "phonetic": "きんようび",
-    "mean": "ngày thứ sáu; thứ sáu",
-    "level": "N5"
+    "mean": "thứ sáu",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-飛ぶ-N5-16",
     "word": "飛ぶ",
     "phonetic": "とぶ",
-    "mean": "bay nhảy; bay tán loạn; bay lả tả; bay; cất cánh bay; bay liệng; cắt đứt; chạy; cưỡi gió; không liên tiếp; bỏ cách; nhảy; nhảy qua; nhót; truyền bá; truyền; vượt cấp",
-    "level": "N5"
+    "mean": "bay; cất cánh; nhảy; nhảy qua; bỏ cách",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-地下鉄-N5-17",
     "word": "地下鉄",
     "phonetic": "ちかてつ",
-    "mean": "tàu điện ngầm; xe điện ngầm",
-    "level": "N5"
+    "mean": "tàu điện ngầm",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-お皿-N5-18",
     "word": "お皿",
     "phonetic": "おさら",
     "mean": "đĩa",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-黄色-N5-19",
     "word": "黄色",
-    "phonetic": "きいろ おうしょく こうしょく",
-    "mean": "màu vàng; vàng",
-    "level": "N5"
+    "phonetic": "きいろ",
+    "mean": "màu vàng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-冷たい-N5-20",
     "word": "冷たい",
-    "phonetic": "つめたい つべたい",
-    "mean": "lành lạnh; lạnh nhạt; lạnh lùng; lạnh; lạnh buốt; lạnh giá; lạnh lẽo; nguội lạnh",
-    "level": "N5"
+    "phonetic": "つめたい",
+    "mean": "lạnh; lạnh lẽo; lạnh nhạt",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-フィルム-N5-21",
     "word": "フィルム",
     "phonetic": "フィルム",
-    "mean": "dải phim; cuộn phim; phim; cuộn phim",
-    "level": "N5"
+    "mean": "phim; cuộn phim (← film/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-月曜日-N5-22",
     "word": "月曜日",
     "phonetic": "げつようび",
-    "mean": "ngày thứ hai; thứ hai",
-    "level": "N5"
+    "mean": "thứ hai",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-暗い-N5-23",
     "word": "暗い",
     "phonetic": "くらい",
-    "mean": "tối tăm; ảm đạm; âm u; tối; tối màu; u sầu; u ám; trầm; mờ ám; râm",
-    "level": "N5"
+    "mean": "tối; tối tăm; u ám; trầm tính",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-明るい-N5-24",
     "word": "明るい",
     "phonetic": "あかるい",
-    "mean": "tươi sáng; vui vẻ; sáng sủa; 法律に明るい:am hiểu pháp luật; xinh tươi",
-    "level": "N5"
+    "mean": "sáng sủa; tươi sáng; vui vẻ; am hiểu",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-晴れ-N5-25",
     "word": "晴れ",
-    "phonetic": "はれ ばれ",
+    "phonetic": "はれ",
     "mean": "trời nắng",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-夏休み-N5-26",
     "word": "夏休み",
     "phonetic": "なつやすみ",
     "mean": "nghỉ hè",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-昼ご飯-N5-27",
     "word": "昼ご飯",
     "phonetic": "ひるごはん",
-    "mean": "bữa ăn trưa",
-    "level": "N5"
+    "mean": "bữa trưa",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-答える-N5-28",
     "word": "答える",
-    "phonetic": "いらえる こたえる",
+    "phonetic": "こたえる",
     "mean": "trả lời; đáp lại",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-戸-N5-29",
     "word": "戸",
-    "phonetic": "と こ ど",
-    "mean": "cánh cửa; cửa; cánh cửa; cửa ra vào; lối vào nhà; ngôi nhà; hộ gia đình; gia đình; đơn vị hành chính hộ gia đình; thường gồm 20 đến 30 người; đơn vị đếm ngôi nhà; căn ; hộ; tửu lượng; khả năng uống rượu",
-    "level": "N5"
+    "phonetic": "と",
+    "mean": "cánh cửa; hộ gia đình; đơn vị đếm nhà",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-砂糖-N5-30",
     "word": "砂糖",
-    "phonetic": "さとう ざとう",
-    "mean": "đường; đường ăn",
-    "level": "N5"
+    "phonetic": "さとう",
+    "mean": "đường",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-醤油-N5-31",
     "word": "醤油",
-    "phonetic": "醤油 醬油 正油 しょう油 しょうゆ しょうゆう",
+    "phonetic": "しょうゆ",
     "mean": "xì dầu",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-着る-N5-32",
     "word": "着る",
     "phonetic": "きる",
-    "mean": "mặc; ướm",
-    "level": "N5"
+    "mean": "mặc",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-警官-N5-33",
     "word": "警官",
     "phonetic": "けいかん",
-    "mean": "cánh sát; cảnh sát; cánh sát viên",
-    "level": "N5"
+    "mean": "cảnh sát",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-冷蔵庫-N5-34",
     "word": "冷蔵庫",
     "phonetic": "れいぞうこ",
-    "mean": "kho ướp lạnh; tủ lạnh",
-    "level": "N5"
+    "mean": "tủ lạnh",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-レコード-N5-35",
     "word": "レコード",
     "phonetic": "レコード",
-    "mean": "đĩa nhựa; kỷ lục; sự ghi âm; sự thu thanh; ghi lại",
-    "level": "N5"
+    "mean": "đĩa than (← record/英); kỷ lục (← record/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-大勢-N5-36",
     "word": "大勢",
-    "phonetic": "たいせい おおぜい たいぜい",
-    "mean": "đại chúng; phần lớn mọi người; đám đông; nhiều người; xu thế chung; tình hình chung; dòng chảy chính; đại cục; thời thế; tình hình thế giới; xu hướng của thời đại; thế lực lớn; sức ảnh hưởng mạnh mẽ; quyền uy lớn",
-    "level": "N5"
+    "phonetic": "おおぜい",
+    "mean": "nhiều người; đám đông",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-飲み物-N5-37",
     "word": "飲み物",
     "phonetic": "のみもの",
-    "mean": "đồ uống; thức uống",
-    "level": "N5"
+    "mean": "đồ uống",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-郵便局-N5-38",
     "word": "郵便局",
     "phonetic": "ゆうびんきょく",
     "mean": "bưu điện",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-眼鏡-N5-39",
     "word": "眼鏡",
-    "phonetic": "がんきょう めがね",
-    "mean": "kính; kính mắt; mắt kính",
-    "level": "N5"
+    "phonetic": "めがね",
+    "mean": "kính mắt",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-撮る-N5-40",
     "word": "撮る",
     "phonetic": "とる",
-    "mean": "chụp ; làm",
-    "level": "N5"
+    "mean": "chụp ảnh; quay phim",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-傘-N5-41",
     "word": "傘",
-    "phonetic": "かさ からかさ がさ",
-    "mean": "cái ô; dù; ô; cái ô; ô; dù",
-    "level": "N5"
+    "phonetic": "かさ",
+    "mean": "cái ô",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-並ぶ-N5-42",
     "word": "並ぶ",
     "phonetic": "ならぶ",
-    "mean": "được xếp; được bài trí",
-    "level": "N5"
+    "mean": "xếp hàng; được xếp",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-出口-N5-43",
     "word": "出口",
     "phonetic": "でぐち",
-    "mean": "cổng ra; cửa ra; lối ra",
-    "level": "N5"
+    "mean": "cửa ra; lối ra",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-押す-N5-44",
     "word": "押す",
     "phonetic": "おす",
-    "mean": "ấn; nhấn; bấm; đẩy; đóng; mặc dù; bất kể; mặc kệ; áp đảo; bị muộn; bị trễ; bị lùi lịch; ép buộc",
-    "level": "N5"
+    "mean": "ấn; nhấn; bấm; đẩy",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-牛乳-N5-45",
     "word": "牛乳",
     "phonetic": "ぎゅうにゅう",
-    "mean": "sữa; sữa bò",
-    "level": "N5"
+    "mean": "sữa bò",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-玄関-N5-46",
     "word": "玄関",
     "phonetic": "げんかん",
-    "mean": "phòng ngoài; lối đi vào; sảnh trong nhà",
-    "level": "N5"
+    "mean": "sảnh vào; lối vào",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ズボン-N5-47",
     "word": "ズボン",
     "phonetic": "ズボン",
-    "mean": "quần; quần; quần dài",
-    "level": "N5"
+    "mean": "quần dài (← jupon/仏)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-エレベーター-N5-48",
     "word": "エレベーター",
     "phonetic": "エレベーター",
-    "mean": "thang máy",
-    "level": "N5"
+    "mean": "thang máy (← elevator/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-バター-N5-49",
     "word": "バター",
     "phonetic": "バター",
-    "mean": "bơ",
-    "level": "N5"
+    "mean": "bơ (← butter/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-危ない-N5-0",
     "word": "危ない",
     "phonetic": "あぶない",
-    "mean": "nghi ngờ; không rõ; không đáng tin; nguy; nguy hiểm; nguy kịch",
-    "level": "N5"
+    "mean": "nguy hiểm; nguy kịch; không đáng tin",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-レストラン-N5-1",
     "word": "レストラン",
     "phonetic": "レストラン",
-    "mean": "hiệu ăn; nhà hàng; nhà hàng; tiệm ăn; tiệm ăn",
-    "level": "N5"
+    "mean": "nhà hàng (← restaurant/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-開く-N5-2",
     "word": "開く",
-    "phonetic": "ひらく あく",
-    "mean": "mở; mở cửa",
-    "level": "N5"
+    "phonetic": "ひらく・あく",
+    "mean": "ひらく: mở, khai trương; あく: mở (cửa, hộp...)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-門-N5-3",
     "word": "門",
-    "phonetic": "かど もん",
-    "mean": "cổng; cửa ra vào; cổng; cánh cổng; cửa ra vào; cửa vào; cửa ải; nhà; một nhà; một gia đình; một hộ; môn phái; giờ đóng cửa; giờ giới nghiêm; ngành; khẩu",
-    "level": "N5"
+    "phonetic": "もん・かど",
+    "mean": "もん: cổng; ngành; môn phái; かど: cổng; cửa ra vào",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-散歩-N5-4",
     "word": "散歩",
     "phonetic": "さんぽ",
-    "mean": "sự tản bộ; sự đi dạo; đi dạo",
-    "level": "N5"
+    "mean": "đi dạo; tản bộ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-もう一度-N5-5",
     "word": "もう一度",
     "phonetic": "もういちど",
-    "mean": "lại; lần nữa; thêm một lần nữa",
-    "level": "N5"
+    "mean": "lần nữa; thêm một lần nữa",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-遠い-N5-6",
     "word": "遠い",
     "phonetic": "とおい",
-    "mean": "hẻo; viễn; xa lắc; xa xăm; xa; xa xôi; xa xa; không rõ; nghễnh ngãng",
-    "level": "N5"
+    "mean": "xa; xa xôi; xa xăm",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-熱い-N5-7",
     "word": "熱い",
     "phonetic": "あつい",
-    "mean": "nóng; nóng bỏng; nhiệt tình",
-    "level": "N5"
+    "mean": "nóng (nhiệt độ vật thể); nhiệt tình",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-飛行機-N5-8",
     "word": "飛行機",
     "phonetic": "ひこうき",
-    "mean": "máy bay; phi cơ; tàu bay",
-    "level": "N5"
+    "mean": "máy bay",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-毎週-N5-9",
     "word": "毎週",
     "phonetic": "まいしゅう",
-    "mean": "hàng tuần; mỗi tuần",
-    "level": "N5"
+    "mean": "hàng tuần",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-立つ-N5-10",
     "word": "立つ",
-    "phonetic": "たつ だつ",
-    "mean": "đứng; đứng lên; đứng dậy",
-    "level": "N5"
+    "phonetic": "たつ",
+    "mean": "đứng; đứng lên",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-晩-N5-11",
     "word": "晩",
     "phonetic": "ばん",
-    "mean": "buổi tối; đêm; muộn; tối",
-    "level": "N5"
+    "mean": "buổi tối; tối",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-洗濯-N5-12",
     "word": "洗濯",
-    "phonetic": "せんたく せんだく",
-    "mean": "sự giặt giũ; quần áo được giặt giũ",
-    "level": "N5"
+    "phonetic": "せんたく",
+    "mean": "sự giặt giũ; quần áo giặt",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-待つ-N5-13",
     "word": "待つ",
     "phonetic": "まつ",
-    "mean": "chờ; chờ đợi; đợi; đợi chờ; mong chờ; mong đợi; mong mỏi; trông đợi",
-    "level": "N5"
+    "mean": "chờ; đợi; mong đợi",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-テーブル-N5-14",
     "word": "テーブル",
     "phonetic": "テーブル",
-    "mean": "bàn; bàn; cái bàn",
-    "level": "N5"
+    "mean": "bàn (← table/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-漢字-N5-15",
     "word": "漢字",
     "phonetic": "かんじ",
-    "mean": "chữ hán; hán tự",
-    "level": "N5"
+    "mean": "chữ Hán",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-暑い-N5-16",
     "word": "暑い",
     "phonetic": "あつい",
-    "mean": "nóng; nóng nực; nực",
-    "level": "N5"
+    "mean": "nóng (thời tiết)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-歩く-N5-17",
     "word": "歩く",
-    "phonetic": "ありく あるく",
-    "mean": "đi bộ; đi; bước",
-    "level": "N5"
+    "phonetic": "あるく",
+    "mean": "đi bộ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-タクシー-N5-18",
     "word": "タクシー",
     "phonetic": "タクシー",
-    "mean": "tắc xi; tắc-xi; xe tắc xi",
-    "level": "N5"
+    "mean": "xe taxi (← taxi/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-立派-N5-19",
     "word": "立派",
     "phonetic": "りっぱ",
-    "mean": "sự tuyệt vời; sự tuyệt hảo; tuyệt vời; tuyệt hảo",
-    "level": "N5"
+    "mean": "tuyệt vời; xuất sắc; trang nghiêm",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-池-N5-20",
     "word": "池",
     "phonetic": "いけ",
-    "mean": "bàu; cái ao; ao; hồ; ao; cái ao",
-    "level": "N5"
+    "mean": "ao; hồ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-お弁当-N5-21",
     "word": "お弁当",
     "phonetic": "おべんとう",
     "mean": "cơm hộp; cơm trưa",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-生まれる-N5-22",
     "word": "生まれる",
     "phonetic": "うまれる",
-    "mean": "đản sinh; được sinh ra; sinh ra; lọt lòng; ra đời; sanh",
-    "level": "N5"
+    "mean": "được sinh ra; ra đời",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-コート-N5-23",
     "word": "コート",
     "phonetic": "コート",
-    "mean": "áo khoác; áo bành tô; áo choàng",
-    "level": "N5"
+    "mean": "áo khoác (← coat/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-先週-N5-24",
     "word": "先週",
     "phonetic": "せんしゅう",
-    "mean": "tuần lễ trước; tuần trước",
-    "level": "N5"
+    "mean": "tuần trước",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-お菓子-N5-25",
     "word": "お菓子",
     "phonetic": "おかし",
-    "mean": "bánh kẹo; kẹo; bánh ngọt",
-    "level": "N5"
+    "mean": "bánh kẹo",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-軽い-N5-26",
     "word": "軽い",
-    "phonetic": "かろい かるい",
+    "phonetic": "かるい",
     "mean": "nhẹ",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ペン-N5-27",
     "word": "ペン",
     "phonetic": "ペン",
-    "mean": "bút; bút máy; bút; bút máy; cây bút; viết máy",
-    "level": "N5"
+    "mean": "bút (← pen/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-広い-N5-28",
     "word": "広い",
     "phonetic": "ひろい",
-    "mean": "rộng; rộng rãi; rộng lớn",
-    "level": "N5"
+    "mean": "rộng; rộng rãi",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-階段-N5-29",
     "word": "階段",
     "phonetic": "かいだん",
-    "mean": "cầu thang; thang gác; thang lầu",
-    "level": "N5"
+    "mean": "cầu thang",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-汚い-N5-30",
     "word": "汚い",
-    "phonetic": "きたない 穢い",
-    "mean": "bẩn; ô uế; bẩn thỉu; bê bết; bệ rạc; cáu; cáu bẩn; dơ; dơ bẩn; dơ dáy; nhơ; nhơ bẩn; tắt mắt; táy máy; thấp hèn; hạ lưu; uế",
-    "level": "N5"
+    "phonetic": "きたない",
+    "mean": "bẩn; dơ; bẩn thỉu; thấp hèn",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-椅子-N5-31",
     "word": "椅子",
-    "phonetic": "いす いし",
-    "mean": "ghế; cái ghế; ghế",
-    "level": "N5"
+    "phonetic": "いす",
+    "mean": "ghế",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-切る-N5-32",
     "word": "切る",
     "phonetic": "きる",
-    "mean": "cắt; bẻ; đốn; xé; băm; lật; ấn định; thái; cúp; cắt đứt; hạ; bấm; ngắt; chặt; chọc tiết; cưa; đi qua; đi ngang qua; hạ giá; bán thấp hơn giá thành sản xuất; li dị; li thân; rọc; tạm ngừng; chấm dứt; đoạn giao; xắn",
-    "level": "N5"
+    "mean": "cắt; thái; chặt; băm; cưa; xé; ngắt; bấm; chấm dứt; hạ giá",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-背-N5-33",
     "word": "背",
-    "phonetic": "そびら せい せ",
-    "mean": "lưng",
-    "level": "N5"
+    "phonetic": "せ・せい",
+    "mean": "せ: lưng; せい: chiều cao, vóc dáng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-庭-N5-34",
     "word": "庭",
     "phonetic": "にわ",
     "mean": "sân; sân vườn",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-今月-N5-35",
     "word": "今月",
     "phonetic": "こんげつ",
     "mean": "tháng này",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-テープ-N5-36",
     "word": "テープ",
     "phonetic": "テープ",
-    "mean": "băng keo; băng cát sét; video; băng; dải dây; băng dính",
-    "level": "N5"
+    "mean": "băng dính; băng ghi âm; băng video (← tape/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-日曜日-N5-37",
     "word": "日曜日",
     "phonetic": "にちようび",
-    "mean": "chủ nhật; ngày chủ nhật; chúa nhật",
-    "level": "N5"
+    "mean": "chủ nhật",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-お父さん-N5-38",
     "word": "お父さん",
-    "phonetic": "おとっさん おとうさん",
+    "phonetic": "おとうさん",
     "mean": "bố",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-来週-N5-39",
     "word": "来週",
     "phonetic": "らいしゅう",
-    "mean": "tuần lễ sau; tuần sau",
-    "level": "N5"
+    "mean": "tuần sau",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-引く-N5-40",
     "word": "引く",
     "phonetic": "ひく",
-    "mean": "chăng; dẫn; kéo; rút; bị ; tra; trừ; uốn cong; trừ đi",
-    "level": "N5"
+    "mean": "kéo; dẫn; rút; trừ; tra; bị (cảm); uốn cong",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-歌う-N5-41",
     "word": "歌う",
     "phonetic": "うたう",
-    "mean": "ca; ca hát; hát; xướng",
-    "level": "N5"
+    "mean": "hát",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-青い-N5-42",
     "word": "青い",
     "phonetic": "あおい",
-    "mean": "xanh da trời; xanh lục còn xanh; thiếu kinh nghiệm",
-    "level": "N5"
+    "mean": "xanh; non nớt",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-消す-N5-43",
     "word": "消す",
     "phonetic": "けす",
-    "mean": "dập; tắt; xóa; loại bỏ; làm biến mất; khử; phi tang; phủ nhận; bác bỏ; giết; giết; trừ khử; thủ tiêu; giảm dần rồi dừng nhạc nền; dọn dẹp đạo cụ; chê bai; kinh hãi; hồn vía lên mây",
-    "level": "N5"
+    "mean": "tắt; dập; xóa; loại bỏ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-奥さん-N5-44",
     "word": "奥さん",
     "phonetic": "おくさん",
-    "mean": "bà; vợ; bà nhà; chị nhà",
-    "level": "N5"
+    "mean": "vợ; bà nhà",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-夕方-N5-45",
     "word": "夕方",
     "phonetic": "ゆうがた",
-    "mean": "ban hôm; hoàng hôn; chiều tối; xế chiều; xế tà",
-    "level": "N5"
+    "mean": "chiều tối",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-シャワー-N5-46",
     "word": "シャワー",
     "phonetic": "シャワー",
-    "mean": "buồng tắm vòi hoa sen; vòi hoa sen",
-    "level": "N5"
+    "mean": "vòi hoa sen (← shower/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-毎月-N5-47",
     "word": "毎月",
-    "phonetic": "まいつき まいげつ",
-    "mean": "hàng tháng; mỗi tháng; mọi tháng",
-    "level": "N5"
+    "phonetic": "まいつき・まいげつ",
+    "mean": "hàng tháng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-土曜日-N5-48",
     "word": "土曜日",
     "phonetic": "どようび",
-    "mean": "ngày thứ bẩy; thứ bảy",
-    "level": "N5"
+    "mean": "thứ bảy",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-アパート-N5-49",
     "word": "アパート",
     "phonetic": "アパート",
-    "mean": "khu nhà tập thể; nhà chung cư; căn hộ; nhà khối",
-    "level": "N5"
+    "mean": "căn hộ (← apartment/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-暇-N5-0",
     "word": "暇",
-    "phonetic": "いとま ひま",
-    "mean": "thời gian rảnh rỗi; thì giờ nhàn hạ; sự nghỉ ngơi; sự cáo từ; sự từ giã",
-    "level": "N5"
+    "phonetic": "ひま",
+    "mean": "thời gian rảnh rỗi; sự nghỉ ngơi; sự từ giã",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-天気-N5-1",
     "word": "天気",
     "phonetic": "てんき",
-    "mean": "thời tiết; thời tiết; trạng thái thời tiết",
-    "level": "N5"
+    "mean": "thời tiết",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-頼む-N5-2",
     "word": "頼む",
     "phonetic": "たのむ",
-    "mean": "cậy; khất; năn nỉ; nhờ; trông; trông cậy; yêu cầu; đề nghị; nhờ cậy",
-    "level": "N5"
+    "mean": "nhờ; yêu cầu; cậy nhờ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-白い-N5-3",
     "word": "白い",
-    "phonetic": "はくい しろい",
-    "mean": "màu trắng; sạch sẽ; trắng muốt; trắng; trắng trẻo; vô tội; xinh đẹp; quyến rũ; cuốn hút; bắt mắt; xịn; chất lượng; tuyệt vời; đỉnh; cao cấp",
-    "level": "N5"
+    "phonetic": "しろい",
+    "mean": "màu trắng; trắng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-コピー-N5-4",
     "word": "コピー",
     "phonetic": "コピー",
-    "mean": "sự sao chép; copy; phôtôcopy; sao chép",
-    "level": "N5"
+    "mean": "sao chép; bản sao; phôtôcopy (← copy/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-向こう-N5-5",
     "word": "向こう",
     "phonetic": "むこう",
-    "mean": "phía bên kia; mặt bên kia; cạnh bên kia; phía trước; phía đối diện",
-    "level": "N5"
+    "mean": "phía bên kia; phía đối diện",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-教室-N5-6",
     "word": "教室",
     "phonetic": "きょうしつ",
-    "mean": "buồng học; phòng học; lớp học",
-    "level": "N5"
+    "mean": "phòng học; lớp học",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ポスト-N5-7",
     "word": "ポスト",
     "phonetic": "ポスト",
-    "mean": "hộp thư; thùng thư; hòm thư; hộp thư; quá trình post máy tính; tự kiểm tra khi nguồn bật",
-    "level": "N5"
+    "mean": "hộp thư (← post/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-赤い-N5-8",
     "word": "赤い",
     "phonetic": "あかい",
     "mean": "đỏ",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-両親-N5-9",
     "word": "両親",
-    "phonetic": "ふたおや りょうしん",
-    "mean": "song thân; thân sinh; bố mẹ; phụ mẫu",
-    "level": "N5"
+    "phonetic": "りょうしん",
+    "mean": "bố mẹ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-今週-N5-10",
     "word": "今週",
     "phonetic": "こんしゅう",
-    "mean": "tuần lễ này; tuần này",
-    "level": "N5"
+    "mean": "tuần này",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-起きる-N5-11",
     "word": "起きる",
     "phonetic": "おきる",
-    "mean": "dấy; đứng dậy; ngồi dậy; bình phục; nhen nhúm; thức; thức dậy; dậy; xảy ra",
-    "level": "N5"
+    "mean": "thức dậy; xảy ra",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-食べ物-N5-12",
     "word": "食べ物",
-    "phonetic": "たべもの たべもん",
-    "mean": "đồ ăn; món ăn; thức ăn",
-    "level": "N5"
+    "phonetic": "たべもの",
+    "mean": "đồ ăn; thức ăn",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-荷物-N5-13",
     "word": "荷物",
     "phonetic": "にもつ",
     "mean": "hành lý",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-買い物-N5-14",
     "word": "買い物",
-    "phonetic": "かいもの かいもん",
-    "mean": "món hàng mua được; sự mua hàng; thứ cần mua",
-    "level": "N5"
+    "phonetic": "かいもの",
+    "mean": "việc mua sắm; món hàng mua",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-忙しい-N5-15",
     "word": "忙しい",
-    "phonetic": "せわしい いそがしい",
-    "mean": "bận; bận rộn; bề bộn; bộn; bộn rộn; chộn rộn; đa đoan; mắc bận; rộn",
-    "level": "N5"
+    "phonetic": "いそがしい",
+    "mean": "bận rộn",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-売る-N5-16",
     "word": "売る",
     "phonetic": "うる",
-    "mean": "bán; bán hàng",
-    "level": "N5"
+    "mean": "bán",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-時計-N5-17",
     "word": "時計",
-    "phonetic": "ときはかり とけい どけい",
+    "phonetic": "とけい",
     "mean": "đồng hồ",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-遅い-N5-18",
     "word": "遅い",
     "phonetic": "おそい",
-    "mean": "muộn màng; muộn; chậm; trễ",
-    "level": "N5"
+    "mean": "muộn; chậm",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-昼-N5-19",
     "word": "昼",
     "phonetic": "ひる",
-    "mean": "ban trưa; buổi trưa; ban ngày; trưa",
-    "level": "N5"
+    "mean": "buổi trưa; ban ngày",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-手紙-N5-20",
     "word": "手紙",
     "phonetic": "てがみ",
-    "mean": "bức thơ; bức thư; phong thơ; phong thư; thơ từ; thư; thư từ",
-    "level": "N5"
+    "mean": "thư; bức thư",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-辺-N5-21",
     "word": "辺",
-    "phonetic": "わたり へ へん ほとり べ",
-    "mean": "cạnh; nơi xa; nơi hẻo lánh; trình độ; mức độ; vùng; vùng lân cận; vùng phụ cận; khu vực xung quanh; nơi rất gần; hướng; vùng lân cận; vùng phụ cận; bờ biển; ven biển; bờ; khu vực; hướng; phía; thời gian; giai đoạn; mùa",
-    "level": "N5"
+    "phonetic": "へん・あたり・ほとり",
+    "mean": "へん: vùng, khu vực; あたり: vùng lân cận, xung quanh; ほとり: bờ, ven",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-文章-N5-22",
     "word": "文章",
-    "phonetic": "ぶんしょう もんじょう もんぞう",
-    "mean": "bài văn; đoạn văn; văn bản; phong thái; lễ nghi; một ngành học trong hệ thống giáo dục thời heian",
-    "level": "N5"
+    "phonetic": "ぶんしょう",
+    "mean": "bài văn; đoạn văn; văn bản",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-財布-N5-23",
     "word": "財布",
     "phonetic": "さいふ",
-    "mean": "bao tượng; bóp; đãy tiền; hầu bao; túi tiền; ví",
-    "level": "N5"
+    "mean": "ví",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-地図-N5-24",
     "word": "地図",
     "phonetic": "ちず",
-    "mean": "bản đồ; địa đồ",
-    "level": "N5"
+    "mean": "bản đồ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-男の子-N5-25",
     "word": "男の子",
-    "phonetic": "おとこのこ おのこ",
-    "mean": "cậu bé; con đực",
-    "level": "N5"
+    "phonetic": "おとこのこ",
+    "mean": "cậu bé",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-乗る-N5-26",
     "word": "乗る",
     "phonetic": "のる",
-    "mean": "cưỡi; lên xe; lên tàu; đi; vào ; có hứng",
-    "level": "N5"
+    "mean": "lên (xe, tàu); cưỡi; đi (xe); có hứng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-置く-N5-27",
     "word": "置く",
     "phonetic": "おく",
-    "mean": "bố trí; cho thuê chỗ ở; chừa ra; để chừa ra; đặt để; đặt; để; để nguyên trạng thái; kinh doanh; bán; mang theo; xếp",
-    "level": "N5"
+    "mean": "đặt; để; bố trí; kinh doanh",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-プール-N5-28",
     "word": "プール",
     "phonetic": "プール",
-    "mean": "bể; bể bơi; vùng chứa; vùng trữ",
-    "level": "N5"
+    "mean": "bể bơi (← pool/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-来年-N5-29",
     "word": "来年",
     "phonetic": "らいねん",
     "mean": "năm sau",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-お茶-N5-30",
     "word": "お茶",
     "phonetic": "おちゃ",
-    "mean": "chè; nước chè; trà; chè xanh; trà",
-    "level": "N5"
+    "mean": "trà; chè",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-朝ご飯-N5-31",
     "word": "朝ご飯",
     "phonetic": "あさごはん",
-    "mean": "bữa sáng; cơm sáng",
-    "level": "N5"
+    "mean": "bữa sáng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-短い-N5-32",
     "word": "短い",
     "phonetic": "みじかい",
-    "mean": "cụt; hụt; ngắn",
-    "level": "N5"
+    "mean": "ngắn",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-さあ-N5-33",
     "word": "さあ",
     "phonetic": "さあ",
-    "mean": "nào; thôi nào; tiếp đi",
-    "level": "N5"
+    "mean": "nào; thôi nào; để xem nào",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-静か-N5-34",
     "word": "静か",
     "phonetic": "しずか",
-    "mean": "yên tĩnh; yên lặng; điềm tĩnh",
-    "level": "N5"
+    "mean": "yên tĩnh; điềm tĩnh",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ギター-N5-35",
     "word": "ギター",
     "phonetic": "ギター",
-    "mean": "đàn ghita; ghita; đàn guitar",
-    "level": "N5"
+    "mean": "đàn guitar (← guitar/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-上げる-N5-36",
     "word": "上げる",
     "phonetic": "あげる",
-    "mean": "di chuyển lên cao; leo lên; đi lên; giơ lên; vớt ra; lấy ra; cho vào; mời vào; gấp; dọn; nôn; oẹ; ói; bốc lên; phun lên; lên; tăng; tiến bộ; cải thiện; cho học lên; cho đi học; nâng đỡ ai; cho ai thăng chức",
-    "level": "N5"
+    "mean": "nâng lên; giơ lên; tăng lên; hoàn thành; cho (ai đó cái gì); nôn",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-走る-N5-37",
     "word": "走る",
     "phonetic": "はしる",
-    "mean": "chạy; tẩu",
-    "level": "N5"
+    "mean": "chạy",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-医者-N5-38",
     "word": "医者",
     "phonetic": "いしゃ",
-    "mean": "bác sĩ; đại phu; thầy lang; thầy thuốc; y",
-    "level": "N5"
+    "mean": "bác sĩ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-お姉さん-N5-39",
     "word": "お姉さん",
     "phonetic": "おねえさん",
-    "mean": "chị; chị gái; thưa chị; chị ơi",
-    "level": "N5"
+    "mean": "chị gái; chị",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-下手-N5-40",
     "word": "下手",
-    "phonetic": "へた しもて したて したで",
-    "mean": "vụng về; kém; nửa vời; phía dưới; chỗ thấp hơn; hạ lưu; cánh trái; thế yếu hơn; chiếu dưới; khiêm nhường; hạ minh",
-    "level": "N5"
+    "phonetic": "へた・したて",
+    "mean": "へた: vụng về, kém; したて: thế yếu, khiêm nhường",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-見せる-N5-41",
     "word": "見せる",
     "phonetic": "みせる",
     "mean": "cho xem; cho thấy; chứng tỏ; bày tỏ",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ノート-N5-42",
     "word": "ノート",
     "phonetic": "ノート",
-    "mean": "vở; máy vi tính xách tay; sổ; vở; quyển vở; ghi chú",
-    "level": "N5"
+    "mean": "vở; máy tính xách tay (← note/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ポケット-N5-43",
     "word": "ポケット",
     "phonetic": "ポケット",
-    "mean": "túi; túi áo; túi quần; áo",
-    "level": "N5"
+    "mean": "túi (← pocket/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ペット-N5-44",
     "word": "ペット",
     "phonetic": "ペット",
-    "mean": "động vật cảnh; người được cưng chiều",
-    "level": "N5"
+    "mean": "thú cưng (← pet/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-時-N5-45",
     "word": "時々",
-    "phonetic": "ときどき じじ",
-    "mean": "có lúc; thỉnh thoảng; đôi khi; lắm khi",
-    "level": "N5"
+    "phonetic": "ときどき",
+    "mean": "thỉnh thoảng; đôi khi",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-重い-N5-46",
     "word": "重い",
     "phonetic": "おもい",
-    "mean": "nặng; nặng nề; trầm trọng",
-    "level": "N5"
+    "mean": "nặng; trầm trọng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-住む-N5-47",
     "word": "住む",
     "phonetic": "すむ",
-    "mean": "có thể giải quyết; có thể đối phó được; cư trú; ở; trả nợ; trả xong; trú; trú ngụ",
-    "level": "N5"
+    "mean": "sống; cư trú; ở",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-黒い-N5-48",
     "word": "黒い",
     "phonetic": "くろい",
-    "mean": "đen; u ám; đen tối",
-    "level": "N5"
+    "mean": "đen; u ám",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-図書館-N5-49",
     "word": "図書館",
-    "phonetic": "としょかん ずしょかん",
-    "mean": "thư quán; thư viện",
-    "level": "N5"
+    "phonetic": "としょかん",
+    "mean": "thư viện",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-授業-N5-0",
     "word": "授業",
     "phonetic": "じゅぎょう",
-    "mean": "buổi học; giờ học; sự giảng bài; sự lên lớp",
-    "level": "N5"
+    "mean": "giờ học; buổi học",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-隣-N5-1",
     "word": "隣",
-    "phonetic": "となり りん",
-    "mean": "bên cạnh; cạnh; sự giáp bên; sự ngay bên cạnh",
-    "level": "N5"
+    "phonetic": "となり",
+    "mean": "bên cạnh",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-風呂-N5-2",
     "word": "風呂",
-    "phonetic": "ふろ ぶろ",
-    "mean": "bể tắm; bồn tắm",
-    "level": "N5"
+    "phonetic": "ふろ",
+    "mean": "bồn tắm; phòng tắm",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-便利-N5-3",
     "word": "便利",
     "phonetic": "べんり",
     "mean": "thuận tiện; tiện lợi",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-自動車-N5-4",
     "word": "自動車",
     "phonetic": "じどうしゃ",
-    "mean": "xe con; xe hơi; xe ô tô; ô tô",
-    "level": "N5"
+    "mean": "ô tô",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-お風呂-N5-5",
     "word": "お風呂",
     "phonetic": "おふろ",
-    "mean": "bồn",
-    "level": "N5"
+    "mean": "bồn tắm; nhà tắm",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ボタン-N5-6",
     "word": "ボタン",
     "phonetic": "ボタン",
-    "mean": "cúc; khuy; khuy áo; nút bấm; nút để ấn; nút bấm; nút bắt đầu; phần start trên máy tính",
-    "level": "N5"
+    "mean": "cúc áo; nút bấm (← bouton/仏)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-緑-N5-7",
     "word": "緑",
     "phonetic": "みどり",
-    "mean": "màu xanh lá cây; xanh",
-    "level": "N5"
+    "mean": "màu xanh lá cây; màu xanh",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-窓-N5-8",
     "word": "窓",
     "phonetic": "まど",
-    "mean": "cửa sổ; khoảng trống giá; khoảng trống",
-    "level": "N5"
+    "mean": "cửa sổ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-自転車-N5-9",
     "word": "自転車",
-    "phonetic": "じてんしゃ じでんしゃ",
+    "phonetic": "じてんしゃ",
     "mean": "xe đạp",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-書く-N5-10",
     "word": "書く",
-    "phonetic": "かく かきます",
-    "mean": "viết; sáng tác; viết lách; viết",
-    "level": "N5"
+    "phonetic": "かく",
+    "mean": "viết; sáng tác",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-七-N5-11",
     "word": "七",
-    "phonetic": "しち なな",
-    "mean": "bảy; số bảy",
-    "level": "N5"
+    "phonetic": "しち・なな",
+    "mean": "bảy",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-掃除-N5-12",
     "word": "掃除",
     "phonetic": "そうじ",
-    "mean": "sự quét tước; sự dọn dẹp; sự quét dọn",
-    "level": "N5"
+    "mean": "sự dọn dẹp; sự quét dọn",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-六-N5-13",
     "word": "六",
-    "phonetic": "む むう ろく リュー ろっ",
+    "phonetic": "ろく・む・むい",
     "mean": "sáu; số sáu",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-辛い-N5-14",
     "word": "辛い",
-    "phonetic": "づらい からい つらい",
-    "mean": "cay; khó làm gì; khó lòng mà; đau đớn khi làm gì; nghiệt ngã; tàn nhẫn; khắc nghiệt; lạnh lùng; đau đớn; cay đắng; đau lòng; khó lòng chịu đựng; khó khăn; vất vả; gian nan; vô tâm; thiếu quan tâm; nhẫn tâm; oán hận; cảm thấy cay đắng trước thái độ lạnh nhạt của ai đó",
-    "level": "N5"
+    "phonetic": "からい・つらい",
+    "mean": "からい: cay; つらい: đau đớn, khó khăn, khắc nghiệt",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-六日-N5-15",
     "word": "六日",
-    "phonetic": "むゆか むよか むいか ろくにち",
-    "mean": "ngày thứ sáu",
-    "level": "N5"
+    "phonetic": "むいか",
+    "mean": "ngày mùng 6",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-七日-N5-16",
     "word": "七日",
-    "phonetic": "なぬか なのか しちにち",
-    "mean": "7 ngày; ngày thứ 7 của tháng",
-    "level": "N5"
+    "phonetic": "なのか",
+    "mean": "ngày mùng 7; 7 ngày",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-映画館-N5-17",
     "word": "映画館",
     "phonetic": "えいがかん",
-    "mean": "rạp chiếu phim; rạp; rạp chiếu bóng; trung tâm chiếu phim",
-    "level": "N5"
+    "mean": "rạp chiếu phim",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-靴-N5-18",
     "word": "靴",
-    "phonetic": "くつ ぐつ",
-    "mean": "giày; dép; guốc",
-    "level": "N5"
+    "phonetic": "くつ",
+    "mean": "giày",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-寝る-N5-19",
     "word": "寝る",
     "phonetic": "ねる",
-    "mean": "đặt lưng; đặt mình; nằm; ngả lưng; ngủ",
-    "level": "N5"
+    "mean": "ngủ; nằm",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-キロ-N5-20",
     "word": "キロ",
     "phonetic": "キロ",
-    "mean": "ký lô; kilo; cân; ki lô",
-    "level": "N5"
+    "mean": "ki-lô (← kilo/仏)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-どうも-N5-21",
     "word": "どうも",
     "phonetic": "どうも",
-    "mean": "xin chào; cảm ơn; hơi hơi; có vẻ; mập mờ",
-    "level": "N5"
+    "mean": "xin chào; cảm ơn; có vẻ; không thể (dùng với phủ định)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-帰る-N5-22",
     "word": "帰る",
     "phonetic": "かえる",
-    "mean": "về; chạy về",
-    "level": "N5"
+    "mean": "về",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-お腹-N5-23",
     "word": "お腹",
     "phonetic": "おなか",
     "mean": "bụng",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-角-N5-24",
     "word": "角",
-    "phonetic": "かく かど つの すみ づの",
-    "mean": "sừng; góc",
-    "level": "N5"
+    "phonetic": "かく・かど・つの",
+    "mean": "かく: góc; かど: góc đường; つの: sừng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-弱い-N5-25",
     "word": "弱い",
     "phonetic": "よわい",
-    "mean": "hèn yếu; kém cỏi; không chắc; không bền; không chịu được; không chống lại; không gay gắt; không mãnh liệt; không rành; kém; yếu; làm không tốt; lỏng; mềm yếu; yếu đuối; nhát; mỏng; mỏng manh; mức độ thấp; nhẹ",
-    "level": "N5"
+    "mean": "yếu; kém; mỏng manh; không chịu được",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-卵-N5-26",
     "word": "卵",
-    "phonetic": "かいご かい たまご らん",
-    "mean": "trứng; quả trứng; noãn; tế bào trứng; phôi châu; trứng chim hoặc trứng gà còn nguyên vỏ; trứng; vỏ trứng",
-    "level": "N5"
+    "phonetic": "たまご",
+    "mean": "trứng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-話す-N5-27",
     "word": "話す",
     "phonetic": "はなす",
-    "mean": "bàn tán; chuyện; chuyện trò; kể lại; thuật lại; nói lại; mở miệng; nói; nói chuyện; nói; thốt",
-    "level": "N5"
+    "mean": "nói; nói chuyện; kể lại",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-鼻-N5-28",
     "word": "鼻",
-    "phonetic": "はな び",
+    "phonetic": "はな",
     "mean": "mũi",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-毎年-N5-29",
     "word": "毎年",
-    "phonetic": "まいねん まいとし",
-    "mean": "hàng năm; mỗi năm; mọi năm",
-    "level": "N5"
+    "phonetic": "まいとし",
+    "mean": "hàng năm; mỗi năm",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-二つ-N5-30",
     "word": "二つ",
     "phonetic": "ふたつ",
     "mean": "hai",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-では-N5-31",
     "word": "では",
     "phonetic": "では",
-    "mean": "thế thì; thế là",
-    "level": "N5"
+    "mean": "thế thì; vậy thì",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-働く-N5-32",
     "word": "働く",
     "phonetic": "はたらく",
-    "mean": "làm lụng; lao động; hoạt động; phạm ; làm việc; làm",
-    "level": "N5"
+    "mean": "làm việc; lao động; hoạt động",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-午前-N5-33",
     "word": "午前",
     "phonetic": "ごぜん",
-    "mean": "buổi sáng; vào buổi sáng; sáng",
-    "level": "N5"
+    "mean": "buổi sáng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-野菜-N5-34",
     "word": "野菜",
     "phonetic": "やさい",
     "mean": "rau; rau củ",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-塩-N5-35",
     "word": "塩",
-    "phonetic": "しお えん じお",
+    "phonetic": "しお",
     "mean": "muối",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-橋-N5-36",
     "word": "橋",
-    "phonetic": "はし きょう",
-    "mean": "cầu; cầu não",
-    "level": "N5"
+    "phonetic": "はし",
+    "mean": "cầu",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-歯-N5-37",
     "word": "歯",
-    "phonetic": "は よわい し ば",
+    "phonetic": "は",
     "mean": "răng",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-上手-N5-38",
     "word": "上手",
-    "phonetic": "じょうしゅ かみて うわて じょうず じょうて",
-    "mean": "giỏi; cừ; bậc thầy; chuyên gia; người tài giỏi; phía trên; bên trên; chỗ ngồi danh dự; thượng nguồn; phía thượng lưu; phía bên trái sân khấu ; phía bên phải sân khấu; chất lượng cao; thượng hạng; loại một; cao cấp",
-    "level": "N5"
+    "phonetic": "じょうず・かみて・うわて",
+    "mean": "じょうず: giỏi, khéo léo; かみて: phía trên, thượng nguồn, bên trái sân khấu; うわて: tay trên, người giỏi hơn, phía trên",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ドア-N5-39",
     "word": "ドア",
     "phonetic": "ドア",
-    "mean": "cửa; cửa; cửa ra vào; cánh cửa ra vào",
-    "level": "N5"
+    "mean": "cửa (← door/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-お母さん-N5-40",
     "word": "お母さん",
     "phonetic": "おかあさん",
-    "mean": "má; mẹ; mẹ ơi; thân mẫu",
-    "level": "N5"
+    "mean": "mẹ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-去年-N5-41",
     "word": "去年",
-    "phonetic": "こぞ きょねん",
-    "mean": "năm ngoái; năm trước; năm qua",
-    "level": "N5"
+    "phonetic": "きょねん",
+    "mean": "năm ngoái",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-鍵-N5-42",
     "word": "鍵",
-    "phonetic": "かぎ けん",
-    "mean": "chốt; khoá; cái chìa khoá; chìa khóa; chìa khóa; dụng cụ để khóa và mở khóa; phím ; bộ phận dùng đầu ngón tay để nhấn; manh mối; gợi ý; chìa khóa để giải quyết một bí ẩn",
-    "level": "N5"
+    "phonetic": "かぎ",
+    "mean": "chìa khóa; khóa; manh mối",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ご飯-N5-43",
     "word": "ご飯",
     "phonetic": "ごはん",
     "mean": "cơm; bữa cơm",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-甘い-N5-44",
     "word": "甘い",
-    "phonetic": "うまい あまい",
-    "mean": "ngon ngọt; ngọt; ngọt ngào; dễ chịu; trạng thái rẻ; ngọt; ngọt bùi",
-    "level": "N5"
+    "phonetic": "あまい",
+    "mean": "ngọt; ngọt ngào; dễ dãi; ngây thơ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-会う-N5-45",
     "word": "会う",
     "phonetic": "あう",
-    "mean": "gặp; hội ngộ",
-    "level": "N5"
+    "mean": "gặp",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-困る-N5-46",
     "word": "困る",
     "phonetic": "こまる",
     "mean": "bối rối; khó khăn; lúng túng",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-九-N5-47",
     "word": "九",
-    "phonetic": "この ここ ここの きゅう く チュー",
+    "phonetic": "きゅう・く",
     "mean": "số 9; chín",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-九日-N5-48",
     "word": "九日",
-    "phonetic": "ここぬか ここのか きゅうにち",
-    "mean": "mồng 9; ngày 9; ngày mồng 9; 9 ngày",
-    "level": "N5"
+    "phonetic": "ここのか",
+    "mean": "ngày mồng 9",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-寒い-N5-49",
     "word": "寒い",
-    "phonetic": "さむい さぶい",
-    "mean": "cóng; hàn; lành lạnh; lạnh lẽo; lạnh; lạnh giá; rét; trời lạnh",
-    "level": "N5"
+    "phonetic": "さむい",
+    "mean": "lạnh",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-クラス-N5-0",
     "word": "クラス",
     "phonetic": "クラス",
-    "mean": "lớp; lớp học; lớp; lớp học",
-    "level": "N5"
+    "mean": "lớp học (← class/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-五日-N5-1",
     "word": "五日",
-    "phonetic": "いつか ごにち",
-    "mean": "5 ngày; năm ngày; ngày mồng 5",
-    "level": "N5"
+    "phonetic": "いつか",
+    "mean": "ngày mồng 5; 5 ngày",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-飲む-N5-2",
     "word": "飲む",
     "phonetic": "のむ",
-    "mean": "húp; uống",
-    "level": "N5"
+    "mean": "uống; húp",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-旅行-N5-3",
     "word": "旅行",
     "phonetic": "りょこう",
-    "mean": "lữ hành; sự đi lại; sự du lịch; du lịch",
-    "level": "N5"
+    "mean": "du lịch",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-トイレ-N5-4",
     "word": "トイレ",
     "phonetic": "トイレ",
-    "mean": "nhà vệ sinh; cầu tiên; toa-lét; nhà vệ sinh",
-    "level": "N5"
+    "mean": "nhà vệ sinh (← toilet/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-早い-N5-5",
     "word": "早い",
     "phonetic": "はやい",
-    "mean": "sớm; nhanh chóng",
-    "level": "N5"
+    "mean": "sớm; nhanh",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-秋-N5-6",
     "word": "秋",
-    "phonetic": "あき とき しゅう",
-    "mean": "mùa thu; thu; thời điểm quyết định; lúc then chốt; thời khắc quan trọng; lúc nguy cấp",
-    "level": "N5"
+    "phonetic": "あき・しゅう",
+    "mean": "あき: mùa thu; しゅう: mùa thu (thường dùng trong từ ghép)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-生徒-N5-7",
     "word": "生徒",
     "phonetic": "せいと",
-    "mean": "học sinh; học trò",
-    "level": "N5"
+    "mean": "học sinh",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-練習-N5-8",
     "word": "練習",
     "phonetic": "れんしゅう",
-    "mean": "sự luyện tập; tập luyện",
-    "level": "N5"
+    "mean": "luyện tập; tập luyện",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-紙-N5-9",
     "word": "紙",
-    "phonetic": "し かみ",
+    "phonetic": "かみ",
     "mean": "giấy",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ゆっくり-N5-10",
     "word": "ゆっくり",
     "phonetic": "ゆっくり",
-    "mean": "chậm; chầm chậm; đủng đỉnh; rón rén; từ từ; thong thả",
-    "level": "N5"
+    "mean": "chậm; thong thả; thoải mái",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-弟-N5-11",
     "word": "弟",
-    "phonetic": "おとうと おとと おと てい",
-    "mean": "em trai; đệ; em trai; em gái; em; em trai ; em gái; con út; em út; em; đệ; em trai; đệ tử; đồ đệ; môn đệ; tiểu đệ; đệ",
-    "level": "N5"
+    "phonetic": "おとうと・てい",
+    "mean": "おとうと: em trai; てい: đệ tử, môn đệ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-横-N5-12",
     "word": "横",
     "phonetic": "よこ",
-    "mean": "bề ngang; bên cạnh; chiều ngang",
-    "level": "N5"
+    "mean": "bề ngang; bên cạnh",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-電気-N5-13",
     "word": "電気",
     "phonetic": "でんき",
-    "mean": "điện khí; điện; đèn điện; điện; điện lực",
-    "level": "N5"
+    "mean": "điện; điện lực; đèn điện",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-小さな-N5-14",
     "word": "小さな",
     "phonetic": "ちいさな",
     "mean": "nhỏ",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-小さい-N5-15",
     "word": "小さい",
-    "phonetic": "ちいさい ちさい",
-    "mean": "bé; bé bỏng; bé nhỏ; nhỏ; nhỏ bé; tí; tí hon",
-    "level": "N5"
+    "phonetic": "ちいさい",
+    "mean": "nhỏ; bé",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-川-N5-16",
     "word": "川",
-    "phonetic": "がわ かわ",
-    "mean": "con sông; sông",
-    "level": "N5"
+    "phonetic": "かわ",
+    "mean": "sông",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-兄-N5-17",
     "word": "兄",
-    "phonetic": "せ あに けい にい このかみ",
-    "mean": "anh trai",
-    "level": "N5"
+    "phonetic": "あに・けい",
+    "mean": "あに: anh trai; けい: anh trai (dùng trong từ ghép)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-冬-N5-18",
     "word": "冬",
     "phonetic": "ふゆ",
-    "mean": "đông; mùa đông",
-    "level": "N5"
+    "mean": "mùa đông",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-八-N5-19",
     "word": "八",
-    "phonetic": "はち や はっ やっ",
-    "mean": "tám; thứ tám",
-    "level": "N5"
+    "phonetic": "はち・や・やっ",
+    "mean": "tám",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-安い-N5-20",
     "word": "安い",
     "phonetic": "やすい",
-    "mean": "điềm tĩnh; yên tâm; rẻ; rẻ tiền; thấp",
-    "level": "N5"
+    "mean": "rẻ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-半分-N5-21",
     "word": "半分",
-    "phonetic": "はんぶん はんぷん",
-    "mean": "một nửa; một nửa; phân nửa; đến một mức độ đáng kể; nửa chừng; phần nào; nửa vời; một phần vì",
-    "level": "N5"
+    "phonetic": "はんぶん",
+    "mean": "một nửa; nửa chừng; phần nào",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-西-N5-22",
     "word": "西",
-    "phonetic": "にし せい さい シャー",
-    "mean": "hướng tây; phía tây; đằng tây; tây; phương tây; tây phương; tây ban nha; quân tây; gió tây; phía bên trái; phía bên trái ; phía bên phải; tây phương; tây phương tịnh độ; tây phương cực lạc",
-    "level": "N5"
+    "phonetic": "にし・せい",
+    "mean": "にし: hướng tây, phía tây; せい: phương tây, Tây Ban Nha",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-雑誌-N5-23",
     "word": "雑誌",
     "phonetic": "ざっし",
-    "mean": "tạp chí; tạp san; tập san",
-    "level": "N5"
+    "mean": "tạp chí",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-青-N5-24",
     "word": "青",
     "phonetic": "あお",
-    "mean": "màu xanh da trời; màu xanh nước biển",
-    "level": "N5"
+    "mean": "màu xanh dương; màu xanh lá cây",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-八日-N5-25",
     "word": "八日",
-    "phonetic": "はちにち ようか",
-    "mean": "ngày tám; mồng tám; tám ngày",
-    "level": "N5"
+    "phonetic": "ようか",
+    "mean": "ngày mồng tám; tám ngày",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-公園-N5-26",
     "word": "公園",
     "phonetic": "こうえん",
-    "mean": "công viên; uyển; vườn",
-    "level": "N5"
+    "mean": "công viên",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-終わる-N5-27",
     "word": "終わる",
     "phonetic": "おわる",
-    "mean": "chấm dứt; dứt; hoàn thành; đóng; kết thúc; xong; hết; trôi qua; vãn",
-    "level": "N5"
+    "mean": "kết thúc; xong; hoàn thành",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-東-N5-28",
     "word": "東",
-    "phonetic": "あずま ひがし ひむかし ひんがし あづま",
-    "mean": "đông; hướng đông",
-    "level": "N5"
+    "phonetic": "ひがし",
+    "mean": "phía đông; hướng đông",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-古い-N5-29",
     "word": "古い",
     "phonetic": "ふるい",
     "mean": "cũ; cổ; già",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-家庭-N5-30",
     "word": "家庭",
     "phonetic": "かてい",
     "mean": "gia đình; hộ gia đình",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-雪-N5-31",
     "word": "雪",
     "phonetic": "ゆき",
     "mean": "tuyết",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-後ろ-N5-32",
     "word": "後ろ",
     "phonetic": "うしろ",
-    "mean": "sau; đằng sau; phía sau",
-    "level": "N5"
+    "mean": "phía sau; đằng sau",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ラジオ-N5-33",
     "word": "ラジオ",
     "phonetic": "ラジオ",
-    "mean": "đài radio; cái đài; cái radio; máy thu thanh; máy vô tuyến truyền thanh; ra-di-o; truyền thanh; vô tuyến truyền thanh; radio; ra-đi-ô; ra-dô",
-    "level": "N5"
+    "mean": "đài radio (← radio/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-建物-N5-34",
     "word": "建物",
     "phonetic": "たてもの",
-    "mean": "tòa nhà; ngôi nhà; công trình kiến trúc",
-    "level": "N5"
+    "mean": "tòa nhà; công trình kiến trúc",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-痛い-N5-35",
     "word": "痛い",
     "phonetic": "いたい",
-    "mean": "đau; đau đớn; nhức",
-    "level": "N5"
+    "mean": "đau",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-病気-N5-36",
     "word": "病気",
-    "phonetic": "びょうき やまいけ",
-    "mean": "bệnh tật; bệnh; sự ốm; bịnh; đau ốm; ốm; ốm đau; tật bệnh; thói xấu; chứng; tật; triệu chứng bệnh; dấu hiệu bị bệnh; chớm bệnh; cảm thấy không khỏe; khó ở trong người",
-    "level": "N5"
+    "phonetic": "びょうき",
+    "mean": "bệnh; ốm đau",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-低い-N5-37",
     "word": "低い",
     "phonetic": "ひくい",
-    "mean": "lè tè; thấp",
-    "level": "N5"
+    "mean": "thấp; lùn",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-休み-N5-38",
     "word": "休み",
     "phonetic": "やすみ",
     "mean": "nghỉ; vắng mặt",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-取る-N5-39",
     "word": "取る",
     "phonetic": "とる",
-    "mean": "bắt giữ; biểu thị; biểu quyết; cầm lấy; cầm; nắm; giữ; kéo; cao tuổi; chiếm; dùng; sử dụng; hao phí; đảm nhiệm; đo; hấp thu; ăn; kiểm tra; ký lục; sao chép; lấy; dùng; lấy; lấy được; thu được; lí giải; giải thích; mua; thoát khỏi; bỏ ra; thu hồi; thu thập; thu; lấy; tiến hành ; chơi; trộm cắp; trừ; giải trừ; ước tính; xem ; đếm ; bắt; xử lý",
-    "level": "N5"
+    "mean": "cầm; nắm; lấy; chiếm; thu thập; ăn; đo; đảm nhiệm; trộm cắp",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-呼ぶ-N5-40",
     "word": "呼ぶ",
     "phonetic": "よぶ",
-    "mean": "gọi; mời; kêu tên; hô hào; hú; thu hút",
-    "level": "N5"
+    "mean": "gọi; mời; thu hút",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ベッド-N5-41",
     "word": "ベッド",
     "phonetic": "ベッド",
-    "mean": "giường; giường ngủ; giường",
-    "level": "N5"
+    "mean": "giường (← bed/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-知る-N5-42",
     "word": "知る",
     "phonetic": "しる",
-    "mean": "biết; hay tin; nhận ra",
-    "level": "N5"
+    "mean": "biết; nhận ra",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-シャツ-N5-43",
     "word": "シャツ",
     "phonetic": "シャツ",
-    "mean": "áo sơ mi công sở; áo sơ mi; áo sơ mi; áo cánh; sơ mi",
-    "level": "N5"
+    "mean": "áo sơ mi (← shirt/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-姉-N5-44",
     "word": "姉",
-    "phonetic": "し あね ねえ",
-    "mean": "tỷ; chị; chị của mình; chị; chị gái; cô gái trẻ; thiếu nữ",
-    "level": "N5"
+    "phonetic": "あね",
+    "mean": "chị gái",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-午後-N5-45",
     "word": "午後",
-    "phonetic": "ごご うまあと",
-    "mean": "vào buổi chiều; sau 12 giờ trưa; buổi chiều; chiều",
-    "level": "N5"
+    "phonetic": "ごご",
+    "mean": "buổi chiều; sau 12 giờ trưa",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-兄弟-N5-46",
     "word": "兄弟",
-    "phonetic": "けいてい きょうだい あにおとうと",
-    "mean": "anh em; anh chị em; người anh em; huynh đệ",
-    "level": "N5"
+    "phonetic": "きょうだい",
+    "mean": "anh em; anh chị em",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-魚-N5-47",
     "word": "魚",
-    "phonetic": "さかな な うお ぎょ とと",
-    "mean": "cá",
-    "level": "N5"
+    "phonetic": "さかな・うお・ぎょ",
+    "mean": "さかな: cá; うお: cá (văn chương); ぎょ: cá (dùng trong từ ghép)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-始まる-N5-48",
     "word": "始まる",
     "phonetic": "はじまる",
-    "mean": "bắt đầu; khởi đầu; 開始する; 遡る",
-    "level": "N5"
+    "mean": "bắt đầu",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-鳥-N5-49",
     "word": "鳥",
-    "phonetic": "とり どり",
-    "mean": "chim chóc; chim; gia cầm; điểu",
-    "level": "N5"
+    "phonetic": "とり",
+    "mean": "chim",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-誕生日-N5-0",
     "word": "誕生日",
-    "phonetic": "たんじょうび たんじょうにち",
-    "mean": "ngày sinh; ngày sinh nhật; ngày sinh nhật; ngày sinh",
-    "level": "N5"
+    "phonetic": "たんじょうび",
+    "mean": "sinh nhật",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-薬-N5-1",
     "word": "薬",
-    "phonetic": "やく くすり ぐすり",
-    "mean": "dược; thuốc; ma túy; thuốc phiện; hàng; đồ",
-    "level": "N5"
+    "phonetic": "くすり・やく",
+    "mean": "くすり: thuốc; やく: dược phẩm; thuốc chữa bệnh",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-歌-N5-2",
     "word": "歌",
-    "phonetic": "うた か",
+    "phonetic": "うた",
     "mean": "bài hát",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-大人-N5-3",
     "word": "大人",
-    "phonetic": "おとな うし おおびと だいにん たいじん",
+    "phonetic": "おとな",
     "mean": "người lớn; người trưởng thành",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-学生-N5-4",
     "word": "学生",
-    "phonetic": "がくせい がくしょう がくそう",
-    "mean": "sinh viên; học sinh; sinh viên tại đại học trung ương hoặc các trường địa phương; học sinh tại tư thục dành cho giới quý tộc; tăng sĩ chuyên nghiên cứu học thuật tại các ngôi chùa lớn như núi hiei hay núi koya; học tăng; học vấn; tri thức; kiến thức học thuật; tăng sĩ chuyên nghiên cứu học thuật; học tăng",
-    "level": "N5"
+    "phonetic": "がくせい",
+    "mean": "học sinh; sinh viên",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-右-N5-5",
     "word": "右",
     "phonetic": "みぎ",
-    "mean": "bên phải; phía bên phải; hữu",
-    "level": "N5"
+    "mean": "bên phải",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-料理-N5-6",
     "word": "料理",
     "phonetic": "りょうり",
-    "mean": "bữa ăn; sự nấu ăn; món ăn; bữa ăn",
-    "level": "N5"
+    "mean": "nấu ăn; món ăn",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-動物-N5-7",
     "word": "動物",
     "phonetic": "どうぶつ",
-    "mean": "động vật; muông thú; súc vật",
-    "level": "N5"
+    "mean": "động vật",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-春-N5-8",
     "word": "春",
-    "phonetic": "しゅん はる",
-    "mean": "mùa xuân; xuân",
-    "level": "N5"
+    "phonetic": "はる",
+    "mean": "mùa xuân",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-大好き-N5-9",
     "word": "大好き",
     "phonetic": "だいすき",
     "mean": "rất thích",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-出す-N5-10",
     "word": "出す",
-    "phonetic": "いだす だす",
-    "mean": "gửi đi; cho ra khỏi; xuất bản; lấy ra; đưa ra ngoài; rút ra; gửi đi; phái đi; cử đi; để lộ; làm lộ ra; cho thấy; xuất bản; công bố; công khai; phục vụ; dọn ra; tạo ra; sản sinh; gây ra; tăng ; dốc; bắt đầu; khởi đầu",
-    "level": "N5"
+    "phonetic": "だす",
+    "mean": "lấy ra; đưa ra; gửi đi; xuất bản; phục vụ; dọn ra; bắt đầu",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-カメラ-N5-11",
     "word": "カメラ",
     "phonetic": "カメラ",
-    "mean": "máy ảnh; máy ảnh; máy quay phim; máy chụp ảnh; máy quay phim",
-    "level": "N5"
+    "mean": "máy ảnh (← camera/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-大切-N5-12",
     "word": "大切",
-    "phonetic": "たいせち おおぎり たいせつ",
-    "mean": "quan trọng; sự quan trọng; thái miếng to; lát thịt hoặc cá lớn; màn cuối của buổi biểu diễn trong ngày; hồi cuối của vở kịch thứ hai; vở kịch ngắn một hồi sau vở kịch chính; tiết mục cuối của buổi diễn; màn trình diễn tập thể của toàn bộ dàn diễn viên; kết thúc của một sự việc; phần kết; đoạn kết",
-    "level": "N5"
+    "phonetic": "たいせつ",
+    "mean": "quan trọng; quý giá",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-銀行-N5-13",
     "word": "銀行",
     "phonetic": "ぎんこう",
-    "mean": "ngân hàng; nhà băng",
-    "level": "N5"
+    "mean": "ngân hàng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-近い-N5-14",
     "word": "近い",
     "phonetic": "ちかい",
-    "mean": "cận; gần; cạnh; kề sát; ngay cạnh; ngay sát; giống như; gần như; tương tự; thân thiết; mật thiết; thân cận; gần gũi",
-    "level": "N5"
+    "mean": "gần; thân thiết; gần như",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-空-N5-15",
     "word": "空",
-    "phonetic": "うろ うつせ うつぼ うつお くう から うつほ そら",
-    "mean": "bầu trời; tất cả mọi thứ đều là những hình vẽ dự kiến ​​do số phận tạo ra; và không có thực thể hay bản ngã vĩnh viễn",
-    "level": "N5"
+    "phonetic": "そら・くう・から",
+    "mean": "そら: bầu trời; くう: không trung, hư không; から: trống rỗng, rỗng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-少ない-N5-16",
     "word": "少ない",
     "phonetic": "すくない",
     "mean": "ít; ít ỏi",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-長い-N5-17",
     "word": "長い",
     "phonetic": "ながい",
-    "mean": "bao lâu; dài; lâu",
-    "level": "N5"
+    "mean": "dài; lâu",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-番号-N5-18",
     "word": "番号",
     "phonetic": "ばんごう",
-    "mean": "số hiệu; số liệu",
-    "level": "N5"
+    "mean": "số hiệu; số thứ tự",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-肉-N5-19",
     "word": "肉",
-    "phonetic": "しし にく",
+    "phonetic": "にく",
     "mean": "thịt",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-皆さん-N5-20",
     "word": "皆さん",
-    "phonetic": "みなさん みんなさん",
+    "phonetic": "みなさん",
     "mean": "mọi người",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-村-N5-21",
     "word": "村",
-    "phonetic": "そん むら",
-    "mean": "thôn xã; xã; làng; làng mạc",
-    "level": "N5"
+    "phonetic": "むら・そん",
+    "mean": "むら: làng; そん: thôn xã",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-四-N5-22",
     "word": "四",
-    "phonetic": "よう よん よ し スー よっ",
+    "phonetic": "よん・よ・し",
     "mean": "bốn",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-どうぞ-N5-23",
     "word": "どうぞ",
     "phonetic": "どうぞ",
     "mean": "xin mời",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-食べる-N5-24",
     "word": "食べる",
     "phonetic": "たべる",
     "mean": "ăn",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-電車-N5-25",
     "word": "電車",
     "phonetic": "でんしゃ",
-    "mean": "tàu điện; tàu lửa; xe điện; xe lửa",
-    "level": "N5"
+    "mean": "tàu điện",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-四日-N5-26",
     "word": "四日",
-    "phonetic": "よっか よんか しにち よんにち よっにち",
-    "mean": "bốn ngày; ngày mùng bốn",
-    "level": "N5"
+    "phonetic": "よっか",
+    "mean": "ngày mùng bốn; bốn ngày",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-聞く-N5-27",
     "word": "聞く",
     "phonetic": "きく",
     "mean": "nghe; hỏi",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ホテル-N5-28",
     "word": "ホテル",
     "phonetic": "ホテル",
-    "mean": "khách sạn",
-    "level": "N5"
+    "mean": "khách sạn (← hôtel/仏)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-入れる-N5-29",
     "word": "入れる",
-    "phonetic": "はいれる いれる",
-    "mean": "cho vào; bỏ vào; đút; kéo vào; trồng",
-    "level": "N5"
+    "phonetic": "いれる",
+    "mean": "cho vào; bỏ vào; đút vào; pha (trà, cà phê); bật (điện)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-有名-N5-30",
     "word": "有名",
     "phonetic": "ゆうめい",
-    "mean": "hữu danh; sự nổi tiếng; nổi tiếng; có danh",
-    "level": "N5"
+    "mean": "nổi tiếng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-雨-N5-31",
     "word": "雨",
-    "phonetic": "あめ う",
-    "mean": "cơn mưa; mưa; trận mưa",
-    "level": "N5"
+    "phonetic": "あめ・あま",
+    "mean": "mưa",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-外国-N5-32",
     "word": "外国",
-    "phonetic": "がいこく そとぐに とつくに",
-    "mean": "đất khách; ngoại quốc; nước ngoài; nước ngoài; ngoại quốc; xứ lạ; đất khách; phương xa; nước ngoài; hải ngoại",
-    "level": "N5"
+    "phonetic": "がいこく",
+    "mean": "nước ngoài",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-北-N5-33",
     "word": "北",
-    "phonetic": "きた ほく",
-    "mean": "phía bắc; miền bắc",
-    "level": "N5"
+    "phonetic": "きた・ほく",
+    "mean": "phía bắc",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-左-N5-34",
     "word": "左",
-    "phonetic": "さ ひだり",
-    "mean": "bên trái; trái; tả",
-    "level": "N5"
+    "phonetic": "ひだり・さ",
+    "mean": "ひだり: bên trái; さ: tả (phía bên trái)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-半-N5-35",
     "word": "半",
     "phonetic": "はん",
-    "mean": "bán; một nửa; nửa; rưỡi",
-    "level": "N5"
+    "mean": "một nửa; rưỡi",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-外国人-N5-36",
     "word": "外国人",
     "phonetic": "がいこくじん",
-    "mean": "ngoại nhân; người nước ngoài; người ngoại quốc",
-    "level": "N5"
+    "mean": "người nước ngoài",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-箱-N5-37",
     "word": "箱",
-    "phonetic": "はこ ぱこ ばこ",
-    "mean": "hộp; hòm; kiện hàng; thùng",
-    "level": "N5"
+    "phonetic": "はこ",
+    "mean": "hộp; thùng; kiện hàng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-赤-N5-38",
     "word": "赤",
     "phonetic": "あか",
     "mean": "màu đỏ",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-若い-N5-39",
     "word": "若い",
     "phonetic": "わかい",
-    "mean": "bé; bé bỏng; choai choai; chưa có kinh nghiệm; non nớt; 未熟; ít tuổi; nhỏ; 若い番号:số nhỏ; nhỏ tuổi; non nớt; non trẻ; trẻ tuổi; trẻ; trẻ trung",
-    "level": "N5"
+    "mean": "trẻ; trẻ tuổi; non nớt",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-読む-N5-40",
     "word": "読む",
     "phonetic": "よむ",
     "mean": "đọc",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-パン-N5-41",
     "word": "パン",
     "phonetic": "パン",
-    "mean": "bánh mì; chảo; cái chảo; bánh mỳ; mạng khu vực cá nhân",
-    "level": "N5"
+    "mean": "bánh mì (← pão/葡)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-南-N5-42",
     "word": "南",
-    "phonetic": "みなみ なん",
-    "mean": "nam; phía nam; phương nam",
-    "level": "N5"
+    "phonetic": "みなみ・なん",
+    "mean": "phía nam",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-新聞-N5-43",
     "word": "新聞",
     "phonetic": "しんぶん",
-    "mean": "báo; tờ báo; nhật báo; tờ báo; báo",
-    "level": "N5"
+    "mean": "báo; tờ báo",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-耳-N5-44",
     "word": "耳",
     "phonetic": "みみ",
-    "mean": "cái tai; tai",
-    "level": "N5"
+    "mean": "tai",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-五-N5-45",
     "word": "五",
-    "phonetic": "いい いつ ご い",
-    "mean": "năm; số 5; năm; năm; năm; số năm",
-    "level": "N5"
+    "phonetic": "ご・いつ",
+    "mean": "số 5; năm",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-カップ-N5-46",
     "word": "カップ",
     "phonetic": "カップ",
-    "mean": "cốc; chén; bát; cúp; cốc; cái cốc",
-    "level": "N5"
+    "mean": "cốc; chén; cúp (← cup/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-妹-N5-47",
     "word": "妹",
-    "phonetic": "いも いもうと",
-    "mean": "em; em gái",
-    "level": "N5"
+    "phonetic": "いもうと",
+    "mean": "em gái",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-テスト-N5-48",
     "word": "テスト",
     "phonetic": "テスト",
-    "mean": "bài kiểm tra; cuộc thí nghiệm; sự kiểm tra; thử; thí nghiệm",
-    "level": "N5"
+    "mean": "bài kiểm tra; sự thử nghiệm (← test/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-大きい-N5-49",
     "word": "大きい",
     "phonetic": "おおきい",
-    "mean": "bự; to lớn; to; lớn",
-    "level": "N5"
+    "mean": "lớn; to",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-使う-N5-0",
     "word": "使う",
     "phonetic": "つかう",
-    "mean": "dụng; sử dụng; dùng; xài",
-    "level": "N5"
+    "mean": "sử dụng; dùng; xài",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-朝-N5-1",
     "word": "朝",
-    "phonetic": "あさ あした ちょう",
-    "mean": "ban sáng; buổi sáng; sáng",
-    "level": "N5"
+    "phonetic": "あさ",
+    "mean": "buổi sáng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-来る-N5-2",
     "word": "来る",
-    "phonetic": "きたる くる",
-    "mean": "đến; tới; tới; sắp tới; tới đây; vào ngày; đến; tới; đang đến gần; trở nên vô dụng; cũ kỹ; già yếu; lẩm cẩm; phải lòng; say mê; si mê; đã và đang; tiếp diễn cho đến nay; duy trì tới tận bây giờ",
-    "level": "N5"
+    "phonetic": "くる",
+    "mean": "đến; tới; sắp tới; sắp đến; trở nên; bắt đầu",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-家族-N5-3",
     "word": "家族",
     "phonetic": "かぞく",
-    "mean": "gia đình; gia quyến; gia tộc; quyến thuộc",
-    "level": "N5"
+    "mean": "gia đình",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-部屋-N5-4",
     "word": "部屋",
-    "phonetic": "へや べや",
-    "mean": "căn buồng; phòng; buồng",
-    "level": "N5"
+    "phonetic": "へや",
+    "mean": "phòng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-英語-N5-5",
     "word": "英語",
     "phonetic": "えいご",
-    "mean": "tiếng anh",
-    "level": "N5"
+    "mean": "tiếng Anh",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-夏-N5-6",
     "word": "夏",
-    "phonetic": "なつ か げ",
-    "mean": "mùa hè; mùa hạ; hạ; nhà hạ; mùa hè",
-    "level": "N5"
+    "phonetic": "なつ",
+    "mean": "mùa hè",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-大学-N5-7",
     "word": "大学",
     "phonetic": "だいがく",
     "mean": "đại học; trường đại học",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-強い-N5-8",
     "word": "強い",
-    "phonetic": "こわい つよい",
-    "mean": "khỏe; mạnh; khoẻ; bền; tốt; bướng bỉnh; ngoan cố; cứng đầu; không chịu khuất phục; cứng; dai; khô; bị sượng; mạnh mẽ; dữ dội; mãnh liệt; cứng nhắc; trang trọng; thô lỗ; gay gắt",
-    "level": "N5"
+    "phonetic": "つよい",
+    "mean": "mạnh; khỏe; bền; cứng; dữ dội",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-質問-N5-9",
     "word": "質問",
     "phonetic": "しつもん",
     "mean": "câu hỏi; chất vấn",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-足-N5-10",
     "word": "足",
-    "phonetic": "あし そく",
-    "mean": "chân",
-    "level": "N5"
+    "phonetic": "あし・そく",
+    "mean": "あし: chân; そく: đơn vị đếm đôi giày, tất",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-毎日-N5-11",
     "word": "毎日",
     "phonetic": "まいにち",
-    "mean": "hàng ngày; mỗi ngày; mọi ngày; ngày ngày; thường ngày",
-    "level": "N5"
+    "mean": "hàng ngày; mỗi ngày",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-はい-N5-12",
     "word": "はい",
     "phonetic": "はい",
-    "mean": "vâng; đúng vậy; được chứ; tôi hiểu rồi",
-    "level": "N5"
+    "mean": "vâng; đúng vậy; được; tôi hiểu rồi",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-音楽-N5-13",
     "word": "音楽",
-    "phonetic": "おんがく おとらく",
-    "mean": "âm nhạc; nhạc; ca nhạc; âm nhạc",
-    "level": "N5"
+    "phonetic": "おんがく",
+    "mean": "âm nhạc",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-大きな-N5-14",
     "word": "大きな",
     "phonetic": "おおきな",
-    "mean": "bự; lớn; to; to lớn",
-    "level": "N5"
+    "mean": "to; lớn",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-病院-N5-15",
     "word": "病院",
     "phonetic": "びょういん",
-    "mean": "nhà thương; sinh bệnh; bệnh viện",
-    "level": "N5"
+    "mean": "bệnh viện",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-結構-N5-16",
     "word": "結構",
     "phonetic": "けっこう",
-    "mean": "kết cấu; cấu trúc; tạm được; tương đối; kha khá; đủ; được; cũng được",
-    "level": "N5"
+    "mean": "tạm được; tương đối; khá; đủ; được",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-犬-N5-17",
     "word": "犬",
-    "phonetic": "いぬ けん",
-    "mean": "cẩu; chó; khuyển",
-    "level": "N5"
+    "phonetic": "いぬ・けん",
+    "mean": "いぬ: chó; けん: khuyển",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-作る-N5-18",
     "word": "作る",
     "phonetic": "つくる",
-    "mean": "chế biến; làm; tạo; sáng tác; xây dựng; nấu",
-    "level": "N5"
+    "mean": "làm; chế biến; nấu; xây dựng; sáng tác",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-海-N5-19",
     "word": "海",
-    "phonetic": "わた み うみ わだ かい",
-    "mean": "bể; bể khơi; biển; bờ biển",
-    "level": "N5"
+    "phonetic": "うみ・かい",
+    "mean": "biển",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-面白い-N5-20",
     "word": "面白い",
     "phonetic": "おもしろい",
-    "mean": "dí dỏm; thú vị; hay; vui tính",
-    "level": "N5"
+    "mean": "thú vị; hay; vui tính",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-千-N5-21",
     "word": "千",
-    "phonetic": "せん ち",
-    "mean": "con số một nghìn; rất nhiều; nghìn",
-    "level": "N5"
+    "phonetic": "せん",
+    "mean": "nghìn; một nghìn",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-じゃあ-N5-22",
     "word": "じゃあ",
     "phonetic": "じゃあ",
-    "mean": "nào; thế thì; thế thì; vậy thì; vậy thì",
-    "level": "N5"
+    "mean": "vậy thì; thế thì",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-近く-N5-23",
     "word": "近く",
     "phonetic": "ちかく",
-    "mean": "cận; gần; ở gần; cạnh; kề; kề bên; ngay cạnh; ngay sát; hàng xóm",
-    "level": "N5"
+    "mean": "gần; ở gần",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-持つ-N5-24",
     "word": "持つ",
     "phonetic": "もつ",
-    "mean": "cầm; nắm; mang; chịu; đảm nhiệm; có; duy trì; khiêng; mang; vác; xách",
-    "level": "N5"
+    "mean": "cầm; nắm; mang; có; duy trì; đảm nhiệm",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ええ-N5-25",
     "word": "ええ",
     "phonetic": "ええ",
-    "mean": "vâng; vâng; dạ; ừ",
-    "level": "N5"
+    "mean": "vâng; dạ; ừ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-嫌-N5-26",
     "word": "嫌",
-    "phonetic": "や いや",
-    "mean": "không thích; ghét; khó chịu; không đâu; ôi không",
-    "level": "N5"
+    "phonetic": "いや・きら",
+    "mean": "いや: không thích, ghét, khó chịu; きら: ghét",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-二十歳-N5-27",
     "word": "二十歳",
-    "phonetic": "はたち にじゅっさい にじっさい はたとせ にじゅうさい",
-    "mean": "đôi mươi; hai mươi tuổi",
-    "level": "N5"
+    "phonetic": "はたち",
+    "mean": "hai mươi tuổi",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-死ぬ-N5-28",
     "word": "死ぬ",
     "phonetic": "しぬ",
-    "mean": "chết; đi đời; lâm chung; qua đời; xuống lỗ",
-    "level": "N5"
+    "mean": "chết",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-本当-N5-29",
     "word": "本当",
-    "phonetic": "ほんと ほんとう",
-    "mean": "sự thật; thật; thật sự; thiệt",
-    "level": "N5"
+    "phonetic": "ほんとう・ほんと",
+    "mean": "sự thật; thật; thật sự",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-多分-N5-30",
     "word": "多分",
     "phonetic": "たぶん",
-    "mean": "đa phần; rất nhiều; rất lớn",
-    "level": "N5"
+    "mean": "có lẽ; phần nhiều",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-難しい-N5-31",
     "word": "難しい",
-    "phonetic": "むずかしい むつかしい",
+    "phonetic": "むずかしい",
     "mean": "khó; khó khăn",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-昨日-N5-32",
     "word": "昨日",
-    "phonetic": "さくじつ きのう",
+    "phonetic": "きのう・さくじつ",
     "mean": "hôm qua",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-猫-N5-33",
     "word": "猫",
-    "phonetic": "ねこ ねこま",
+    "phonetic": "ねこ",
     "mean": "mèo",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-今年-N5-34",
     "word": "今年",
-    "phonetic": "ことし こんねん",
+    "phonetic": "ことし",
     "mean": "năm nay",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-絵-N5-35",
     "word": "絵",
     "phonetic": "え",
     "mean": "bức tranh; tranh; hình ảnh",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-バス-N5-36",
     "word": "バス",
     "phonetic": "バス",
-    "mean": "đàn công-trơ-bas; giọng trầm; giọng nam trầm; sự tắm rửa; sự tắm bồn; xe buýt; ô tô buýt; xe đò; xe buýt",
-    "level": "N5"
+    "mean": "xe buýt (← bus/英); sự tắm bồn (← bath/英); giọng trầm (← bass/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-入る-N5-37",
     "word": "入る",
-    "phonetic": "いる はいる",
-    "mean": "đi vào; vào; bước vào; đi vô; vô",
-    "level": "N5"
+    "phonetic": "はいる",
+    "mean": "đi vào; bước vào",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-百-N5-38",
     "word": "百",
-    "phonetic": "ひゃく もも",
-    "mean": "một trăm; trăm",
-    "level": "N5"
+    "phonetic": "ひゃく",
+    "mean": "một trăm",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-白-N5-39",
     "word": "白",
-    "phonetic": "はく しろ しら",
-    "mean": "bên trắng; màu trắng; vô tội; trong trắng; người da trắng; vật màu trắng; trắng; có màu trắng; để mộc; không gia vị; tươi sống; ở trạng thái tự nhiên; thuần khiết; nguyên chất; đích thực; giả vờ; giả bộ; lừa dối; sự không biết; không liên quan; giả vờ không biết; giả nai; kẻ gian xảo; tên vô lại; kẻ đạo đức giả; không tô điểm; mộc mạc; đơn giản; thẳng thắn; người nghiêm túc; người trung thực; người chân thành",
-    "level": "N5"
+    "phonetic": "しろ・はく",
+    "mean": "しろ: màu trắng; vật màu trắng; vô tội; はく: màu trắng (thường dùng trong từ ghép)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-元気-N5-40",
     "word": "元気",
     "phonetic": "げんき",
-    "mean": "khoẻ; khoẻ mạnh; khoẻ khoắn; sức khoẻ; sự khoẻ mạnh",
-    "level": "N5"
+    "mean": "khỏe; khỏe mạnh",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-服-N5-41",
     "word": "服",
-    "phonetic": "ふく ぶく",
-    "mean": "quần áo; bộ; đồ tang; tang phục; sự để tang; thời gian để tang",
-    "level": "N5"
+    "phonetic": "ふく",
+    "mean": "quần áo; bộ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-勉強-N5-42",
     "word": "勉強",
     "phonetic": "べんきょう",
-    "mean": "việc học hành; sự học hành",
-    "level": "N5"
+    "mean": "học tập; sự học hành",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-お酒-N5-43",
     "word": "お酒",
     "phonetic": "おさけ",
-    "mean": "rượu; rượu sakê",
-    "level": "N5"
+    "mean": "rượu",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-スポーツ-N5-44",
     "word": "スポーツ",
     "phonetic": "スポーツ",
-    "mean": "thể thao",
-    "level": "N5"
+    "mean": "thể thao (← sport/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-楽しい-N5-45",
     "word": "楽しい",
     "phonetic": "たのしい",
-    "mean": "dí dỏm; khoái ý; sướng; vui sướng; vui vẻ; vui nhộn; vui tính; vui; vui vẻ; khoái lạc; sung sướng",
-    "level": "N5"
+    "mean": "vui vẻ; vui nhộn",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-木-N5-46",
     "word": "木",
-    "phonetic": "こ き もく ぎ",
-    "mean": "cây cối; cây; gỗ; mộc; cây; cây cối; cây bụi; gỗ",
-    "level": "N5"
+    "phonetic": "き・もく",
+    "mean": "き: cây; もく: gỗ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-黒-N5-47",
     "word": "黒",
     "phonetic": "くろ",
     "mean": "màu đen; sự có tội",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-買う-N5-48",
     "word": "買う",
     "phonetic": "かう",
-    "mean": "mua; sắm; chuốc lấy; gặp phải; đánh giá cao",
-    "level": "N5"
+    "mean": "mua; chuốc lấy",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-山-N5-49",
     "word": "山",
-    "phonetic": "さん むれ ざん やま",
-    "mean": "núi; ngọn núi; sơn",
-    "level": "N5"
+    "phonetic": "やま・さん",
+    "mean": "やま: núi; さん: núi (thường dùng trong tên riêng)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-悪い-N5-0",
     "word": "悪い",
-    "phonetic": "わるい にくい",
-    "mean": "xấu; không tốt; kém; khó chịu; hỏng; xin lỗi; đáng ghét; đáng hận; căm ghét; đáng nể; tuyệt vời; khéo léo; đáng yêu; khó coi; xấu xí; đáng xấu hổ; ngượng ngùng; áy náy; không đúng mực; khó; khó khăn; vất vả khi làm",
-    "level": "N5"
+    "phonetic": "わるい",
+    "mean": "xấu; không tốt; tồi tệ; có lỗi; xin lỗi",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-店-N5-1",
     "word": "店",
-    "phonetic": "たな てん みせ",
-    "mean": "cửa hàng; cửa hiệu; cơ sở; hiệu buôn; tiệm",
-    "level": "N5"
+    "phonetic": "みせ・てん",
+    "mean": "みせ: cửa hàng; てん: tiệm",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-もっと-N5-2",
     "word": "もっと",
     "phonetic": "もっと",
-    "mean": "nữa; hơn nữa; thêm",
-    "level": "N5"
+    "mean": "hơn; nữa",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-物-N5-3",
     "word": "物",
-    "phonetic": "ぶつ もん もの",
-    "mean": "đồ vật; vật",
-    "level": "N5"
+    "phonetic": "もの・ぶつ",
+    "mean": "もの: đồ vật; ぶつ: vật chất",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-写真-N5-4",
     "word": "写真",
     "phonetic": "しゃしん",
-    "mean": "ảnh; hình ảnh",
-    "level": "N5"
+    "mean": "ảnh; bức ảnh",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-先-N5-5",
     "word": "先",
-    "phonetic": "さき さっき せん",
-    "mean": "đầu mút; điểm đầu; tương lai; trước đây",
-    "level": "N5"
+    "phonetic": "さき・せん",
+    "mean": "さき: đầu mút, phía trước, tương lai, trước đây; せん: trước đây, quá khứ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-違う-N5-6",
     "word": "違う",
-    "phonetic": "ちがう たがう",
-    "mean": "khác; khác nhau; không giống; trái ngược; không phù hợp; lầm lẫn; sai",
-    "level": "N5"
+    "phonetic": "ちがう",
+    "mean": "khác; không giống; sai; nhầm lẫn",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-声-N5-7",
     "word": "声",
-    "phonetic": "こえ しょう ごえ せい",
-    "mean": "tiếng; giọng nói; giọng nói; giọng nói; lời nói; thanh điệu của chữ hán hoặc từ tiếng nhật; dấu thanh dùng ở góc chữ để chỉ cao độ; ngữ điệu; cao độ; cường độ phát âm",
-    "level": "N5"
+    "phonetic": "こえ",
+    "mean": "giọng nói; tiếng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-会社-N5-8",
     "word": "会社",
     "phonetic": "かいしゃ",
-    "mean": "công ty; hãng",
-    "level": "N5"
+    "mean": "công ty",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-十-N5-9",
     "word": "十",
-    "phonetic": "とお じゅう と",
+    "phonetic": "じゅう・とお",
     "mean": "mười",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-少し-N5-10",
     "word": "少し",
     "phonetic": "すこし",
-    "mean": "chút đỉnh; chút ít; hơi; hơi hơi; một chút; một ít; một tí; tí; tí ti; tí tị",
-    "level": "N5"
+    "mean": "một chút; hơi",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-頭-N5-11",
     "word": "頭",
-    "phonetic": "かぶし つむ がしら とう かぶり かしら あたま かぶ つぶり どたま こうべ ず つむり",
-    "mean": "đầu",
-    "level": "N5"
+    "phonetic": "あたま・ず・かしら",
+    "mean": "あたま: cái đầu; ず: cái đầu (thường dùng trong từ ghép); かしら: người đứng đầu, thủ lĩnh",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-子供-N5-12",
     "word": "子供",
-    "phonetic": "ことも こども",
-    "mean": "bé con; bé thơ; con; con nhỏ; con nít; con trẻ; đứa trẻ; hài đồng; thơ ấu; trẻ con; con cái; trẻ em; trẻ nhỏ",
-    "level": "N5"
+    "phonetic": "こども",
+    "mean": "trẻ em; con cái",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-名前-N5-13",
     "word": "名前",
     "phonetic": "なまえ",
-    "mean": "tên; họ tên",
-    "level": "N5"
+    "mean": "tên",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-高い-N5-14",
     "word": "高い",
     "phonetic": "たかい",
-    "mean": "cao; đắt; đắt tiền",
-    "level": "N5"
+    "mean": "cao; đắt",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-下-N5-15",
     "word": "下",
-    "phonetic": "げ か した しも さがる もと",
-    "mean": "dưới; phía dưới; bên dưới; phần dưới; phần sau; tập sau; dưới một trạng thái hoặc điều kiện nhất định; trong một phạm vi nhất định; phần dưới; hướng đi xuống; phần sau; phần tiếp theo; bên dưới; thứ hạng thấp; mức độ thấp; địa vị xã hội thấp; dưới ảnh hưởng của; dưới sự kiểm soát của; thuộc thẩm quyền của; dưới quyền chỉ huy của; cấp dưới của; hậu tố tôn kính dùng sau chức danh của người có địa vị cao; hậu tố dùng sau tên trong thư từ để thể hiện sự tôn trọng; di chuyển từ trên xuống dưới; đi xuống; rơi; đi từ thủ đô về các tỉnh; đi về phía nam; ban cho; ban tặng; treo lơ lửng; rủ xuống; được treo; giảm; rơi; hạ xuống; lùi lại; rút lui; nghỉ hưu; di chuyển về phía nam; phần dưới; gốc; chân; bên cạnh ai đó; cùng với ai đó; gần ai đó; dưới sự cai trị của ai đó; dưới sự giám sát của ai đó; dưới một quy định; trong tình trạng; chỉ với một",
-    "level": "N5"
+    "phonetic": "した・しも・もと・さがる・さげる・くだる・くだす・おろす",
+    "mean": "した: dưới, phía dưới; しも: phần dưới, hạ lưu; もと: gốc, chân, dưới quyền; さがる: hạ xuống, giảm; さげる: treo, hạ xuống; くだる: đi xuống, đi về phía nam; くだす: ban cho, đưa ra quyết định; おろす: hạ xuống, lấy xuống",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-大丈夫-N5-16",
     "word": "大丈夫",
-    "phonetic": "だいじょうぶ だいじょうふ だいじょぶ",
-    "mean": "an toàn; chắc chắn; được; ổn; ok; bậc đại trượng phu; người đàn ông bản lĩnh; anh hùng; người đàn ông hào hiệp",
-    "level": "N5"
+    "phonetic": "だいじょうぶ",
+    "mean": "ổn; không sao; an toàn; chắc chắn",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-一番-N5-17",
     "word": "一番",
-    "phonetic": "いちばん ひとつがい",
-    "mean": "nhất; tốt nhất; số một; đầu tiên; number one; một cặp; một đôi",
-    "level": "N5"
+    "phonetic": "いちばん",
+    "mean": "nhất; tốt nhất; số một; đầu tiên",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-言葉-N5-18",
     "word": "言葉",
-    "phonetic": "ことば けとば",
-    "mean": "câu nói; ngôn ngữ; tiếng nói; lời ăn tiếng nói; từ ngữ; lời nói; lời",
-    "level": "N5"
+    "phonetic": "ことば",
+    "mean": "từ ngữ; ngôn ngữ; lời nói",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-町-N5-19",
     "word": "町",
-    "phonetic": "まち ちょう",
-    "mean": "thị trấn; con phố",
-    "level": "N5"
+    "phonetic": "まち・ちょう",
+    "mean": "まち: thị trấn, con phố; ちょう: khu phố, đơn vị hành chính",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-十日-N5-20",
     "word": "十日",
     "phonetic": "とおか",
-    "mean": "mười ngày; ngày mùng mười; ngày mười",
-    "level": "N5"
+    "mean": "ngày mùng mười; mười ngày",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-映画-N5-21",
     "word": "映画",
     "phonetic": "えいが",
-    "mean": "điện ảnh; phim",
-    "level": "N5"
+    "mean": "phim; điện ảnh",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-始め-N5-22",
     "word": "始め",
     "phonetic": "はじめ",
-    "mean": "lúc đầu; đầu tiên; 開始",
-    "level": "N5"
+    "mean": "lúc đầu; đầu tiên",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-駅-N5-23",
     "word": "駅",
-    "phonetic": "えき うまや",
-    "mean": "ga; nhà ga; dịch trạm; trạm dừng chân cung cấp ngựa; thức ăn và chỗ ở cho quan lại thời xưa",
-    "level": "N5"
+    "phonetic": "えき",
+    "mean": "ga; nhà ga",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-体-N5-24",
     "word": "体",
-    "phonetic": "たい てい からだ",
-    "mean": "cơ thể; thân thể; khối; cơ thể; sức khoẻ; vẻ ngoài; trạng thái; tình trạng; diện mạo bên ngoài; vẻ; bộ dạng; sự giả vờ; hình thức bên ngoài; có vẻ; trạng thái như là; giống như; chẳng hạn như",
-    "level": "N5"
+    "phonetic": "からだ・たい",
+    "mean": "からだ: cơ thể, thân thể, sức khỏe; たい: hình thể, trạng thái, diện mạo",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-水-N5-25",
     "word": "水",
-    "phonetic": "すい み みず",
-    "mean": "nước; vùng sông nước; sông; hồ; chất lỏng; dịch; hiđrô; thứ tư; đá bào siro; thủy; một trong bốn yếu tố; thủy; hành thứ năm trong ngũ hành",
-    "level": "N5"
+    "phonetic": "みず・すい",
+    "mean": "みず: nước; すい: thủy (ngũ hành), thứ tư",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-学校-N5-26",
     "word": "学校",
     "phonetic": "がっこう",
     "mean": "trường học",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-先生-N5-27",
     "word": "先生",
-    "phonetic": "せんしょう せんせい ぜんじょう せんじょう せんせ",
-    "mean": "giáo viên; giảng viên; thầy; ông giáo; ông thầy; thầy giáo; tiên sinh; kiếp trước; tiền kiếp",
-    "level": "N5"
+    "phonetic": "せんせい",
+    "mean": "giáo viên; thầy giáo",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-夜-N5-28",
     "word": "夜",
-    "phonetic": "よ よる や",
-    "mean": "ban tối; buổi tối; đêm; tối; đêm; tối; ban đêm",
-    "level": "N5"
+    "phonetic": "よ・よる",
+    "mean": "đêm; buổi tối",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-全部-N5-29",
     "word": "全部",
     "phonetic": "ぜんぶ",
-    "mean": "cả thảy; hết cả; hết thảy; tất cả; toàn bộ; toàn phần",
-    "level": "N5"
+    "mean": "tất cả; toàn bộ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-テレビ-N5-30",
     "word": "テレビ",
     "phonetic": "テレビ",
-    "mean": "máy tuốc bin; máy vô tuyến truyền hình; ti vi; vô tuyến; truyền hình; vô tuyến truyền hình; tivi",
-    "level": "N5"
+    "mean": "tivi (← television/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-結婚-N5-31",
     "word": "結婚",
     "phonetic": "けっこん",
-    "mean": "cưới xin; đã lập gia đình; đã có chồng; đã có vợ; đã kết hôn; hôn nhân; hôn phối; sự kết hôn; sự lập gia đình; sự lấy chồng; sự lấy vợ; kết hôn; lập gia định; lấy chồng; lấy vợ; có gia đình; cưới; kết hôn",
-    "level": "N5"
+    "mean": "kết hôn; cưới",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-外-N5-32",
     "word": "外",
-    "phonetic": "と よそ ほか がい そと",
-    "mean": "ngoài ra; bên ngoài; ngoài trời; ngoài không gian thoáng đãng; nơi khác; chỗ khác; nơi nào đó khác; bên ngoài ; người ngoài; chuyện không liên quan; việc của người khác; sự thờ ơ; bên ngoài; phía ngoài; khu vực bên ngoài; ngoài trời; bên ngoài tòa nhà; không gian mở; mặt ngoài; bề ngoài; diện mạo bên ngoài; bên ngoài nhà; nơi khác; chỗ khác; người ngoài; người từ nhóm khác; người không liên quan; thế giới bên ngoài; xã hội; đời sống công cộng; nho giáo",
-    "level": "N5"
+    "phonetic": "そと・ほか・がい",
+    "mean": "そと: bên ngoài, ngoài trời; ほか: ngoài ra, nơi khác, người ngoài; がい: bên ngoài, ngoại (trong từ ghép)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-初めて-N5-33",
     "word": "初めて",
     "phonetic": "はじめて",
     "mean": "lần đầu tiên; mới",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-友達-N5-34",
     "word": "友達",
-    "phonetic": "ともだち ともたち",
-    "mean": "bạn; bạn bè; bè bạn; người bạn",
-    "level": "N5"
+    "phonetic": "ともだち",
+    "mean": "bạn bè",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-色-N5-35",
     "word": "色",
-    "phonetic": "いろ しょく しき",
-    "mean": "màu; mầu; sắc; màu sắc; màu; sắc; sắc thái; khuynh hướng; đặc điểm; vẻ; màu sắc; sắc thái; tông màu; sắc mặt; vẻ mặt; thần sắc; nhan sắc; vẻ đẹp; sức quyến rũ của phụ nữ; sắc dục; dục vọng; chuyện chăn gối; dáng vẻ; trạng thái; tình hình; bầu không khí",
-    "level": "N5"
+    "phonetic": "いろ・しょく",
+    "mean": "màu sắc; sắc thái; nhan sắc; sắc dục",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-一つ-N5-36",
     "word": "一つ",
     "phonetic": "ひとつ",
     "mean": "một",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-新しい-N5-37",
     "word": "新しい",
     "phonetic": "あたらしい",
-    "mean": "mới; mới mẻ",
-    "level": "N5"
+    "mean": "mới",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-女の子-N5-38",
     "word": "女の子",
-    "phonetic": "めのこ おんなのこ",
+    "phonetic": "おんなのこ",
     "mean": "cô gái; cô bé",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-二十日-N5-39",
     "word": "二十日",
-    "phonetic": "はつか にじゅうにち",
+    "phonetic": "はつか",
     "mean": "ngày hai mươi; hai mươi ngày",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-出る-N5-40",
     "word": "出る",
     "phonetic": "でる",
-    "mean": "đi ra; ngoi; xuất hiện; đi ra khỏi",
-    "level": "N5"
+    "mean": "đi ra; xuất hiện; rời khỏi",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-大変-N5-41",
     "word": "大変",
     "phonetic": "たいへん",
-    "mean": "chết rồi; không xong rồi; kinh khủng quá.v.v..; kinh khủng; ghê gớm; mệt mỏi; khó khăn; vất vả; quá; vô cùng; rất",
-    "level": "N5"
+    "mean": "vất vả; khó khăn; rất; vô cùng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-風-N5-42",
     "word": "風",
-    "phonetic": "ふう かぜ ふり",
-    "mean": "phong cách; phương thức; kiểu; gió; vung; lắc; chuyển động; hành vi; hành động; cử chỉ; cách cư xử; giả vờ; ra vẻ; vẻ bề ngoài; khách vãng lai; khách không hẹn trước; tạm thời; lâm thời; ngẫu nhiên; động tác múa; vũ đạo; điệu bộ trong múa truyền thống nhật bản; phần tay áo kimono phụ nữ để hở dưới nách; lời dẫn dắt; phần mở đầu; lời giới thiệu; phong cách thơ waka; thể thơ; phong cách hát; giai điệu; cách luyến láy; sự lệch hàng; sự cong vênh; sự xiên xẹo; xoay xở tiền bạc; sắp xếp tài chính; không mặc khố hoặc váy lót; để trần từ thắt lưng trở xuống; áo kimono dài tay; geisha học việc trẻ tuổi; lần vung; thanh",
-    "level": "N5"
+    "phonetic": "かぜ・ふ",
+    "mean": "かぜ: gió; ふう: phong cách, kiểu, vẻ bề ngoài",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-道-N5-43",
     "word": "道",
-    "phonetic": "どう みち ち",
-    "mean": "con đường; con phố; đạo; đường; đường đi; lĩnh vực; phương tiện; cách thức",
-    "level": "N5"
+    "phonetic": "どう・みち",
+    "mean": "đường; con đường; đạo; lĩnh vực",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-電話-N5-44",
     "word": "電話",
     "phonetic": "でんわ",
-    "mean": "điện thoại; máy điện thoại",
-    "level": "N5"
+    "mean": "điện thoại",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-お金-N5-45",
     "word": "お金",
     "phonetic": "おかね",
-    "mean": "tiền; của cải",
-    "level": "N5"
+    "mean": "tiền",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-花-N5-46",
     "word": "花",
-    "phonetic": "はな ばな",
-    "mean": "bông hoa; đóa hoa; hoa; huê",
-    "level": "N5"
+    "phonetic": "はな",
+    "mean": "hoa",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-明日-N5-47",
     "word": "明日",
-    "phonetic": "あす みょうにち あした",
-    "mean": "bữa hôm sau; bữa sau; ngày hôm sau; ngày mai",
-    "level": "N5"
+    "phonetic": "あした・みょうにち",
+    "mean": "ngày mai",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-ニュース-N5-48",
     "word": "ニュース",
     "phonetic": "ニュース",
-    "mean": "tin tức; thông tin mới; bản tin; thời sự",
-    "level": "N5"
+    "mean": "tin tức (← news/英)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-口-N5-49",
     "word": "口",
-    "phonetic": "く こう くち ぐち",
-    "mean": "cửa; miệng; chỗ cho vào; chỗ ra vào; mồm; miệng; mỏ; miệng; lời nói",
-    "level": "N5"
+    "phonetic": "くち・こう・ぐち",
+    "mean": "miệng; cửa ra vào; lời nói",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-人-N5-0",
     "word": "人",
-    "phonetic": "と ひと にん たり り じん びと",
-    "mean": "con người; nhân loại; người; người khác; người ta; tôi; người ta; vợ gọi chồng; người; con người; người; nhân vật; tính cách; người phụ trách; người thực hiện hành động; đơn vị đếm người; người; con người; nhân loại; nhân tạo; bậc thứ ba trong hệ thống phân loại ba cấp; người thuộc quốc tịch; vùng miền hoặc nghề nghiệp nhất định",
-    "level": "N5"
+    "phonetic": "ひと・じん・にん",
+    "mean": "con người; người; nhân viên; người khác; người tài",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-年-N5-1",
     "word": "年",
-    "phonetic": "ねん とせ とし どし",
-    "mean": "năm; tuổi; năm tháng",
-    "level": "N5"
+    "phonetic": "ねん・とし",
+    "mean": "năm; tuổi",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-中-N5-2",
     "word": "中",
-    "phonetic": "ちゅう なか じゅう",
-    "mean": "bên trong; trong; giữa; trong khi; trong lúc; trung bình; cỡ vừa; trung quốc; trong lúc; trong; suốt; khắp; toàn",
-    "level": "N5"
+    "phonetic": "ちゅう・なか",
+    "mean": "bên trong; trong; giữa; trung bình; cỡ vừa",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-でも-N5-3",
     "word": "でも",
     "phonetic": "でも",
-    "mean": "nhưng; tuy nhiên; tuy nhiên",
-    "level": "N5"
+    "mean": "nhưng; tuy nhiên",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-何-N5-4",
     "word": "何",
-    "phonetic": "なん なに",
-    "mean": "cái gì",
-    "level": "N5"
+    "phonetic": "なん・なに",
+    "mean": "gì; cái gì",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-私-N5-5",
     "word": "私",
-    "phonetic": "わたくし あたい あたし わて わっし あて わっち わい わちき わたい わし わたし あたくし あっし し わらわ",
-    "mean": "tôi",
-    "level": "N5"
+    "phonetic": "わたし・わたくし",
+    "mean": "tôi, mình",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-一-N5-6",
     "word": "一",
-    "phonetic": "ひとつ ひと はじめ いつ ひい ひ いっち いち イー",
-    "mean": "một; sự bắt đầu; lúc khởi đầu; khởi điểm; đầu tiên; ban đầu; sự trùng khớp; sự đồng ý; sự thống nhất; sự phù hợp; sự tuân thủ; tính nhất quán; sự hài hòa; nhất; tốt nhất; số một",
-    "level": "N5"
+    "phonetic": "いち・ひと",
+    "mean": "một; đầu tiên; nhất",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-今-N5-7",
     "word": "今",
-    "phonetic": "ま こん いま",
-    "mean": "bây giờ; thêm; nữa; vẫn; còn; thêm một lần nữa; hiện tại; nay; này; hôm nay; này; bây giờ; hiện tại; kon; lần này; này",
-    "level": "N5"
+    "phonetic": "いま",
+    "mean": "bây giờ; hiện tại; nay",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-方-N5-8",
     "word": "方",
-    "phonetic": "ほう がた さま へ ざま かた",
-    "mean": "phương diện; phương hướng; phía; phương; hậu tố số nhiều dùng cho người một cách kính trọng; khoảng; tầm; vào lúc; một phía; người thuộc về một phía cụ thể; người phụ trách một nhiệm vụ hoặc vai trò cụ thể; khoảng; xấp xỉ; trạng thái; diện mạo; tình trạng; tình hình; dáng vẻ; hình dáng; hình thức; vẻ ngoài chỉnh tề; phương pháp; phương thức; cách thức; lý do; hoàn cảnh; câu chuyện; phong cách; thiết kế; vẻ ngoài; hậu tố kính ngữ dùng cho người; tên hoặc chức danh; hậu tố lịch sự thêm vào danh từ hoặc tính từ để bày tỏ lòng biết ơn hoặc sự đồng cảm; hướng; phía; ngay lúc; trong khi; khi; cách thức hành động; cách làm; ngài; quý khách; người đó; vùng lân cận; nơi gần đây; hướng; bờ biển; bãi biển; ven biển; hậu tố chỉ hướng hoặc khu vực chung; hậu tố chỉ thời gian hoặc giai đoạn xấp xỉ; hướng; về một phía nhất định; ngay lúc; trong khi; cách thức di chuyển; trạng thái của hành động; hướng; phía; phương hướng; sự giải quyết; kết cục; sự kết thúc của một vấn đề; thời điểm; thời kỳ; mùa; vị; người; phương pháp; cách thức; phương tiện; một bên của một cặp; một nhóm người; lĩnh vực; khía cạnh; mối quan hệ; trạng thái; diện mạo; tình trạng; cách làm; phương pháp; cách thức; việc thực hiện; chuyển cho; gửi tại nhà của; vị; một phía; người thuộc về một phía; người phụ trách một nhiệm vụ; nhân viên; điều phối viên; khoảng; xấp xỉ; đại khái; hướng; về phía",
-    "level": "N5"
+    "phonetic": "ほう・かた・がた",
+    "mean": "ほう: hướng, phía, phương diện; かた: cách thức, phương pháp, người; がた: các (hậu tố số nhiều chỉ người)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-自分-N5-9",
     "word": "自分",
     "phonetic": "じぶん",
-    "mean": "bản thân mình; tự mình",
-    "level": "N5"
+    "mean": "bản thân; tự mình",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-より-N5-10",
     "word": "より",
     "phonetic": "より",
-    "mean": "hơn; kém; không bằng",
-    "level": "N5"
+    "mean": "hơn",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-前-N5-11",
     "word": "前",
-    "phonetic": "ぜん さき まえ",
-    "mean": "đằng trước; phần đầu; phần trước; trước đây",
-    "level": "N5"
+    "phonetic": "まえ・ぜん",
+    "mean": "mae: trước, đằng trước, trước đây; zen: phần trước, phía trước",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-一人-N5-12",
     "word": "一人",
-    "phonetic": "ひとり いちにん いちじん",
+    "phonetic": "ひとり",
     "mean": "một người",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-時間-N5-13",
     "word": "時間",
     "phonetic": "じかん",
-    "mean": "giờ đồng hồ; giờ giấc; thì giờ; thời buổi; thời điểm; thời giờ; tiếng đồng hồ; thời gian; giờ",
-    "level": "N5"
+    "mean": "thời gian; giờ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-もう-N5-14",
     "word": "もう",
     "phonetic": "もう",
     "mean": "đã; rồi",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-目-N5-15",
     "word": "目",
-    "phonetic": "め もく ま",
-    "mean": "con mắt; mắt; mắt; nhãn cầu; nhìn; ra hiệu bằng mắt; mục; đề mục; danh sách; mục lục; bộ; điểm trọng yếu; mục tiêu chính; người lãnh đạo; người đứng đầu; thủ lĩnh; giao điểm trên bàn cờ vây; sakan; đơn vị đếm điểm trong cờ vây",
-    "level": "N5"
+    "phonetic": "め・もく",
+    "mean": "め: mắt; もく: mục lục, mục",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-一日-N5-16",
     "word": "一日",
-    "phonetic": "ひとひ つきたち いちじつ いちにち ついたち いっぴ ひとえ",
-    "mean": "ngày mồng 1; mùng một; ngày đầu tháng; đầu tháng; mười ngày đầu của tháng; một lớp; đơn lớp",
-    "level": "N5"
+    "phonetic": "いちにち・ついたち",
+    "mean": "いちにち: một ngày; ついたち: ngày mồng một",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-話-N5-17",
     "word": "話",
-    "phonetic": "はなし わ ばなし",
-    "mean": "câu chuyện; sự nói chuyện; sự hội thoại; nói chuyện; trò chuyện; đàm thoại; câu chuyện; chương; hồi; truyện kể; từ ngữ; ngôn ngữ; lời nói",
-    "level": "N5"
+    "phonetic": "はなし・ばなし",
+    "mean": "câu chuyện; trò chuyện",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-家-N5-18",
     "word": "家",
-    "phonetic": "いえ うち",
-    "mean": "nhà; nhà cửa; gia đình; gia tộc; nhà; nhà cửa; chỗ ở; gia đình; gia tộc; hộ gia đình; các thành viên trong gia đình; tước hiệu tôn xưng cho quan chức cao cấp hoặc gia tộc",
-    "level": "N5"
+    "phonetic": "いえ・うち",
+    "mean": "nhà; nhà cửa; gia đình",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-後-N5-19",
     "word": "後",
-    "phonetic": "あと ご しり のち うしろ しりえ こう",
-    "mean": "sau đó; sau khi; kể từ đó; trong tương lai",
-    "level": "N5"
+    "phonetic": "あと・のち・うしろ・こう・ご",
+    "mean": "あと: sau, sau đó, phía sau; のち: sau, sau này; うしろ: phía sau, đằng sau; こう・ご: sau, hậu (trong từ ghép)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-好き-N5-20",
     "word": "好き",
-    "phonetic": "すき ずき",
-    "mean": "sự thích; yêu; quý; mến; thích; ưa; chuộng; người yêu thích; người say mê; được lòng; có duyên; thu hút; hấp dẫn",
-    "level": "N5"
+    "phonetic": "すき",
+    "mean": "thích; yêu; quý; mến",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-二-N5-21",
     "word": "二",
-    "phonetic": "に ふう ふ ふた リャン アル",
+    "phonetic": "に",
     "mean": "hai; số hai",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-上-N5-22",
     "word": "上",
-    "phonetic": "うえ うわ かみ かり じょう",
-    "mean": "hơn nữa; hơn tuổi; già hơn; người có địa vị cao quý; nơi cao quý; trên; phía trên; bên ngoài; bề mặt; cao cấp; thượng; thượng nguồn; phía thượng lưu; lúc đầu; thời kỳ đầu; thời xưa; nửa đầu; mười ngày đầu tháng; thượng tuần; phần đầu; tập đầu; phần trước; ba câu đầu của thơ tanka; phần trên; phía trên; mặt trên; nửa thân trên; ghế danh dự; vị trí trang trọng; đầu bàn; phòng trong; phòng khách; phía bên phải sân khấu; thiên hoàng; đức vua; bệ hạ; cấp trên; người bề trên; người có địa vị cao; chính quyền; nhà chức trách; giới cầm quyền; bà chủ nhà; phu nhân; vợ người khác; kinh đô; kyoto và vùng lân cận; phía bắc kyoto; vùng gần kinh đô; chất lượng cao; sự ưu tú; tuyệt hảo; người lớn tuổi hơn; bậc tiền bối; chủ nhân; người đứng đầu; sếp; nâng tông; tăng cao độ; chất lượng cao; hạng nhất; cao cấp; tập đầu; quyển thượng; thanh thượng; lời đề tặng trên quà cáp; về mặt; xét về; trên phương diện",
-    "level": "N5"
+    "phonetic": "うえ・かみ・じょう",
+    "mean": "うえ: phía trên, bên trên, bề mặt, cấp trên, hơn; かみ: thượng nguồn, bề trên, thủ đô; じょう: trên (phương diện), cao cấp, thượng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-万-N5-23",
     "word": "万",
-    "phonetic": "よろず まん ばん",
-    "mean": "vạn; vô số; mười nghìn; 1 vạn; tất cả; mọi thứ; vạn; vô số; tất cả; mọi thứ; hoàn toàn; tuyệt đối; trọn vẹn; nhất định; chắc chắn; trường hợp khẩn cấp",
-    "level": "N5"
+    "phonetic": "まん・ばん",
+    "mean": "mười nghìn; vạn; vô số; tất cả; hoàn toàn",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-本-N5-24",
     "word": "本",
-    "phonetic": "もと ほん ぼん ぽん",
-    "mean": "sách; sách vở; kịch bản; khuôn mẫu; kiểu mẫu; mẫu; gốc; nguồn gốc; gốc rễ; căn cốt; nền tảng; thật; thật sự; gốc; rễ; nguồn gốc; căn nguyên; vốn; chi phí ban đầu; nguyên liệu; cây; lần này; này; nay; hôm nay; đương nhiệm; đảm nhiệm dịp này; phụ trách lần này; cây; que; thỏi; chai; lon; đoàn tàu; bộ; đòn",
-    "level": "N5"
+    "phonetic": "ほん",
+    "mean": "sách; sách vở; gốc; nguồn gốc; vốn; cơ sở",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-他-N5-25",
     "word": "他",
-    "phonetic": "ほか た あだ",
-    "mean": "ngoài; khác; người khác; lạ; xa lạ; thay lòng đổi dạ; không chung thủy; phù phiếm; nông nổi; dễ thay đổi",
-    "level": "N5"
+    "phonetic": "ほか・た",
+    "mean": "khác; ngoài; người khác",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-誰-N5-26",
     "word": "誰",
-    "phonetic": "たれ だあれ た だれ",
+    "phonetic": "だれ",
     "mean": "ai",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-二人-N5-27",
     "word": "二人",
-    "phonetic": "ふたり ににん",
+    "phonetic": "ふたり",
     "mean": "hai người",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-仕事-N5-28",
     "word": "仕事",
     "phonetic": "しごと",
-    "mean": "công việc; sự làm việc; sự tác nghiệp; sự thực hiện; sự làm ; sự hành động; sự bày trò; sự giở thủ đoạn; thành tựu; thành quả; kết quả; công việc may vá; việc may vá; công; công của lực",
-    "level": "N5"
+    "mean": "công việc",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-言う-N5-29",
     "word": "言う",
-    "phonetic": "いう ゆう",
+    "phonetic": "いう",
     "mean": "nói",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-二日-N5-30",
     "word": "二日",
     "phonetic": "ふつか",
-    "mean": "ngày mùng hai",
-    "level": "N5"
+    "mean": "ngày mùng 2; 2 ngày",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-こんな-N5-31",
     "word": "こんな",
     "phonetic": "こんな",
     "mean": "như thế này",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-問題-N5-32",
     "word": "問題",
     "phonetic": "もんだい",
     "mean": "vấn đề",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-同じ-N5-33",
     "word": "同じ",
-    "phonetic": "おなじ おんなじ",
-    "mean": "bằng nhau; sự giống nhau; sự giống; giống nhau; cùng; giống",
-    "level": "N5"
+    "phonetic": "おなじ",
+    "mean": "giống nhau; cùng",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-手-N5-34",
     "word": "手",
-    "phonetic": "て た しゅ",
-    "mean": "bàn tay; tay; tay ; cánh tay; tay; cánh tay; làm bằng tay; thủ công; kỹ năng; kỹ thuật; năng lực; người đảm nhận vai trò hoặc công việc cụ thể; người biểu diễn; người chơi",
-    "level": "N5"
+    "phonetic": "て・しゅ",
+    "mean": "て: bàn tay, cánh tay; thủ công, kỹ năng; người; しゅ: tay (trong từ ghép)",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-三-N5-35",
     "word": "三",
-    "phonetic": "み みい さん",
+    "phonetic": "さん",
     "mean": "ba",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-国-N5-36",
     "word": "国",
-    "phonetic": "くに こく",
-    "mean": "đất nước; quốc gia; quê nhà; quốc gia; đất nước; nhà nước; xứ; tỉnh",
-    "level": "N5"
+    "phonetic": "くに・こく",
+    "mean": "đất nước; quốc gia; quê nhà",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-今日-N5-37",
     "word": "今日",
-    "phonetic": "きょう こんにち",
-    "mean": "ngày nay",
-    "level": "N5"
+    "phonetic": "きょう",
+    "mean": "hôm nay",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-車-N5-38",
     "word": "車",
-    "phonetic": "しゃ くるま",
-    "mean": "bánh xe; mô tô; ô tô; xe; xe cộ; xe hơi; xe chở hàng; xe ô-tô",
-    "level": "N5"
+    "phonetic": "くるま・しゃ",
+    "mean": "xe; ô tô",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-多い-N5-39",
     "word": "多い",
     "phonetic": "おおい",
-    "mean": "bộn; nhiều",
-    "level": "N5"
+    "mean": "nhiều",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-男-N5-40",
     "word": "男",
-    "phonetic": "おのこ なん お おっこ だん おとこ",
-    "mean": "đàn ông; người đàn ông; nam; trai; đàn ông; nam giới; phái nam",
-    "level": "N5"
+    "phonetic": "おとこ",
+    "mean": "đàn ông; nam giới",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-三日-N5-41",
     "word": "三日",
-    "phonetic": "さんか さんにち みっか",
+    "phonetic": "みっか",
     "mean": "ba ngày; ngày mùng ba",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-女-N5-42",
     "word": "女",
-    "phonetic": "なんじ おうな じょ め おみな おんな おなご おな",
-    "mean": "phụ nữ; con gái; cô gái; đàn bà; nữ; con gái; nữ giới; phụ nữ; phái nữ; phụ nữ; phái nữ; quý bà; cô gái; sao nữ; dùng sau tên hoặc bút danh của phụ nữ; phái nữ; phụ nữ; vợ; nhân tình; bạn đời; cái; mái; giống cái; vật nhỏ hơn hoặc có tính nữ hơn trong một cặp; phụ nữ; cô gái; phái nữ",
-    "level": "N5"
+    "phonetic": "おんな・じょ",
+    "mean": "おんな: phụ nữ, con gái, đàn bà; じょ: nữ, phái nữ",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-次-N5-43",
     "word": "次",
-    "phonetic": "つぎ じ",
-    "mean": "lần sau; sau đây; tiếp đến; tiếp theo; kế tiếp; thứ hai; thứ tự; trình tự; sự nối tiếp; trên đường đi; dọc đường; giữa chặng đường; lần; lượt; hồi; nơi ở; chỗ trọ; nơi dừng chân; vị trí của sao; vị trí thiên thể; hypo-; bậc; cấp",
-    "level": "N5"
+    "phonetic": "つぎ",
+    "mean": "tiếp theo; sau; lần sau",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-行く-N5-44",
     "word": "行く",
-    "phonetic": "いく ゆく",
+    "phonetic": "いく",
     "mean": "đi",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-あのう-N5-45",
     "word": "あのう",
     "phonetic": "あのう",
-    "mean": "à à...; xin lỗi; này",
-    "level": "N5"
+    "mean": "à, ừ thì...",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-欲しい-N5-46",
     "word": "欲しい",
     "phonetic": "ほしい",
     "mean": "muốn; mong muốn",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-見る-N5-47",
     "word": "見る",
     "phonetic": "みる",
-    "mean": "coi; ngắm; ngó; nhìn thấy; nhìn xem; nhìn; xem; nhòm; nhòm ngó",
-    "level": "N5"
+    "mean": "nhìn; xem; trông",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-意味-N5-48",
     "word": "意味",
     "phonetic": "いみ",
     "mean": "ý nghĩa; nghĩa",
-    "level": "N5"
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-一緒-N5-49",
     "word": "一緒",
     "phonetic": "いっしょ",
-    "mean": "cùng; cùng nhau; sự giống như vậy",
-    "level": "N5"
+    "mean": "cùng; cùng nhau",
+    "level": "N5",
+    "improved": true
   },
   {
     "id": "card-すっと-N4-0",
