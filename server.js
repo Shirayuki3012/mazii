@@ -44,13 +44,20 @@ function createStableCardId(card, index) {
 function createCardReference(card, index) {
   const id = normalizeWord(card.id || '') || createStableCardId(card, index);
 
-  return {
+  const ref = {
     id,
     word: normalizeWord(card.word),
     phonetic: normalizeWord(card.phonetic),
     mean: normalizeWord(card.mean),
     level: normalizeWord(card.level).toUpperCase()
   };
+
+  // Giữ lại field improved nếu có (dùng bởi improve-cards.js)
+  if (card.improved === true) {
+    ref.improved = true;
+  }
+
+  return ref;
 }
 
 initializeCards();
@@ -87,7 +94,15 @@ function readCards() {
 
     const normalized = parsed.map((card, index) => createCardReference(card, index));
 
-    const shouldWrite = JSON.stringify(normalized) !== raw;
+    // Chỉ ghi lại nếu thực sự có card nào thay đổi (tránh xóa mất các field extra như improved)
+    const shouldWrite = normalized.some((card, i) => {
+      const orig = parsed[i];
+      return card.id !== orig.id ||
+        card.word !== orig.word ||
+        card.phonetic !== orig.phonetic ||
+        card.mean !== orig.mean ||
+        card.level !== orig.level;
+    });
     if (shouldWrite) {
       fs.writeFileSync(CARDS_FILE, JSON.stringify(normalized, null, 2));
     }
