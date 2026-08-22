@@ -878,6 +878,8 @@ function showCurrentCard() {
     if (cardIndex) cardIndex.textContent = '0/0';
     if (flashcard) flashcard.classList.remove('is-flipped');
     if (progressBar) progressBar.style.width = '0%';
+    document.getElementById('word-type-badge')?.classList.add('hidden');
+    document.getElementById('back-word-type')?.classList.add('hidden');
     return;
   }
 
@@ -897,6 +899,26 @@ function showCurrentCard() {
   if (mean) mean.textContent = card.mean;
   if (cardLevel) cardLevel.textContent = card.level;
   if (backLevel) backLevel.textContent = `Level ${card.level}`;
+
+  // Hiển thị loại từ
+  const wordTypeBadge = document.getElementById('word-type-badge');
+  const backWordType = document.getElementById('back-word-type');
+  if (wordTypeBadge) {
+    if (card.wordType) {
+      wordTypeBadge.textContent = card.wordType;
+      wordTypeBadge.classList.remove('hidden');
+    } else {
+      wordTypeBadge.classList.add('hidden');
+    }
+  }
+  if (backWordType) {
+    if (card.wordType) {
+      backWordType.textContent = card.wordType;
+      backWordType.classList.remove('hidden');
+    } else {
+      backWordType.classList.add('hidden');
+    }
+  }
 
   const total = Math.max(state.currentCards.length, 1);
   const indexDisplay = state.currentCards.length ? `${state.currentIndex + 1}/${total}` : '0/0';

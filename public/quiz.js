@@ -83,7 +83,7 @@ async function probeKanjiServerViaSimilar() {
 
   if (!response.ok) {
     throw createKanjiServerError(
-      data.message || 'Kanji server không khả dụng. Chạy: python kanji_server.py'
+      data.message || 'Không lấy được dữ liệu kanji tương đồng.'
     );
   }
 }
@@ -101,14 +101,14 @@ async function checkKanjiServer() {
 
     if (!response.ok || !data.available) {
       throw createKanjiServerError(
-        data.message || 'Kanji server không khả dụng. Chạy: python kanji_server.py'
+        data.message || 'Không lấy được dữ liệu kanji tương đồng.'
       );
     }
   } catch (error) {
     if (error.isKanjiServerError) {
       throw error;
     }
-    throw createKanjiServerError('Không kết nối được kanji server. Chạy: python kanji_server.py');
+    throw createKanjiServerError('Không kết nối được kanji server.');
   }
 }
 
@@ -124,7 +124,7 @@ async function fetchSimilarKanji(kanji, count = 3) {
 
     if (!response.ok) {
       throw createKanjiServerError(
-        data.message || 'Kanji server không khả dụng. Chạy: python kanji_server.py'
+        data.message || 'Không lấy được dữ liệu kanji tương đồng.'
       );
     }
 
@@ -133,7 +133,7 @@ async function fetchSimilarKanji(kanji, count = 3) {
     if (error.isKanjiServerError) {
       throw error;
     }
-    throw createKanjiServerError('Không kết nối được kanji server. Chạy: python kanji_server.py');
+    throw createKanjiServerError('Không kết nối được kanji server.');
   }
 }
 

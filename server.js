@@ -6,10 +6,10 @@ const XLSX = require('xlsx');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-const KANJI_SERVER_URL = process.env.KANJI_SERVER_URL || 'http://localhost:3001';
 const DATA_DIR = path.join(__dirname, 'data');
 const CARDS_FILE = path.join(DATA_DIR, 'cards.json');
 const PROGRESS_FILE = path.join(DATA_DIR, 'progress.json');
+const CACHE_FILE = path.join(DATA_DIR, 'cache.json');
 const UPLOADS_DIR = path.join(__dirname, 'uploads');
 
 app.use(express.json());
@@ -55,6 +55,11 @@ function createCardReference(card, index) {
   // Giữ lại field improved nếu có (dùng bởi improve-cards.js)
   if (card.improved === true) {
     ref.improved = true;
+  }
+
+  // Giữ lại field wordType nếu có (dùng bởi add-word-type.js)
+  if (card.wordType) {
+    ref.wordType = normalizeWord(card.wordType);
   }
 
   return ref;
@@ -415,54 +420,76 @@ app.post('/api/import', multer({ dest: UPLOADS_DIR }).array('excelFile', 50), (r
   }
 });
 
+// ─── Kanji similarity (cache-only, không cần Python server) ──────────────────
+
+let kanjiCache = null;
+
+function loadKanjiCache() {
+  if (kanjiCache !== null) return kanjiCache;
+  try {
+    if (!fs.existsSync(CACHE_FILE)) {
+      kanjiCache = {};
+      return kanjiCache;
+    }
+    kanjiCache = JSON.parse(fs.readFileSync(CACHE_FILE, 'utf8'));
+  } catch (e) {
+    console.error('Không đọc được cache.json:', e.message);
+    kanjiCache = {};
+  }
+  return kanjiCache;
+}
+
+// Xóa cache in-memory khi file thay đổi (script build-kanji-cache.js có thể update)
+fs.watchFile(CACHE_FILE, { interval: 5000 }, () => {
+  kanjiCache = null;
+});
+
+app.get('/api/kanji-health', (req, res) => {
+  const cache = loadKanjiCache();
+  res.json({
+    available: true,
+    status: 'ok',
+    mode: 'cache-only',
+    cache_count: Object.keys(cache).length
+  });
+});
+
+app.post('/api/similar-kanji', (req, res) => {
+  const payload = req.body || {};
+  const query = String(payload.kanji || '').trim();
+  const count = Math.max(0, parseInt(payload.count, 10) || 3);
+
+  if (!query) {
+    return res.status(400).json({ message: 'Thiếu tham số kanji.' });
+  }
+  if (query.length !== 1) {
+    return res.status(400).json({ message: 'Kanji phải là một ký tự.' });
+  }
+
+  const cache = loadKanjiCache();
+  const all = cache[query] || [];
+
+  // Lấy ngẫu nhiên `count` phần tử từ danh sách cache
+  const pool = [...all];
+  const sample = [];
+  while (sample.length < count && pool.length > 0) {
+    const idx = Math.floor(Math.random() * pool.length);
+    sample.push(pool.splice(idx, 1)[0]);
+  }
+
+  res.json({
+    kanji: query,
+    count: sample.length,
+    similar: sample,
+    cached: query in cache,
+    mode: 'cache-only'
+  });
+});
+
+// ─── Routes ──────────────────────────────────────────────────────────────────
+
 app.get('/api/health', (req, res) => {
   res.json({ status: 'ok' });
-});
-
-app.get('/api/kanji-health', async (req, res) => {
-  try {
-    const response = await fetch(`${KANJI_SERVER_URL}/api/health`, {
-      signal: AbortSignal.timeout(3000)
-    });
-
-    if (!response.ok) {
-      return res.status(502).json({
-        available: false,
-        message: 'Kanji server không phản hồi.'
-      });
-    }
-
-    const data = await response.json();
-    res.json({
-      available: true,
-      status: data.status,
-      kanji_count: data.kanji_count,
-      cache_count: data.cache_count
-    });
-  } catch (error) {
-    console.error('Kanji server health check failed:', error);
-    res.status(502).json({
-      available: false,
-      message: 'Kanji server không khả dụng. Chạy: python kanji_server.py'
-    });
-  }
-});
-
-app.post('/api/similar-kanji', async (req, res) => {
-  try {
-    const response = await fetch(`${KANJI_SERVER_URL}/api/similar`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(req.body),
-      signal: AbortSignal.timeout(30000)
-    });
-
-    const data = await response.json();
-    res.status(response.status).json(data);
-  } catch (error) {
-    console.error('Kanji server error:', error);
-    res.status(502).json({ message: 'Kanji server không khả dụng. Chạy: python kanji_server.py' });
-  }
 });
 
 app.get('/', (req, res) => {

@@ -563,6 +563,13 @@ h1 {
   margin-bottom: 10px;
 }
 
+.card-topbar-left {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
 .level-badge {
   display: inline-flex;
   align-items: center;
@@ -571,6 +578,24 @@ h1 {
   background: var(--primary-soft);
   color: var(--primary-dark);
   font-weight: 800;
+}
+
+.word-type-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 12px;
+  border-radius: 99px;
+  background: var(--warning-soft);
+  color: var(--warning);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  border: 1px solid #f0d97a;
+}
+
+.back-meta .word-type-badge {
+  font-size: 12px;
+  padding: 4px 10px;
 }
 
 .card-index {
@@ -667,7 +692,10 @@ h1 {
 .back-meta {
   margin-top: 16px;
   display: flex;
-  gap: 12px;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
   color: var(--text-soft);
   font-size: 12px;
 }
