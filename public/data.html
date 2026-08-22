@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="/static/styles.css" />
 </head>
 <body>
-  <div class="app-shell">
+  <div class="app-shell data-shell">
     <aside class="sidebar">
       <div class="brand">
         <div class="brand-icon">あ</div>
@@ -125,5 +125,66 @@
   </div>
 
   <script src="/static/app.js"></script>
+  <script src="/static/tour.js"></script>
+  <script>
+    window.addEventListener('DOMContentLoaded', () => {
+      Tour.start([
+        {
+          target: null,
+          position: 'center',
+          title: 'Quản lý dữ liệu',
+          content: `
+            <p>Trang này cho phép bạn <strong>nhập từ vựng mới</strong> từ file Excel và <strong>chỉnh sửa / xóa</strong> các từ hiện có.</p>
+          `
+        },
+        {
+          target: '.import-card',
+          position: 'right',
+          padding: 8,
+          title: 'Nhập từ vựng từ Excel',
+          content: `
+            <p>File Excel cần có đúng <strong>3 cột</strong>:</p>
+            <ul style="margin:8px 0 0 16px;padding:0;display:flex;flex-direction:column;gap:4px">
+              <li><strong>word</strong> — từ tiếng Nhật</li>
+              <li><strong>phonetic</strong> — cách đọc (hiragana/romaji)</li>
+              <li><strong>mean</strong> — nghĩa tiếng Việt</li>
+            </ul>
+            <p style="margin-top:8px">Có thể chọn <strong>nhiều file cùng lúc</strong>.</p>
+          `
+        },
+        {
+          target: '#import-level',
+          position: 'right',
+          title: 'Cấp độ mặc định',
+          content: `
+            <p>Nếu file Excel không có cột <strong>level</strong>, tất cả từ sẽ được gán cấp độ này.</p>
+          `
+        },
+        {
+          target: '#duplicate-action',
+          position: 'right',
+          title: 'Xử lý từ trùng lặp',
+          content: `
+            <p>Khi nhập file có từ đã tồn tại:</p>
+            <ul style="margin:8px 0 0 16px;padding:0;display:flex;flex-direction:column;gap:4px">
+              <li><strong>Hỏi trước</strong> — xem danh sách rồi quyết định</li>
+              <li><strong>Ghi đè</strong> — cập nhật dữ liệu cũ</li>
+              <li><strong>Bỏ qua</strong> — giữ nguyên dữ liệu cũ</li>
+            </ul>
+          `
+        },
+        {
+          target: '.table-card',
+          position: 'left',
+          padding: 8,
+          title: 'Danh sách từ hiện có',
+          content: `
+            <p>Xem, lọc theo cấp độ, và <strong>sửa / xóa</strong> từng từ trực tiếp trong bảng.</p>
+            <p>Bấm <strong>Sửa</strong> để chỉnh nội dung ngay tại dòng đó mà không cần tải lại trang.</p>
+          `
+        }
+      ], 'data');
+    });
+  </script>
 </body>
 </html>

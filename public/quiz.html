@@ -101,5 +101,112 @@
   </div>
 
   <script src="/static/quiz.js"></script>
+  <script src="/static/tour.js"></script>
+  <script>
+    window.addEventListener('DOMContentLoaded', () => {
+      // Helpers để mô phỏng trạng thái "đang quiz" cho tour
+      function showQuizAreaForTour() {
+        const area = document.getElementById('quiz-area');
+        const start = document.getElementById('quiz-start-screen');
+        if (area && area.classList.contains('hidden')) {
+          area._hiddenByTour = true;
+          area.classList.remove('hidden');
+          start._hiddenByTour = true;
+          start.classList.add('hidden');
+
+          // Đổ nội dung mẫu vào để bước có kích thước thực
+          const word = document.getElementById('quiz-word');
+          const phonetic = document.getElementById('quiz-phonetic');
+          const meaning = document.getElementById('quiz-meaning');
+          const options = document.getElementById('quiz-options');
+          if (word && !word.textContent) {
+            word.textContent = '□語';
+            phonetic.textContent = 'げんご';
+            meaning.textContent = 'ngôn ngữ';
+            options.innerHTML = ['語','言','話','字'].map(k =>
+              `<button class="quiz-option-button" disabled>${k}</button>`
+            ).join('');
+          }
+        }
+      }
+
+      function hideQuizAreaForTour() {
+        const area = document.getElementById('quiz-area');
+        const start = document.getElementById('quiz-start-screen');
+        if (area && area._hiddenByTour) {
+          area.classList.add('hidden');
+          area._hiddenByTour = false;
+        }
+        if (start && start._hiddenByTour) {
+          start.classList.remove('hidden');
+          start._hiddenByTour = false;
+        }
+      }
+
+      Tour.start([
+        {
+          target: null,
+          position: 'center',
+          title: 'Quiz Kanji',
+          content: `
+            <p>Kiểm tra khả năng nhận diện kanji bằng bài quiz điền vào chỗ trống.</p>
+            <p>Mỗi câu hỏi sẽ ẩn <strong>một kanji</strong> trong từ — bạn chọn đáp án đúng trong 4 lựa chọn.</p>
+          `
+        },
+        {
+          target: '#level-list',
+          position: 'right',
+          title: 'Chọn cấp độ quiz',
+          content: `
+            <p>Bấm để bật/tắt từng cấp độ N5→N1.</p>
+            <p>Quiz chỉ dùng từ có <strong>ít nhất 1 kanji</strong> — từ thuần hiragana sẽ bị bỏ qua.</p>
+          `
+        },
+        {
+          target: '#quiz-start-screen',
+          position: 'top',
+          title: 'Bắt đầu quiz',
+          content: `
+            <p>Bấm <strong>Bắt đầu học</strong> để tạo bộ câu hỏi.</p>
+            <p>Câu hỏi được tạo dần — bạn có thể trả lời ngay khi câu đầu tiên xuất hiện trong khi các câu sau vẫn đang được tạo.</p>
+          `
+        },
+        {
+          target: '#quiz-card',
+          position: 'bottom',
+          before: showQuizAreaForTour,
+          title: 'Câu hỏi quiz',
+          content: `
+            <p>Từ hiển thị với <strong>□</strong> thay cho kanji bị ẩn.</p>
+            <p>Phía dưới có phiên âm và nghĩa tiếng Việt để gợi ý.</p>
+          `
+        },
+        {
+          target: '#quiz-options',
+          position: 'top',
+          title: 'Chọn đáp án',
+          content: `
+            <p>Bấm vào một trong 4 kanji để trả lời.</p>
+            <ul style="margin:8px 0 0 16px;padding:0;display:flex;flex-direction:column;gap:4px">
+              <li><span style="color:var(--primary);font-weight:700">Xanh</span> — đúng</li>
+              <li><span style="color:var(--danger);font-weight:700">Đỏ</span> — sai, đồng thời hiện đáp án đúng</li>
+            </ul>
+            <p style="margin-top:8px">Tự động chuyển câu tiếp theo sau <strong>3 giây</strong>.</p>
+          `
+        }
+      ], 'quiz', { onFinish: hideQuizAreaForTour });
+
+      // Khi tour kết thúc (finish được gọi), dọn dẹp trạng thái mô phỏng
+      const _origFinish = Tour.finish;
+      document.addEventListener('tourfinish', hideQuizAreaForTour);
+
+      // Patch Tour.finish để emit event
+      const origFinish = Tour.finish;
+      Tour.finish = function() {
+        hideQuizAreaForTour();
+        origFinish();
+      };
+    });
+  </script>
 </body>
 </html>

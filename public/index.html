@@ -154,5 +154,97 @@
   </div>
 
   <script src="/static/app.js"></script>
+  <script src="/static/tour.js"></script>
+  <script>
+    window.addEventListener('DOMContentLoaded', () => {
+      Tour.start([
+        {
+          target: null,
+          position: 'center',
+          title: 'Chào mừng đến với JLPT Flashcards!',
+          content: `
+            <p>Ứng dụng giúp bạn học từ vựng tiếng Nhật theo phương pháp flashcard.</p>
+            <p>Hướng dẫn ngắn này sẽ giới thiệu các tính năng chính — chỉ mất khoảng <strong>1 phút</strong>.</p>
+          `
+        },
+        {
+          target: '.sidebar',
+          position: 'right',
+          padding: 0,
+          title: 'Thanh điều hướng',
+          content: `
+            <p>Toàn bộ điều khiển nằm ở đây:</p>
+            <ul style="margin:8px 0 0 16px;padding:0;display:flex;flex-direction:column;gap:4px">
+              <li><strong>Cấp độ</strong> — chọn N5→N1 để lọc bộ từ</li>
+              <li><strong>Bộ từ</strong> — lọc theo trạng thái học</li>
+              <li><strong>Điều hướng</strong> — chuyển sang Quiz hoặc Data</li>
+            </ul>
+          `
+        },
+        {
+          target: '#level-list',
+          position: 'right',
+          title: 'Chọn cấp độ',
+          content: `
+            <p>Bấm vào từng nút để <strong>bật/tắt</strong> cấp độ đó.</p>
+            <p>Có thể chọn nhiều cấp độ cùng lúc. Số bên phải là tổng từ của cấp đó.</p>
+          `
+        },
+        {
+          target: '.filter-list',
+          position: 'right',
+          title: 'Lọc bộ từ',
+          content: `
+            <p>Chọn tập flashcard bạn muốn ôn:</p>
+            <ul style="margin:8px 0 0 16px;padding:0;display:flex;flex-direction:column;gap:4px">
+              <li><strong>Toàn bộ</strong> — học tất cả từ đã chọn</li>
+              <li><strong>Chưa thuộc</strong> — tập trung vào từ yếu</li>
+              <li><strong>Chưa đánh dấu</strong> — từ chưa học lần nào</li>
+            </ul>
+          `
+        },
+        {
+          target: '.stats-row',
+          position: 'bottom',
+          title: 'Thống kê tiến độ',
+          content: `
+            <p>Theo dõi quá trình học theo thời gian thực.</p>
+            <p>Tiến độ được <strong>tự động lưu</strong> sau mỗi lần đánh dấu.</p>
+          `
+        },
+        {
+          target: '#flashcard-button',
+          position: 'top',
+          title: 'Flashcard',
+          content: `
+            <p><strong>Bấm vào card</strong> hoặc nhấn <kbd>Space</kbd> để lật xem mặt sau.</p>
+            <p>Mặt sau hiển thị từ, cách đọc, nghĩa và loại từ.</p>
+          `
+        },
+        {
+          target: '.flashcard-actions',
+          position: 'top',
+          title: 'Đánh dấu mức độ thuộc',
+          content: `
+            <p>Sau khi xem mặt sau, hãy tự đánh giá:</p>
+            <ul style="margin:8px 0 0 16px;padding:0;display:flex;flex-direction:column;gap:4px">
+              <li><strong>↑ Đã thuộc</strong> — hoặc nhấn <kbd>↑</kbd></li>
+              <li><strong>↓ Chưa thuộc</strong> — hoặc nhấn <kbd>↓</kbd></li>
+              <li><strong>Tra cứu</strong> — mở Mazii.net để xem chi tiết</li>
+            </ul>
+          `
+        },
+        {
+          target: '.flashcard-frame',
+          position: 'bottom',
+          title: 'Điều hướng card',
+          content: `
+            <p>Dùng nút <strong>← →</strong> hoặc phím <kbd>←</kbd> <kbd>→</kbd> để chuyển card.</p>
+            <p>Bấm <strong>Xáo trộn</strong> ở góc trên phải để đổi thứ tự ngẫu nhiên.</p>
+          `
+        }
+      ], 'flashcard');
+    });
+  </script>
 </body>
 </html>
